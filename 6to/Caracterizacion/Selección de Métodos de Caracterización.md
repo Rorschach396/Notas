@@ -66,3 +66,7 @@ Los principales errores que se suelen tener a la hora de seleccionar las técnic
 - Sobre interpretación de los resultados: Se puede llegar a confundir una contaminación con un añadido 
 - No considerar la estadística: Nomás ver una pequeña parte del material
 - Ignorar las limitaciones instrumentales: Cosas que no pueden hacer los equipos 
+
+Actualmente se pueden utilizar técnicas correlativas, donde se utilizan múltiples técnicas en la misma zona; automatización con IA; caracterización in situ; técnicas de sincrotrón; caracterización en condiciones reales (celdas electrolíticas y reactores catalíticos). 
+
+La combinación poderosa es la SEM con EDS 
