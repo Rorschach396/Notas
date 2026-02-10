@@ -26,3 +26,5 @@ Clúster: Conjunto de átomos, moléculas o nanopartículas que están unidos en
 Coloide: dispersión de partículas en un medio líquido (las partículas deben de ser a tamaño nanométrico), este tipo de mezclas tienen propiedades diferentes. 
 
 ==Tarea: Ventajas y desventajas de la nanotecnología==
+
+==Nanoestructuras deben de tener una repetición, mientras que la nanopartículas no tienen que estar repetidas.== 
