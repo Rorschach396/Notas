@@ -35,3 +35,33 @@ Las limitaciones de tamaño para el empaquetamiento: los sólidos iónicos const
 	- Compuesto con más de un catión, donde A y B representan dos tipos de cationes 
 	- También es conocido como peroskita 
 ![[imagenceramicos2.jpeg]]
+
+Cuando se habla de los cerámicos es bastante importante considerar el radio iónico debido a que cambia mucho el tamaño de los átomos; normalmente el más grande es el anión y el más pequeño es el catión.  Debido al acomodo de los átomos se puede generar huecos donde se pueden acomodar los átomos (normalmente cationes por el tamaño), estos huecos pueden ser tetraédricos y octaédricos. 
+
+Normalmente los intersticios tetraédricos se encuentran presentes en silicatos (como el vidrio) y estos presentan un mayor carácter covalente, por lo que cuesta más poder fundirlo y es mucho más frágil. Las cerámicas de sílice incluyen: 
+- Sílice  
+- Vidrios de sílice 
+- Silicatos 
+La sílice se encuentra hecha de dióxido de silicio o sílice, este tiene 3 formas cristalinas : cuarzo, cristobalita y tridimita. A pesar de que existen estructuras cristalinas también se puede encontrar de forma no cristalina. También se pueden ver: 
+- Silicatos simples: Presenta tetraedros aislados y tienen una estructura simple. 
+- Silicatos laminares: Presentan estructuras 2D de capas o láminas compartiendo iones de oxigeno en cada uno de sus tetraedros. La carga negativa está asociada a los átomos de oxígeno no enlazados. 
+
+Existen los estabilizantes de red que son aditivos que permiten compensar las cargas parciales que quedan presentes en el cerámico, normalmente son iones metálicos. 
+
+# Carbono
+El carbono se encuentra presente en casi todo, está presente en diferentes estructuras como las siguientes: 
+
+- Diamante: Polimorfo metaestable de carbono a temperatura y presión normal, puede llegar a tener impurezas como germanio, silicio y estaño. Es extremadamente duro y tiene baja conductividad y normalmente utilizado para desbastar otros materiales. 
+- Grafito: Tiene una estructura cristalina hexagonal en forma de capas, presenta un enlace covalente entre las capas (Van Der Waals), es un buen conductor eléctrico y buena resistencia térmica a altas temperaturas. Tiene baja dilatación térmica y alta resistencia al choque térmico.
+- Fullerenos: Moléculas de carbono puro que pueden adoptar diferentes geométricas, son muy versátiles por que se pueden sintetizar de diferentes formas, tienen características muy importantes en diferentes materias. 
+
+# Imperfecciones de las Cerámicas
+## Defectos puntuales 
+
+- Catión intersticial 
+- Vacante catiónica 
+- Vacante aniónica 
+- Defecto Schottky: Desaparece un catión o un anión 
+- Defecto Frenkel: Catión-anión se mueve de posición normal a intersticial
+- Átomo intersticial impuro 
+- Iones sustitucionales impuros 

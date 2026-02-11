@@ -17,4 +17,3 @@ Las principales aplicaciones son las siguientes:
 
 A pesar de tener mucho rango de aplicaciones, la principal limitación de esta técnica es la preparación de la muestra (debido a que requiere una gran cantidad de preparación) y la cantidad de muestra. 
 
-aruizbaltazar
