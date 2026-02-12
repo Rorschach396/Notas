@@ -35,3 +35,4 @@ d = \text{ diametro de la fibra} \\
 \end{gather}
 $$
 
+Regla de las mezclas 
