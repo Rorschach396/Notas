@@ -42,3 +42,23 @@ $$
 $$
 # Estructura cúbica
 ![[Cubica.png]]
+
+En este caso se tiene un plano en una estructura cúbica, para poder obtener el índice de Miller de esta estructura se tiene que seguir los siguientes pasos: 
+
+1) Encontrar la intersección del plano con los ejes. 
+2) Obtener el reciproco del resultado anterior 
+3) Simplificar las fracciones 
+
+En este caso, se puede ver que el plano "corta" los ejes en el valor de 1 (en caso de que el plano no "cortara" los ejes, se considera un valor infinito), dando así los siguientes valores: 
+
+
+|     | Valor | Reciproco |
+| --- | ----- | --------- |
+| X   | 1     | 1         |
+| Y   | 1     | 1         |
+| Z   | 1     | 1         |
+Al tener estos valores podemos expresar el plano de la siguiente forma: 
+
+$$
+(111)
+$$
