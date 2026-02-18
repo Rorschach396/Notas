@@ -9,4 +9,4 @@ En este articulo se centra en la caracterización de $Ti_{2}Se$ (específicament
 - Difracción de rayos X (DRX): Fue descartado debido a que la muestra tenía varias fases, lo que complico bastante su estudio. 
 - Microscopía electronica de alta resolución: Esta sirvió para poder identificar ciertas fases presentes (en específico $Ti_{45}Se_{16}$), pero debido a que los cristales que se encontraron de la fase $\beta$ eran muy pequeños, no se pudo utilizar esta técnica. 
 
-Para poder utilizar la técnica de SAED se molieron los pequeños cristales y se colocaron en un Philips CM30/ST que operaba a 300 kV. Los datos que 
+Para poder utilizar la técnica de SAED se molieron los pequeños cristales y se colocaron en un Philips CM30/ST que operaba a 300 kV. Los datos que se obtuvieron se contrastaron en función de los ejes en los que se tomaron, además de que se consideraron ciertos datos que se calcularon previamente como los parámetros de la celda (a = 17.9, b = 3.5 y c = 9.5 $\mathring{A}$ ). 
