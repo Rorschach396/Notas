@@ -20,3 +20,8 @@ Las nanopartículas están en SUSPENCIÓN no SOLUCIÓN.
 
 ==Las reacciones catalíticas normalmente se dan en las superficies==
 
+Potencial químico en función de la curvatura de la superficie: 
+
+$$
+\infty-\infty = 0?
+$$
