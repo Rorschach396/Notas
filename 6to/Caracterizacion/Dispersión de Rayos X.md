@@ -15,3 +15,16 @@ Hay ciertos planos que están permitidos dependiendo de la estructura. Una de la
 $$
 n\lambda = 2d \sin(\theta)
 $$
+Hay ciertas reflexiones que no están permitidas, estas son reflexiones que son posibles según la ley de Bragg pero que no se presentan en la dispersión de rayos x, esto debido a la interferencia destructiva. 
+
+$$
+F_{hkl} = \sum_{j=1}^{N} f_{j}e^{2\pi i(hx_{j}+ky_{j}lz_{j})}
+$$
+
+Donde: 
+- N numero de átomos en la celda unitaria 
+- $f_j$ es el factor de dispersion atómica del átomo j 
+- $x_j,y_j,z_j$ son las coordenadas fraccionarias del átomo j dentro de la celda 
+- h,k,l son los indices de muller de la familia de planos considerada 
+- Si $F_{hkl} = 0$ la reflexión esta prohibida 
+
