@@ -3,7 +3,7 @@ En este escrito se analizaran 2 diferentes métodos de síntesis de nanopartícu
 
 | Artículo                                                                                                                                                      | Link                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| Green Synthesis of Silver Nanoparticles in the Presence ofPolysaccharide: Optimization and Characterization                                                   | [https://doi.org/10.1155/2020/3051308Digital Object Identifier (DOI)](https://doi.org/10.1155/2020/3051308) |
+| Green Synthesis of Silver Nanoparticles in the Presence of Polysaccharide: Optimization and Characterization                                                  | [https://doi.org/10.1155/2020/3051308Digital Object Identifier (DOI)](https://doi.org/10.1155/2020/3051308) |
 | Synthesis of silver nanoparticles using a<br>modified Tollens’ method in conjunction<br>with phytochemicals and assessment of<br>their antimicrobial activity | [https://doi.org/10.7717/peerj.6413](https://doi.org/10.7717/peerj.6413)                                    |
 
 ## Método de Tollens
@@ -18,3 +18,7 @@ En este caso de esta síntesis un extracto de hojas (hojas de olivo y de romero)
 ![[Pasted image 20260218225046.png]]
 
 ## Síntesis en presencia de polisacáridos
+
+En el paper *Green Synthesis of Silver Nanoparticles in the Presence of Polysaccharide: Optimization and Characterization* se sintetizaron AgNPs que tienen la siguiente morfología, donde se ve que son partículas más separadas y más simétricas, estas presentan una morfología menos "regular" (formas menos simétricas) pero tienden a separarse más fácilmente.  
+![[Pasted image 20260226101058.png]]
+
