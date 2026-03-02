@@ -53,7 +53,3 @@ Dividir los mercados:
 - productos atractivos 
 - a quien va dirigida la licuadora 
 - características físicas 
-
-$$
-2
-$$
