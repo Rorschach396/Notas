@@ -84,3 +84,17 @@ Se tiene que considerar la siguiente ecuación:
 $$
 \beta_{hkl} \cos(\theta) = \frac{KY}{D} + 4\sin(\theta)\left( \frac{2u}{Y_{hkl}} \right)^{1/2}
 $$
+### Método de Size-Strain Plot 
+
+Es util cuando el ensanchamiento es isotrópico similar entre todas las direcciones. Da más peso a los picos de ángulos bajos , que suelen medirse con más precisión. Asume que el perfil de ensanchamiento por tamaño tiene una forma Lorentzian. 
+
+$$
+(d_{hkl}\beta_{hkl}\cos(\theta))^2 = \frac{K}{D} (d_{hkl}^2\beta_{hkl}^2)\cos(\theta) + \left( \frac{\epsilon}{2} \right)^2
+$$
+
+## Algunas Guías 
+![[Clase W-H ejemplo.pdf]]
+
+![[Microstructural evaluation of CoAl2O4 nanoparticles by Williamson Hall and size strain plot methods.pdf]]
+
+
