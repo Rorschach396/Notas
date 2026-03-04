@@ -9,3 +9,8 @@
 | Vaso            | $180 MXN                | Contiene el vaso, tapa, empaque y cuchillas             | 1 - 3 meses              | https://besthelg.com/product/vaso-licuadora-man-cristal-21316-f/                                                                                                      |
 | Patitas         | $6.18 MXN               | Patitas agujeradas                                      | 2 meses                  | https://rosan.com.mx/refacciones/1797-pata-de-licuadora-.html                                                                                                         |
 | Acople          | $7.68 MXN               | Conector roscado para la licuadora                      | 1 - 4 semanas            | https://www.denek.com/detalles_producto/0/MDcyMjg1/072285/CUADRO+LICUADORA+OSTERIZER+CUBE+Y+XPERT+ALTO+GENERICO/                                                      |
+
+Encargado de proveedores: yo 
+
+- Buscar minima 3 proveedores para cada pieza, principalmente en México 
+- Buscar la 
