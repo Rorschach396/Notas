@@ -21,7 +21,7 @@ Adulterio
 | Vicio deficiente     | Chido                          | Pasado de burguer        |
 | -------------------- | ------------------------------ | ------------------------ |
 | Cobardía             | valentía                       | Temerarios               |
-| Inbsensibles         | Templanza                      | Desenfreno               |
+| Insensibles          | Templanza                      | Desenfreno               |
 | Avaricia             | Liberalidad                    | Prodigalidad             |
 | Falta de gusto       | Magnificencia                  | Mezquindad               |
 | Indiferente al honor | Desear el honor (no en exceso) | Ambición                 |
@@ -36,4 +36,6 @@ Adulterio
 
 
 ética del cuidado ?? 
+
+
 
