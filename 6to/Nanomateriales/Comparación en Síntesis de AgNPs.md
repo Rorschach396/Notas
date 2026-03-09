@@ -19,6 +19,33 @@ En este caso de esta síntesis un extracto de hojas (hojas de olivo y de romero)
 
 ## Síntesis en presencia de polisacáridos
 
-En el paper *Green Synthesis of Silver Nanoparticles in the Presence of Polysaccharide: Optimization and Characterization* se sintetizaron AgNPs que tienen la siguiente morfología, donde se ve que son partículas más separadas y más simétricas, estas presentan una morfología menos "regular" (formas menos simétricas) pero tienden a separarse más fácilmente.  
+En el paper *Green Synthesis of Silver Nanoparticles in the Presence of Polysaccharide: Optimization and Characterization* se sintetizaron AgNPs utilizando alginato de sodio, el cual se reaccionó con nitrato de plata para poder formar un reactivo conjunto. Este reactivo se procesó con ayuda de plasma frio para así obtener las nanopartículas. 
 ![[Pasted image 20260226101058.png]]
+
+
+## Principales Diferencias 
+
+En el caso de la síntesis utilizando alginato de sodio se pudo ver que a mayores concentraciones de iones de plata y un mayor tiempo de exposición al plasma se obtenía una diferente absorción, esto generando las siguientes gráficas: 
+![[Pasted image 20260308183015.png]]
+
+Donde: 
+- A = 0.3 mmol/L 
+- B = 0.5 mmol/L 
+- C = 0.1 mmol/L 
+- D = 3.0 mmol/L 
+
+A partir de esta información se puede ver que a aproximadamente los 40-60 segundos se tiene la mayor concentración de nanopartículas de plata en solución, pasado ese tiempo empieza a disminuir la concentración. Esto se puede ver en las siguientes gráficas: 
+![[Pasted image 20260308183401.png]]
+
+En el caso del método de Tollens, se vio que a una mayor concentración de extracto de hojas se obtenía una mejor absorción, lo que generó que se utilizaran altas concentraciones para poder estudiar como afecta la temperatura al procedimiento. 
+![[Pasted image 20260308183948.png]]
+
+En el caso de la temperatura se vio que esta reacción solo es viable si se lleva a altas temperaturas, estas temperaturas en el estudio fueron de 80°C y lograron obtener los siguientes patrones de absorción: 
+
+![[Pasted image 20260308184111.png]]
+
+En ambos casos la temperatura más alta logra dar una mayor absorción. 
+
+En el caso del pH, en el uso de extractos de hojas de olivo no se tuvo una gran variación de absorción, pero se tuvo una variación. En el caso de la síntesis con extracto de hojas de romero si se tuvo una variación notable si se lleva a cabo en un pH ácido. 
+![[Pasted image 20260308184406.png]]
 
