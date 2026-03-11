@@ -7,7 +7,6 @@
 | Tornillos       | $0.4715 MXN             | Tornillo galvanizado de 3x10                            | 2 semanas                | https://eltornillo.com.mx/tienda-en-linea/catalogo/tornillos-varios/tornillo-cabeza-queso-ranurado-mm-galvanizado-3x10                                                |
 | Patitas         | $6.18 MXN               | Patitas agujeradas                                      | 2 meses                  | https://rosan.com.mx/refacciones/1797-pata-de-licuadora-.html                                                                                                         |
 | Acople          | $7.68 MXN               | Conector roscado para la licuadora                      | 1 - 4 semanas            | https://www.denek.com/detalles_producto/0/MDcyMjg1/072285/CUADRO+LICUADORA+OSTERIZER+CUBE+Y+XPERT+ALTO+GENERICO/                                                      |
-| Potenciometro   |                         |                                                         |                          |                                                                                                                                                                       |
 
 Se tienen 3 opciones: 
 
