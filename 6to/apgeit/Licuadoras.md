@@ -10,6 +10,10 @@
 | Vaso                  | $ 398 MXN               | No tiene descuento por unidades                         | 4 semanas                | https://anforama.com/products/vaso-vidrio-original-1250lt-licuadora-oster                                                                                             |
 | Interruptor giratorio | $130.50 MXN             | No tiene descuento por cantidad                         | 1-3 meses                | https://www.grainger.com.mx/producto/approved-vendor-interruptor-giratorio-conexiones-5/p/2vlr8?searchAnalytics=true&analytics=searchResults                          |
 | Interruptor giratorio | $114.6 MXN              | Tiene descuento por cantidad (+500 $76.19 MNX)          | 2-4 días                 | https://mexico.newark.com/eaton-moeller/t0-5-15139-ez/rotary-switch-2p-5pos-20a-690vac/dp/85AK3290                                                                    |
+| Cable eléctrico       | $1393 MXN               | 100 metros de cable doble                               | 2-3 semanas              | https://surtekstore.com/inicio/833-cable-electrico-pot-2-x-16-100-m-color-blanco-surtek.html                                                                          |
+| Cable eléctrico       | $2246.47 MXN            | 100 metros de cable doble con una resistencia de 600 V  | 1-2 meses                | https://tamex.mx/producto/caja-de-cable-calibre-10-kobrex-vinikob-ls-105-thw-ls-thhw-ls-ct-sr-rohs-600v-rojo/                                                         |
+| Vaso                  |                         |                                                         |                          |                                                                                                                                                                       |
+| Motor                 | $ 615.70 MXN            | No hay descuento por cantidad                           | 4-6 meses                | https://mercantildelhogar.mx/products/motor-para-licuadora-mediano-2-puntas-blancas-oster-original                                                                    |
 
 Se tienen 3 opciones: 
 
