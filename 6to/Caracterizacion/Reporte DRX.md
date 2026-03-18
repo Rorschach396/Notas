@@ -31,3 +31,19 @@ En el caso del sulfato de calcio solo se tuvo que cambiar ligeramente la forma e
 En este caso, se lograron obtener que, en el caso del sulfato de cobre, la unica fase presente es la chalcantita, mientras que en el caso del sulfato de calcio se obtuvo que la fase que se encuentra presente es yeso (sulfato de cobre di hidratado); estos resultados pueden ser debatidos en el caso del sulfato de cobre debido a que los valores obtenidos siguen siendo relativamente altos, pero a pesar de esto se puede argumentar que la relación que se tiene entre los picos más altos de la tarjeta de relación y el difracto grama coinciden bastante bien. 
 
 ![[Pasted image 20260316203024.png]]
+
+En el caso de estos datos, se realizó el procedimiento de Williamson-Hall para poder calcular el tamaño de cristal y los esfuerzos de la muestra, para poder conseguirlo se decidió utilizar el software de Origin para poder extraer los picos y de esta forma poder analizarlos posteriormente en otro software para poder obtener las gráficas y las ecuaciones de tendencia. En este caso se lograron obtener los siguientes resultados: 
+
+
+| Sulfato de Cobre Recristalizado      | Sulfato de Cobre                     | Sulfato de Calcio                    |
+| ------------------------------------ | ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20260317225006.png]] | ![[Pasted image 20260317225021.png]] | ![[Pasted image 20260317225041.png]] |
+
+Estos resultados permitieron obtener los siguientes resultados: 
+
+
+|                         | Sulfato de cobre recristalizado | Sulfato de cobre | Sulfato de calcio |
+| ----------------------- | ------------------------------- | ---------------- | ----------------- |
+| Tamaño de cristal       | 26.0045 nm                      | 14.5297 nm       | 469.84 nm         |
+| Esfuerzos de la muestra |                                 |                  |                   |
+Estos resultados se lograron obtener gracias a que se tiene una identificación de picos característicos de los patrones de difracción de rayos x; es importante que solo se seleccionen los picos característicos del patrón de difracción, ya que si no se tendrá una cantidad excesiva de ruido que generará una alteración en el resultado. 
