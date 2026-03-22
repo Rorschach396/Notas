@@ -54,3 +54,11 @@ Estos resultados se lograron obtener gracias a que se tiene una identificación 
 | 00-901-4405 | Triclínico         | P-1            | 6.12; 10.7; 5.97  <br>82.27; 107.43; 102.67 | Chalcantita |
 |             |                    |                |                                             |             |
 |             |                    |                |                                             |             |
+$$
+\begin{gather}
+\frac{(0.94)(1.5406\times10^{-10}\text{ m})}{0.271}= 5.3437 ~
+\overset{\circ}{\mathrm{A}} \\
+(76.86\times10^9\text{ Pa})(0.185) = 14.2191~\text{GPa}
+\end{gather}
+
+$$
