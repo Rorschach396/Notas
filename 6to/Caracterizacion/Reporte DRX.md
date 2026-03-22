@@ -47,3 +47,10 @@ Estos resultados permitieron obtener los siguientes resultados:
 | Tamaño de cristal       | 26.0045 nm                      | 14.5297 nm       | 469.84 nm         |
 | Esfuerzos de la muestra |                                 |                  |                   |
 Estos resultados se lograron obtener gracias a que se tiene una identificación de picos característicos de los patrones de difracción de rayos x; es importante que solo se seleccionen los picos característicos del patrón de difracción, ya que si no se tendrá una cantidad excesiva de ruido que generará una alteración en el resultado. 
+
+
+| Tarjeta     | Sistema Cristalino | Grupo Espacial | Parámetros de celda                         | Nombre      |
+| ----------- | ------------------ | -------------- | ------------------------------------------- | ----------- |
+| 00-901-4405 | Triclínico         | P-1            | 6.12; 10.7; 5.97  <br>82.27; 107.43; 102.67 | Chalcantita |
+|             |                    |                |                                             |             |
+|             |                    |                |                                             |             |
