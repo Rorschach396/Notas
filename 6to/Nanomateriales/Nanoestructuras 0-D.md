@@ -10,3 +10,11 @@ Para que una núcleo empiece a crecer se requieren seguir varios pasos, entre lo
 3) Adsorción de la especie en la superficie de forma irreversible 
 4) Crecimiento de la superficie 
 
+# Síntesis de Nanopartículas Metálicas
+Reducción de complejos metálicos en una solución es el método general para poder obtener nanopartículas en una dispersión coloidal. Gracias a que las sales tienden a disociarse a la hora de entrar en contacto con el agua esto permite poder realizar reacciones de óxido reducción para poder obtener las nanopartículas. 
+
+Para poder obtener una nanopartícula presente de un determinado metal se puede hacer uso de una concentración muy baja de una determinada sal y aparte agregar una monocapa polimérica. Lo más común para poder hacer nanopartículas de plata se suele utilizar el ácido cloro áurico y para nanopartículas de plata se utiliza nitrato de plata.  El reductor más eficiente o más efectivo es el hidrógeno, pero se pueden utilizar otros compuestos para poder obtener el mismo resultado. Para las nanopartículas de oro normalmente se utilizan ácidos orgánicos débiles (ácido cítrico o ácido ascórbico). 
+
+Para realizar nanopartículas normalmente se utiliza la reacción de Turkevich. Dependiendo de la temperatura que se utilice se puede cambiar el tamaño de las partículas, pero si se reduce la temperatura también cambia la cantidad de oro que va a reaccionar, no importa cuanto se baje la temperatura nunca se va a poder obtener un tamaño más pequeño que el radio crítico. Dependiendo de la cantidad de núcleos que se formen desde un inicio se puede obtener una diferente dispersión de tamaños. Las partículas obtenidas por el método de Turkevich se pueden utilizar como núcleos o para modificar la morfología de otras partículas. 
+
+
