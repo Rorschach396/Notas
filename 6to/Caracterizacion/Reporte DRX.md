@@ -53,13 +53,13 @@ Para las siguientes muestras solo se trabajo dentro de Profex debido a que se lo
 
 En este caso se obtuvieron los siguientes tamaños de grano y esfuerzos : 
 
-| Muestra                         | Tamaño de Cristal                    | Ecuaciones H-W                                  | Esfuerzos            |
-| ------------------------------- | ------------------------------------ | ----------------------------------------------- | -------------------- |
-| Sulfato de cobre recristalizado | $29.5543~\text{nm}$                  | $-2.0\times 10^{-3}\text{x}+4.9\times 10^{-3}$  | $155.25~\text{Mpa}$  |
-| Sulfato de cobre comercial      | $5.3437~\overset{\circ}{\mathrm{A}}$ | $-0.185\text{x}+0.271$                          | $14.2191~\text{Gpa}$ |
-| Sulfato de Calcio Fraguado      | $53.3635~\text{nm}$                  | $2.69\times 10^{-4}\text{x}+2.7\times 10^{-3}$  | $10.76~\text{Mpa}$   |
-| Sulfato de Calcio Recuperado    | $84.19 ~ \text{nm}$                  | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{Mpa}$   |
-| Sulfato de Calcio Comercial     | $84.19 ~ \text{nm}$                  | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{Mpa}$   |
+| Muestra                         | Tamaño de Cristal   | Ecuaciones H-W                                  | Esfuerzos            |
+| ------------------------------- | ------------------- | ----------------------------------------------- | -------------------- |
+| Sulfato de cobre recristalizado | $48.59~\text{nm}$   | $-2.0\times 10^{-3}\text{x}+4.9\times 10^{-3}$  | $23.5192~\text{Mpa}$ |
+| Sulfato de cobre comercial      | $52.85~\text{nm}$   | $-0.185\text{x}+0.271$                          | $23.5192~\text{MPa}$ |
+| Sulfato de Calcio Fraguado      | $53.3635~\text{nm}$ | $2.69\times 10^{-4}\text{x}+2.7\times 10^{-3}$  | $10.76~\text{MPa}$   |
+| Sulfato de Calcio Recuperado    | $84.19 ~ \text{nm}$ | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{MPa}$   |
+| Sulfato de Calcio Comercial     | $84.19 ~ \text{nm}$ | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{MPa}$   |
 Sumado a esto se logró encontrar que las muestras estaban relacionadas con las siguientes tarjetas cristalográficas de "Crystallography Open Database" o COD: 
 
 | Tarjeta     | Sistema Cristalino | Grupo Espacial | Parámetros de celda                           | Nombre       | Muestra relacionada                         |
