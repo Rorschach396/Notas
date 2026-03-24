@@ -1,14 +1,14 @@
-## Introducción 
+## Objetivo
 
-El 8 de junio de 1912 Max von Laue presentó la primera imagen de difracción de rayos x, esta imagen era de un cristal de sulfato de cobre, el cual había sido obtenida gracias a una serie de esfuerzos conjuntos entre muchas personas y que había permitido obtener una nueva visión tanto de los rayos x como de la estructura de la materia. Sumado a este descubrimiento se logró obtener una mejor interpretación de los resultados gracias a William Lawrence Bragg, quien logró desarrollar una formula matemática para poder interpretar los resultados de los patrones de difracción de rayos x, esta formula es la siguiente: 
-
-$$
-n\lambda = 2d\sin \theta
-$$
-
+La difracción de rayos x es un método de caracterización que permite identificar que substancias componen a una determinada muestra e inclusive permite conocer que fases se encuentran presentes dentro de la misma. En este caso se analizaron 5 muestras, las cuales tenían diferentes características y procedencias, estos cambios podían llegar a influir tanto en su composición como en las fases presentes, por lo que al momento de realizar un patrón de difracción de rayos x se buscaba poder encontrar información relacionada con la composición de las muestras. 
 ## Metodología 
 
-Para comenzar se realizó un patrón de difracción de rayos x de 3 muestras, dos de sulfato de cobre y una de sulfato de calcio. En el caso de las muestras de sulfato de cobre la principal diferencia que había entre las dos muestras es que una fue sometida a un proceso de purificación conocido como recristalización, lo que permitió que se pudieran eliminar ciertas impurezas que generaban cambios en el patrón de difracción. 
+Para comenzar se realizó un patrón de difracción de rayos X de cinco muestras, dos de sulfato de cobre ($CuSO_{4}$) y tres de sulfato de calcio($CaSO_{4}$). Las muestras provenían de un  mismo proveedor de productos de limpieza, la principal diferencia entre las mismas es que una fue sometida a un proceso de purificación conocido como *recristalización* el cual se teorizaba que aumentaría su pureza. 
+
+En el caso de las muestras de sulfato de cobre, estas provenían de diferentes etapas de un proceso de reconstitución del mismo. La primera muestra es del material inicial, el cual es sulfato de cobre que fue sometido a un proceso de rehidratación y se encuentra completamente fraguado. La segunda muestra es un yeso que fue sometido a un proceso de desecado, donde se eliminó el agua que fue utilizada para realizar el proceso de fraguado, esto para poder ser reutilizado en el futuro. La tercera muestra es una muestra control de un yeso comercial que es químicamente idéntico al yeso que fue utilizado en las otras muestras. 
+
+Para poder realizar el proceso de difracción  de rayos X las muestras fueron sometidas a un procesamiento previo antes de ser colocadas dentro del difractómetro; este proceso consistió en triturar las muestras para poder obtener un polvo relativamente fino para facilitar su análisis. En el caso de la muestra de sulfato de cobre comercial y del sulfato de calcio comercial no se tuvo que realizar ningún proceso previo a su análisis, esto debido a que ya se encontraban en polvo. Para las muestras de sulfato de cobre recristalizado, sulfato de calcio fraguado y sulfato de cobre reconstituido se tuvo que realizar un proceso de molido que varió en su rigurosidad; para el sulfato de cobre se utilizo un mortero que fue previamente lavado y secado mientras que para el sulfato de calcio se utilizó un martillo y una bolsa de plástico debido a que se tenía una mayor cantidad de material, una fracción del material molido inicial fue analizada mientras que otra fracción fue desecada para ser analizada posteriormente. 
+![[Pasted image 20260323223421.png|300]]
 
 Al momento de obtener estas muestras se pasó a su identificación, para esto se utilizaron principalmente 3 softwares:  
 - Origin: Este software nos permitió realizar un smooth del patrón que obtuvimos, el cual permitió identificar mejor las muestras y obtener mejores datos. 
@@ -51,7 +51,15 @@ Para las siguientes muestras solo se trabajo dentro de Profex debido a que se lo
 | ![[Pasted image 20260322193831.png]] | ![[Pasted image 20260322193846.png]] |
 ## Resultados 
 
-En este caso se obtuvieron los siguientes tamaños de grano y esfuerzos : 
+Al utilizar el software de Profex se logró poder comparar los patroness de difracción de difracción de rayos x con diferentes bases de datos, esto permitió obtener los siguientes resultados en relación a la fase presente en las muestras. Estos resultados permitieron a su vez poder encontrar las tarjetas cristalográficas pertenecientes a la base de datos "Crystallography Open Database", con la cual se obtuvieron los planos relativos de cada uno de los picos considerados. 
+
+| Tarjeta     | Sistema Cristalino | Grupo Espacial | Parámetros de celda                           | Nombre       | Muestra relacionada                         |
+| ----------- | ------------------ | -------------- | --------------------------------------------- | ------------ | ------------------------------------------- |
+| 00-901-4405 | Triclínico         | P-1            | 6.12; 10.7; 5.97  <br>82.27; 107.43; 102.67   | Chalcanthite | Sulfato de cobre comercial y recristalizado |
+| 00-230-0258 | Monoclínico        | C12/c1         | 6.28689; 15.2131; 6.52996  <br>90; 127.43; 90 | Gypsum       | Sulfato de calcio fraguado                  |
+| 00-901-2211 | Monoclínico        | I 1 2 1        | 11.9845; 6.9292; 12.7505  <br>90; 90; 90      | Bassenite    | Sulfato de calcio recuperado                |
+| 00-901-2209 | Monoclínico        | I 1 2 1        | 12.0317; 6.9269; 12.6712  <br>90; 90.27; 90   | Bassenite    | Sulfato de calcio comercial                 |
+A partir de esta información se pudo obtener el tamaño de grano y el esfuerzo; para esto se realizó un análisis Williamson-Hall. Dentro de este análisis se utilizó Origin para poder extraer los datos del patrón de difracción y que de esta forma se pudiera obtener information más precisa y fácil de manejar. Para poder realizar el cálculo de los esfuerzos presentes en el cristal se consideró que el sulfato de calcio ($CaSO_{4}$) tiene un modulo de Young de $40~\text{GPa}$ y el sulfato de cobre ($CuSO_{4}$) de $76.86~\text{GPa}$, esto permitió obtener los siguientes resultados:
 
 | Muestra                         | Tamaño de Cristal   | Ecuaciones H-W                                  | Esfuerzos            |
 | ------------------------------- | ------------------- | ----------------------------------------------- | -------------------- |
@@ -60,13 +68,5 @@ En este caso se obtuvieron los siguientes tamaños de grano y esfuerzos :
 | Sulfato de Calcio Fraguado      | $53.3635~\text{nm}$ | $2.69\times 10^{-4}\text{x}+2.7\times 10^{-3}$  | $10.76~\text{MPa}$   |
 | Sulfato de Calcio Recuperado    | $84.19 ~ \text{nm}$ | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{MPa}$   |
 | Sulfato de Calcio Comercial     | $84.19 ~ \text{nm}$ | $2.68\times 10^{-3}\text{x}+1.72\times 10^{-3}$ | $107.2~\text{MPa}$   |
-Sumado a esto se logró encontrar que las muestras estaban relacionadas con las siguientes tarjetas cristalográficas de "Crystallography Open Database" o COD: 
-
-| Tarjeta     | Sistema Cristalino | Grupo Espacial | Parámetros de celda                           | Nombre       | Muestra relacionada                         |
-| ----------- | ------------------ | -------------- | --------------------------------------------- | ------------ | ------------------------------------------- |
-| 00-901-4405 | Triclínico         | P-1            | 6.12; 10.7; 5.97  <br>82.27; 107.43; 102.67   | Chalcanthite | Sulfato de cobre comercial y recristalizado |
-| 00-230-0258 | Monoclínico        | C12/c1         | 6.28689; 15.2131; 6.52996  <br>90; 127.43; 90 | Gypsum       | Sulfato de calcio fraguado                  |
-| 00-901-2211 | Monoclínico        | I 1 2 1        | 11.9845; 6.9292; 12.7505  <br>90; 90; 90      | Bassenite    | Sulfato de calcio recuperado                |
-| 00-901-2209 | Monoclínico        | I 1 2 1        | 12.0317; 6.9269; 12.6712  <br>90; 90.27; 90   | Bassenite    | Sulfato de calcio comercial                 |
 
 
