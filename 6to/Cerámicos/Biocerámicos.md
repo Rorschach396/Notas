@@ -26,4 +26,18 @@ Las propiedades que se busca en los biocerámicos son las siguientes:
 
 ## Hidroxiapatita 
 
-Es un tipo de cerámico de fosfato de calcio clasificada en categoría de cerámica bioactiva. Normalmente se busca que tenga la siguiente formula $Ca_{5}(PO_{4})_{3}OH$ 
+Es un tipo de cerámico de fosfato de calcio clasificada en categoría de cerámica bioactiva. Normalmente se busca que tenga la siguiente formula $Ca_{5}(PO_{4})_{3}OH$ es muy poco común encontrar el compuesto en bulto cuando se tratan de hacer implantes. Es muy similar su DRX al Fosfato tricálcico, pero presenta una cierta diferencia dependiendo del proceso de obtención y las fases presentes. En caso de que se encuentre mezclado se necesita agua dentro de la estructura para poder estabilizar la celda unitaria. 
+
+%% apatita: relación de calcio y fosforo%%
+## Alumina 
+
+La alumina es un cerámico bioinerte, la más utilizada es la coridnón. Tiene propiedades mecánicas y térmicas unidas debido a la fuerte enlace iónico y covalente. Tiene una relación de tamaño de grano y porosidad. Esta normalmente es utilizada para aplicaciones dentales, espaciador poroso, recubrimientos en tallos femorales y prótesis de cadera. 
+
+## Zirconia
+
+Tiene 3 formas cristalinas diferentes: cúbico, monoclínico y tetragonal. Esta es más estable en forma tetragonal o cúbica, esta estructura se logra obtener al dopar con óxidos de calcio, óxido de magnesio y óxido de itrio; normalmente se ocupa el 4.7% del dopante. Esta es bioinerte, presenta una gran biocompatibilidad, alta afinidad por tejidos óseos y carece de efectos oncogénicos. 
+
+## Biovidrio y cerámicos vítreos 
+
+Normalmente compuestos por $Na_{2}O,~K_{2}O,~CaO,~MgO$, sus propiedades biológicas están determinadas por la composición de bioglass, la concentración de sílice clasifica el bioglass en diferentes cateforías. El contenido más común es entre el 40% y 60% y el contenido de sílice es menor al 60%. 
+
