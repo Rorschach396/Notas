@@ -1,0 +1,17 @@
+La existencia precede a la esencia. 
+- El hombre no es nada más que aquello que hace de si mismo 
+- No hay una naturaleza humana 
+- Elegirse a si mismo es crear una imagen del ser humano 
+- Angustia: 
+	- desamparo/responsabilidad, no se le puede echar la culpa a alguien más 
+	- Estamos condenados a elegir, condenados a ser libres 
+- Mala fe: autoengaño para no tener que pensar en nuestra elección 
+	- el para si 
+	- El en si
+	- Negar la trasendencia "hacerse cosa"
+	- Negar la practicidad "hacerse la nada pura "
+- # Emotivismo 
+- La razon es el esclavo de la pasión 
+- Las emociones no vienen de afuera, por lo tanto deben de ser superiores 
+- El problema no es la pasión, si no como se llega a esa pasión 
+- buuhurra
