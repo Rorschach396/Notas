@@ -17,7 +17,5 @@ Para poder obtener una nanopartícula presente de un determinado metal se puede 
 
 Para realizar nanopartículas normalmente se utiliza la reacción de Turkevich. Dependiendo de la temperatura que se utilice se puede cambiar el tamaño de las partículas, pero si se reduce la temperatura también cambia la cantidad de oro que va a reaccionar, no importa cuanto se baje la temperatura nunca se va a poder obtener un tamaño más pequeño que el radio crítico. Dependiendo de la cantidad de núcleos que se formen desde un inicio se puede obtener una diferente dispersión de tamaños. Las partículas obtenidas por el método de Turkevich se pueden utilizar como núcleos o para modificar la morfología de otras partículas. 
 
-Normalmente cuando se hacen productos relacionados con catálisis, las nanopartículas se depositan en un sustrato 
+Normalmente cuando se hacen productos relacionados con catálisis, las nanopartículas se depositan en un sustrato. 
 
-
- 
