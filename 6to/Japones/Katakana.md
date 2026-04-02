@@ -1,1 +1,1 @@
-![[Pasted image 20260325163300.png]]
+![[Pasted image 20260325163300.png|silabario de katakana]]
