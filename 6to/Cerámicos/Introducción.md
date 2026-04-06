@@ -11,3 +11,25 @@ Lo que se va a ver en este curso es:
 - Clasificación
 - Propiedades 
 
+Practicas: 
+- Sinterizar 
+	- Arcilla 
+- Yeso 
+	- extrusión 
+	- prensado 
+	- Barbotina
+- Vidrio 
+	- Biovidrio con zirconia 
+- Escamas de pescado 
+- Proyecto final 
+	- Cartel: explicación visual de nuestro proyecto, cartel científico 
+		- Titulo 
+		- Nombres de los autores 
+		- Introducción 
+		- Objetivo 
+		- Metodología 
+		- resultados 
+		- Conclusiones 
+		- Bibliografía o fuentes de información 
+	- Prototipo 
+	- Fecha de entrega: 13 de mayo 
