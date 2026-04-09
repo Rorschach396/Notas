@@ -43,3 +43,10 @@ Afirmaciones morales
 - Prescribir: Como debería ser 
 - Evaluar como bueno o malo, correcto o incorrecto. 
 Afirmaciones descriptivas 
+
+"Algunos no cuidan de manera adecuada a sus mascotas" es un mal ejemplo 
+
+Un buen ejemplo debe de cumplir con lo siguiente: 
+- Debe de ser ampliamente accesible: Casi todos te deben de entender cuando lo explicas 
+- Para casi todos deben de ser verdadero sin controversias
+
