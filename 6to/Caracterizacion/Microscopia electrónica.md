@@ -95,3 +95,44 @@ El detector EDS clasifica estos rayos X por su nivel de energía, permitiendo id
 2) El electrón baja y produce un rayo X característico 
 3) Se clasifica este rayo y se produce un gráfico 
 
+Hexa Boruro de lantano 
+
+El emisor está hecho de LaB6, de color púrpura violet. Tiene un punto de fusión de 2210°C se utiliza por que su temperatura de función es bastante baja, gracias a esto permite tener una mayor emisión a temperaturas más bajas de alrededor de 1400-1600°C. Este tipo de emisor es bastante más brillante que el filamento de W, y es bastante más duradero, con hasta 10 veces más la vida util de un W.  La unica contra es que es también 10 veces más caro y requieren un chingo de vacio.
+
+
+
+Cañones de emisión de campo
+
+En este caso los cables de tungsteno están bastante afilados, por lo que cuando se le aplica un potencial negativo se concentra en la punta y se liberan electrones. A este fenómeno se le conoce como túnel cuántico. No requiere una gran des magnificación para producir un tamaño de sonda pequeño. 
+
+Requiere menos lentes, lo que puede llegar a simplificar el diseño del microscopio, no requiere cross over. Tiene menos aberraciones cromáticas y menor tamaño de sonda. El brillo es 1000 veces mayor que el filamento de W, la dispersión es 4 veces menor y tiene una mayor durabilidad, pero también tiene un mayor costo y requiere de condiciones de vacío más rigurosas. 
+
+Emisores de campo Frio
+
+Solo produce electrones de la punta de un cable de W con ayuda de un campo eléctrico pero sin la ayuda de calor, este tiene una corriente de emisor es bastante pequeña, su brillo es bastante más alto que el filamento tradicional, la dispersión energética es mucho más bajo. De vez en cuando se tiene que realizar un flash con la punta para poder eliminar los gases absorbidos, esto se puede repetir bastante hasta que se acabe la punta. 
+
+Emisor de campo tipo Shottky 
+
+Es un cañón de emisión de campo asistido térmicamente en el que se hace uso del efecto Schottky donde se aplica al emisor una cierta cantidad de voltaje para poder calentarlo y así reducir su temperatura de funcionamiento. El Filamento de tungsteno de este tipo está recubierto con óxido de zirconia. La alta corriente de emisión disminuye el efecto de las vibraciones, este siempre se mantiene encendido para poder evitar la contaminación de la punta, no requiere mucho vacío ni que se le limpie la punta, normalmente aguantan hasta 2 años de servicio. 
+
+Lentes electromagnéticas 
+
+Cilindros que son análogos a las lentes convexas delgadas utilizadas para enfocar la luz visible en microscopía óptica, están hechas de bobinas de cu encerradas en carcasa de hierro que tiene piezas polares cilíndricas, la distancia focal de las lentes cambia dependiendo de la corriente de las bobinas. 
+
+El campo electromagnético tiene una componente radial y una componente axial longitudinal. EL campo radial hace que los electrones fuera del eje  descienda en espiral por el eje óptico en una trayectoria helicoidal. La interacción entre los electrones que emanan del cañón y el campo magnético desvían los electrones hacia el eje. Los electrones alejados del eje óptico son desviados con mayor fuerza. 
+
+Lente condensadora: Es una lente electromagnética que se coloca justo debajo del cañón de electrones, su trabajo es reducir el diámetro del haz, normalmente hay 2 o 3 lentes condensadoras en serie. Se debe  de des magnificar para poder tener una donde fina que nos permita ver realmente la superficie. Estas lentes se controlan con el spot size y al momento de cambiar este ajuste se cambia la corriente en todas las bobinas presentes en las lentes. 
+
+Cuando se cambia la corriente de la lente se vuelve más potente, los electrones se dispersan más y chocan más con la apertura, generando que muy pocos electrones puedan llegar a la muestra generando una alta resolución pero muy oscura y con mucho ruido. Si la lente no tiene mucha corriente casi todos los electrones pasan y se tiene una sonda muy grande, esto genera que se tenga una zonda muy grande con mucho brillo, lo que es bueno para el análisis químico pero no sirve mucho para poder ver las cosas. 
+
+Aperturas 
+
+Permite evitar que los electrones fuera del eje puedan llegar a la muestra. Esto disminuye las aberraciones de la imagen. Si la superficie de la apertura está sucia se genera astigmatismo. El pinhole se utiliza para imágenes convencionales a aumentos relativamente bajos, permite muestras grande y grandes distancias de trabajo, esto da como resultado una alta profundidad de campo. 
+
+Lente de inmersión: La muestra se coloca dentro del orificio de la lente. El campo magnético envuelve la muestra dando una distancia focal pequeña de 2-5 nm, la menor distancia de trabajo y distancia focal produce la menor aberración de la lente, el tamaño de sonda más fino y la mayor resolución de imagen. 
+
+Lente snorkel: La muestra se coloca inmediatamente debajo de la lente objetivo, el campo magnético se extiende a la superficie de la muestra. Combina los beneficios de ambos tipos: permite imágenes de alta resolución mientras que permite examinar muestras relativamente grandes. 
+
+Aberración esférica: El campo electromagnético es más fuerte cerca del borde de la lente y más débil cerca del eje óptico. Como resultado, los electrones cerca del borde son desviados más fuertemente que los electrones cercanos al eje. 
+
+
