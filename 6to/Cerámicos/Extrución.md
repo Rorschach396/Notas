@@ -1,6 +1,6 @@
 Consiste en forzar el paso de una pasta cerámica por una matriz para darle una geometría continua. Permite crear piezas de una sección transversal continua. 
 
-1) Preparación de la pasta cerámica: mezclar la materia prima con agua y aditivos, se homogeniza para conseguir buena consistencia y plasticidad, aproximadamente se tiene un ==no me acuerdo cuanta agua, preguntar==.
+1) Preparación de la pasta cerámica: mezclar la materia prima con agua y aditivos, se homogeniza para conseguir buena consistencia y plasticidad, aproximadamente se tiene un ==20-25%==.
 2) Extrusora: La pasta entra en la camara de la extrusora, donde el tornillo gira moviendo la pasta hacia la matriz, eliminando bolsas de aire en el proceso. 
 3) Moldeado: La pasta se extruye por la matriz que tendrá la Boquillas de salida. 
 4) Corte: Se cortan las piezas al tamaño deseado. 

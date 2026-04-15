@@ -67,3 +67,31 @@ Para muestras biológicas:
 - Deshidratación 
 - Punto crítico: Se seca con CO2
 - Recubrimiento metálico indispensable 
+
+## Cañón de electrones
+
+- Emisión termiónica: Un filamento de tungsteno se calienta hasta 2500°C, supera la función de trabajo del metal, el tamaño de fuente es grande, produce un menor brillo y es bastante económico y robusto. 
+- Emisión de campo: Un campo eléctrico intenso arranca electrones de una punta ultra fina, tamaño de fuente diminuto, haz extremadamente coherente y tiene una ultra alta resolución. 
+
+Debido a las fuerzas de atracción que existen entre los electrones con carga negativa y los nucleos positivos de los átomos del metal, los electrones requieren energía para salir de una superficie metálica, si un metal se calienta a una temperatura suficientemente alta, algunos electrones adquieren suficiente energía para que se puedan desprender. 
+
+Principio de funcionamiento del camón de W 
+- Se usa corriente eléctrica para poder calentar el W
+- El filamento está rodeado por un cilindro de Wehnelt, que se conecta con una resistencia variable de auto polarización 
+- Se genera una polarización negativa entre ambos 
+- Tamaño de emisión de entre 100 y 150 $\mu m$
+- El cilindro de Wehnelt ayuda a poder comprimir los electrones hacia el eje y evita que se sobrecaliente el filamento de W 
+
+- Bias bajo: Enfoque deficiente y enfoque deficiente 
+- Alto: El brillo se vuelve 0 
+- Óptimo: los electrones emitidos desde los lados tienden a ser devueltos al filamento. 
+
+No importa cuanta corriente le pongamos al filamento, llega a un punto en el que se alcanza la mayor cantidad de brillo y no se puede pasar de ahí. 
+
+Las lentes electromagnéticas ayudan a reducir el diámetro inicial del haz, esto es realizado por la lente condensadora, la lente objetiva realiza el enfoque final justo antes de que el haz golpee la superficie. 
+
+El detector EDS clasifica estos rayos X por su nivel de energía, permitiendo identificar y cualificar los elementos químicos presentes en un volúmen de pocos micrómetros. 
+1) Llega el electron  y mueve a otro a un nivel superior 
+2) El electrón baja y produce un rayo X característico 
+3) Se clasifica este rayo y se produce un gráfico 
+
