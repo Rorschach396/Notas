@@ -10,11 +10,11 @@ Etapas de compactación:
 
 1) Llenado, polvo fluye al molde 
 2) Reacomodo: A baja presión las partículas resbalan y eliminan huecos 
-3) Deformación fractura: Alta presión llena los huevos 
+3) Deformación fractura: Alta presión llena los huecos 
 4) Me falto leerlo 
 
 
-Parametros críticos: 
+Parámetros críticos: 
 
 - Presión 
 - Temperatura 
