@@ -6,3 +6,8 @@ Caso del tipo A tiene el estado moral S
 Caso X es de tipo A 
 Conclusión: El caso X tiene el estado moral S
 
+Para poder mejorar nuestros ejemplos se puede crear contraargumentos para poder mejorar nuestro argumento 
+
+
+
+}{}
