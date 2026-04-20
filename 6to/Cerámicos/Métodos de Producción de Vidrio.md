@@ -42,4 +42,4 @@ También conocido como método Pilkington, es una forma de fabricar vidrio plano
 4) Enfriamiento 
 5) Finalización 
 
-Ventajas: Superficies planas y uniformes, calidad superior, versatilidad, eficiencia.
+Ventajas: Superficies planas y uniformes, calidad superior, versatilidad, eficiencia.      
