@@ -19,4 +19,7 @@ Existen diferentes tipos de nanopartículas, las cuales se pueden llegar a clasi
 
 ## Inorgánico/inorgánico
 
-- Son las nanopartículas más importantes 
+- Tienen aplicaciones relacionadas con el almacenamiento de información, optoelectrónica, catálisis, bioimage entre otros 
+- Normalmente el núcleo y la coraza se encuentran hechas de metal, óxidos metálicos, silica u algunos otros tipos de compuestos inorgánicos. 
+- Se suele dividir en las que están recubiertas de sílice o las que contienen cualquier otro tipo de recubrimiento
+	- Las principales ventajas de las 
