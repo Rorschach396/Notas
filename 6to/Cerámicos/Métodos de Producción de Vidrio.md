@@ -36,3 +36,10 @@ Ventajas: Productividad (muy rápido), diseño (diseños complejos y detallados)
 
 También conocido como método Pilkington, es una forma de fabricar vidrio plano donde el vidrio fundido se deja flotar sobre un baño de estaño fundido. Este proceso permite obtener un vidrio con grosor uniforme y una superficie plana ideal para aplicaciones como ventanas y parabrisas. 
 
+1) Preparación de la mezcla 
+2) Flotación 
+3) Control de grosor 
+4) Enfriamiento 
+5) Finalización 
+
+Ventajas: Superficies planas y uniformes, calidad superior, versatilidad, eficiencia.
