@@ -136,3 +136,8 @@ Lente snorkel: La muestra se coloca inmediatamente debajo de la lente objetivo, 
 Aberración esférica: El campo electromagnético es más fuerte cerca del borde de la lente y más débil cerca del eje óptico. Como resultado, los electrones cerca del borde son desviados más fuertemente que los electrones cercanos al eje. 
 
 
+## Aberraciones de la Lente 
+
+Aberración esférica: Se da por que el campo electromagnético es más fuerte cerca del borde de la lente y más débil cerca del eje óptico, esto produce que cerca del borde se desvían más fuertemente los electrones se desvíen más que los lejanos, esto produce diferentes puntos de enfoque según la parte de la lente por donde pasan los electrones, los rayos convergen formando un disco en lugar de un punto en el plano imagen (la imagen se ve borrosa). 
+
+
