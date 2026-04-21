@@ -138,6 +138,13 @@ Aberración esférica: El campo electromagnético es más fuerte cerca del borde
 
 ## Aberraciones de la Lente 
 
-Aberración esférica: Se da por que el campo electromagnético es más fuerte cerca del borde de la lente y más débil cerca del eje óptico, esto produce que cerca del borde se desvían más fuertemente los electrones se desvíen más que los lejanos, esto produce diferentes puntos de enfoque según la parte de la lente por donde pasan los electrones, los rayos convergen formando un disco en lugar de un punto en el plano imagen (la imagen se ve borrosa). 
+Aberración esférica: Se da por que el campo electromagnético es más fuerte cerca del borde de la lente y más débil cerca del eje óptico, esto produce que cerca del borde se desvían más fuertemente los electrones se desvíen más que los lejanos, esto produce diferentes puntos de enfoque según la parte de la lente por donde pasan los electrones, los rayos convergen formando un disco en lugar de un punto en el plano imagen (la imagen se ve borrosa). Para poder controlar este efecto se puede agregar una apertura pequeña  después de la lente objetivo, también se puede utilizar una lente de inmersión 
+
+Aberración cromática: No todos los electrones del haz poseen la misma energía, los electrones de menor energía se enfocan más cerca de la lente mientras que los electrones con más energía se enfocan más lejos de la lente. Dependiendo del voltaje se pueden obtener diferentes efectos, normalmente genera que los contornos no se puedan ver tan bien, además de que se ven un poco más borrosas. FEG es ideal para microscopía de bajo voltaje, esto genera que no tengan mucha aberración cromática a bajos voltajes (Schottky y cold). 
+
+Difracción en la apertura: Por la naturaleza ondulatoria los electrones tienden a difractar en el borde de la apertura pequeña  usada para reducir aberraciones. Se forma un patrón de difracción de Fraunhofer en forma de disco de Airy, este efecto aumenta cuando el ángulo de convergencia se hace más pequeño. 
+
+Astigmatismo: Pequeñas imperfecciones en la construcción del lente, asimetría en los devanados de cobre o aperturas contaminadas forman dos focos lineales perpendiculares a dos distancias focales diferentes, la imagen se estira en una dirección en un lado del foco, este fenómeno se detecta como astigmatismo. Para poder corregir el astigmatismo se puede utilizar un estimator para poder generar el efecto inverso y eliminar las aberraciones. 
+
 
 
