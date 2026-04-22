@@ -17,3 +17,4 @@ Para que sea un buen contra ejemplo:
  Premisa 1: El caso X tiene el estatus moral S 
  Premisa 2: El caso Y es similar de manera relevante al caso X
  .: El caso Y tiene el estado moral S
+
