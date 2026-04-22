@@ -52,3 +52,62 @@ Hay dos caminos diferentes que un líquido puede seguir al enfriarse:
 - Formación de un vidrio al no cristalizar en líquido subenfriado (muy por debajo de Tf)
 
 Puede haber difusión de otros átomos dentro del vidrio pero no se va a tener un enlace. El vidrio es un sólido rígido elástico, los líquidos que forman vidrios tienen magnitudes de la variación del volumen con la temperatura continua por debajo de la temperatura de fusión. 
+
+Las temperaturas de los vidrios pueden ser las siguientes: 
+
+
+| Tipo              | Temperatura media | Temperatura calculada |
+| ----------------- | ----------------- | --------------------- |
+| B2O3              | 250               | 60                    |
+| Pyrex             | 550               | 350                   |
+| Ventana           | 550               | 270                   |
+
+
+Se tiene que cuidar la existencia de zonas acomodadas, esto debido a que pueden llegar a causar el crecimiento de embriones que generarán el crecimiento del vidrio con un determinado acomodo (se puede utilizar este fenómeno en ciertos casos), en los vidrios se suele dar la nucleación homogénea (por partículas presentes en el vidrio) y heterogénea (nucleación desde afuera hacia adentro). 
+
+Cuando se tiene una nucleación homogénea se da en un vidrio, esto genera que el vidrio sea completamente transparente. El tamaño critico de los núcleos es muy dependiente a la temperatura. 
+
+Casi todas las aplicaciones de los vidrios requieren vidrios homogéneos, para poder tener una unica fase es necesario. Una propiedad fundamental de los vidrios es que aunque estos se encuentren en estado líquido, estos nunca van a poder formar micelas con otros compuestos químicos, es decir, nunca se van a disolver en otro líquido. La viscosidad repercute en los efectos de los esfuerzos por la presencia de burbujas. Las temperaturas del vidrio se clasifican de la siguiente forma: 
+
+- Punto de trabajo 
+- Punto de reblandecimiento 
+- Punto de recocido 
+- Punto de tensión 
+- Punto de transición vítrea 
+
+
+## Tipos de Vidrio 
+
+Los tipos más comunes de vidrio son: 
+- Flotado: Más común y es utilizado en ventanas o puertas.
+- Templado: Muy bueno para aplicaciones de seguridad y donde se tenga impactos o choques térmicos.
+- Laminado: Resistentes al impacto y este puede romperse en muchos fragmentos pequeños  
+- Control solar: Reduce la entrada de calor y luz solar.
+- Baja emisividad: Mejora el aislamiento térmico al reducir la pérdida de calor en el invierno y el ingreso de calor en el verano. 
+- Insulado: Dos hojas de vidrio separadas por una cámara de aire o gas lo que mejora el aislamiento térmico y acústico. 
+
+## Cemento 
+
+Conglomerados hidráulicos, esto es materiales artificiales de naturaleza inorgánica y minerales que finamente molidos y convenientemente amasados con agua forman pastas que fraguan y endurecen a causa de las reacciones de hidrólisis e hidratación de sus constituyentes dando lugar a productos hidratados mecánicamente resistentes y estables, tanto al aire como bajo el agua. 
+
+Fases de fabricación de un material cerámico: 
+- Fabricación de los polvos 
+- Procesado de polvos 
+- Conformado 
+- Sinterizado 
+
+Propiedades que se suelen buscar: 
+- Refractariedad 
+- Comportamiento eléctrico y magnético 
+- Elevada resistencia a altas temperaturas 
+- Elevados valores de dureza 
+- Excelentes propiedades tribológicas 
+- Químicamente inertes 
+- Tenacidad - fragilidad 
+
+Durezas más comunes 
+
+- Mohs 
+- Knoop 
+- Vickers 
+

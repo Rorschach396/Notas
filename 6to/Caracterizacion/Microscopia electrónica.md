@@ -147,5 +147,39 @@ Difracción en la apertura: Por la naturaleza ondulatoria los electrones tienden
 Astigmatismo: Pequeñas imperfecciones en la construcción del lente, asimetría en los devanados de cobre o aperturas contaminadas forman dos focos lineales perpendiculares a dos distancias focales diferentes, la imagen se estira en una dirección en un lado del foco, este fenómeno se detecta como astigmatismo. Para poder corregir el astigmatismo se puede utilizar un estimator para poder generar el efecto inverso y eliminar las aberraciones. 
 
 
+Magnificación _ampliamiento de la muestra que se da gracias al amplificador y la pantalla_ 
+
+La distancia de trabajo es la distancia entre la lente objetivo y la superficie de la muestra 
+WD pequeña es más pequeña la longitud de barrido lo que aumenta la magnificación 
+
+Se pueden utilizar redes de difracción óptica para poder calibrar la magnificación, la regla que se encuentra en la parte de abajo de la imagen nos da la escala, lo que nos permite tener así el tamaño independiente de la pantalla o el sistema en el que nos encontremos. 
+
+
+
+Detectores 
+
+Dentro de la camara de la muestra 
+Montables/desmontables en la pieza polar 
+Retractiles 
+
+Detector Everhart Thorney: Es el más común para poder obtener imágenes de electrones secundarios o retro dispersados. Rendimiento increíble con alta capacidad, 
+
+Va a variar mucho la eficiencia del detector dependiendo del ángulo de salida y el ángulo sólido, un detector grande y cerca de la muestra va a captar mejor la señal. Se puede cambiar la cantidad de energía que tiene la jaula para poder cambiar que electrones se pueden detectar -50 da retro dispersados y 250 dan todos 
+
+Detector through the lens: 
+
+Tipo de unión PN de diódo de silicio se generan pares electrón hueco por la dispersión inelástica, la energía necesaria para crear el par son necesarios utilizar aproximadamente 3.6 eV
+
+
+Las ventajas del BSE:
+
+- Bajo costo 
+- Ocupa poco espacio 
+- Gran angulo sólido 
+- Puede tener dos segmentos para operaciones de suma o resta 
+Desventajas 
+- No detecta BSE de baja energía 
+- Tiempo de respuesta lento 
+- Aplicación de los segmentos 
 
 
