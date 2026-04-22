@@ -43,3 +43,12 @@ También conocido como método Pilkington, es una forma de fabricar vidrio plano
 5) Finalización 
 
 Ventajas: Superficies planas y uniformes, calidad superior, versatilidad, eficiencia.      
+
+
+## Fabricación de Vidrio Bioactivo 
+
+Hay dos caminos diferentes que un líquido puede seguir al enfriarse: 
+- Cristalización a temperaturas iguales o menores a la temperatura de fusión
+- Formación de un vidrio al no cristalizar en líquido subenfriado (muy por debajo de Tf)
+
+Puede haber difusión de otros átomos dentro del vidrio pero no se va a tener un enlace. El vidrio es un sólido rígido elástico, los líquidos que forman vidrios tienen magnitudes de la variación del volumen con la temperatura continua por debajo de la temperatura de fusión. 
