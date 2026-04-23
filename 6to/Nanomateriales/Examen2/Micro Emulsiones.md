@@ -23,9 +23,9 @@ Se basa en la generación de microgotas que actúan como microreactores individu
 2) Nebulización: La solución se transforma en microgotas mediante
 	1) Nebulizador ultrasónico 
 	2) Atomización neumática 
-	3) Transporte en aerosol
-	4) Evaporación del solvente 
-	5) Síntesis
+3) Transporte en aerosol
+4) Evaporación del solvente 
+5) Síntesis
 
 En el caso de la síntesis por aerosol se tiene que considerar la flama y la composición de gases que se utiliza para poder dispersarla, esto debido a que pueden cambiar la morfología o el rango de tamaño de las nanopartículas. 
 

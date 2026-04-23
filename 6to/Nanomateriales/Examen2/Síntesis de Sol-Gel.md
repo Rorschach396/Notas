@@ -8,7 +8,7 @@ Método de síntesis química para poder obtener materiales inorgánicos, en est
 
 ## Pasos de la síntesis de sol-gel 
 
-1) Hidrólisis: El precursor reacciona con el agua de la siguiente forma: $\ce{M-OR + H_{2}O -> M-OH + ROH}$ , esto genera que se formen grupos hidroxilos. Esta sección puede presentar diferentes velocidades dependiendo del pH, relación entre el agua y el precursor y la temperatura a la que se realize la reacción. 
+1) Hidrólisis: El precursor reacciona con el agua de la siguiente forma: $\ce{M-OR + H_{2}O -> M-OH + ROH}$ , esto genera que se formen grupos hidroxilos. Esta sección puede presentar ==diferentes velocidades dependiendo del pH, relación entre el agua y el precursor y la temperatura a la que se realize la reacción.== 
 2) Condensación: Se forma una red inorgánica y se empieza a tener un crecimiento de partícula, los grupos hidroxilo reaccionan entre si de alguna de las siguientes formas: 
 	1) Condensación alcohólica: $\ce{M-OH + M-OR -> M-O-M + ROH}$
 	2) Condensación acuosa: $\ce{M-OH + M-OH -> M-O-M + H_{2}O}$
