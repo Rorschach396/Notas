@@ -18,3 +18,5 @@ Para que sea un buen contra ejemplo:
  Premisa 2: El caso Y es similar de manera relevante al caso X
  .: El caso Y tiene el estado moral S
 
+Debe ser aceptable para la mayoría 
+Relevantemente similares 
