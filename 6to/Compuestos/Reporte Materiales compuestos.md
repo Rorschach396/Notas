@@ -72,23 +72,6 @@ En esta practica se intentó realizar un material compuesto, el cual falló debi
 
 Estos errores en el proceso de fabricación del material compuesto tuvieron una gran repercusión en las propiedades del mismo, esto es fácilmente apreciable si se comparan los resultados teóricos con los resultados obtenidos. 
 
-$$
-\begin{gather}
-\text{Datos:} \\
-\text{Fraccion fibra de vidrio ordenada:} ~0.1 \\
-\text{Fraccion fibra de vidrio aleatoria:} ~0.06 \\
-\text{Fraccion fibra de aramida aleatoria:} ~0.125 \\
-\text{Modulo de traccion fibra de vidrio:}~ 2500 ~MPa \\
-\text{Modulo de traccion fibra de aramida:} ~ 3075 ~MPa \\
-\text{Modulo de traccion resina poliester:} ~65 ~MPa \\ \\
-\text{Fibra de vidrio aleatoria:} \\
-0.06(2500 ~MPa) +0.94(65~MPa) = 211.1 ~MPa \\
-\text{Fibra de vidrio ordenada: }  \\
-0.1(2500 ~MPa) +0.9(65~MPa) = 308.5 ~MPa \\
-\text{Fibra de aramida aleatoria:} \\
-0.125(3075 ~MPa) +0.875(65~MPa) = 520 ~MPa
-\end{gather}
-$$
 Gracias a estos cálculos se puede ver que la inclusión de la fibra produjo un efecto bastante malo dentro del material compuesto, esto debido a que perjudicó sus propiedades mecánicas en vez de mejorarlas. Además de la falta de agente acoplante, un factor que perjudicó al material compuesto fue el acomodo de la fibra dentro de la matriz polimérica, esto debido a que en las muestras que tenían fibras de vidrio acomodadas, se pudo obtener un mejor resultado si las fibras se hubieran colocado en sentido paralelo al esfuerzo de tracción. 
 
 Debido a que uno de los problemas más importantes que se tuvieron a la hora de obtener las probetas para poder realizar el ensayo de tracción fue que no se pudieron controlar de forma eficiente las dimensiones de la pieza, esto debido a que en ciertas ocasiones las herramientas utilizadas para poder obtener la probeta cortaban una cantidad de material muy alta, generando así irregularidades en el contorno de la pieza. Para poder corregir este problema se propone utilizar un molde impreso en 3D para poder obtener directamente la probeta sin tener que realizar un proceso para poder obtener la geometría deseada. Esto puede mejorar las propiedades físicas de la probeta. 
