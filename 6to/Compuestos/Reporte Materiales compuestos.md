@@ -39,13 +39,61 @@ A fin de ser capaces de caracterizar los materiales compuestos fabricados se con
 
 ## Resultados 
 
-Se obtuvieron tres probetas diferentes, dos con fibra de vidrio y una con fibra de aramida. Para las fibras de vidrio se utilizó un acomodo de $\pm$ 45° y un acomodo aleatorio; debido a la presentación de las fibras de aramida solo se pudo utilizar un acomodo aleatorio para poder acomodarlas. Las proporciones utilizadas para cada una de las probetas fueron las siguientes: 
+Se logró producir una placa de resina poliéster que contenía diferentes tipos de fibras en su interior. Estas placas presentaban diferentes grosores dependiendo del tipo de fibra que se añadiera, esto altero de forma significativa los resultados obtenidos pero no impidió que pudieran ser cortadas para su análisis. Debido a que se obtuvieron placas se tuvo que realizar un corte de una probeta, para esto fue utilizado un esmeril con un disco de corte y un Dremel para poder darle acabados más finos. En el caso de la probeta de fibra de aramida se perdió una gran candida de material en zonas que no tenían fibra, esto debido a que el Dremel entraba con más facilidad que en las zonas donde se encontraban las fibras, esto generó una gran cantidad de defectos superficiales. 
+
+Se obtuvieron tres probetas diferentes, dos con fibra de vidrio y una con fibra de aramida. Para las fibras de vidrio se utilizó un acomodo de $\pm$ 45° y un acomodo aleatorio; debido a la presentación de las fibras de aramida solo se pudo utilizar un acomodo aleatorio para poder acomodarlas. Las proporciones utilizadas para cada una de las probetas fueron ==las siguientes:== 
 
 
-|                            | Fibra | Resina |
-| -------------------------- | ----- | ------ |
-| Fibra de vidrio ordenada   | 10%   | 90%    |
-| Fibra de vidrio aleatoria  | 6%    | 94%    |
-| Fibra de aramida aleatoria | 12.5% | 87.5%  |
+|                            | Fibra | Resina | Grosor  |
+| -------------------------- | ----- | ------ | ------- |
+| Fibra de vidrio ordenada   | 10%   | 90%    | 4.94 mm |
+| Fibra de vidrio aleatoria  | 6%    | 94%    | 3.13 mm |
+| Fibra de aramida aleatoria | 12.5% | 87.5%  | 3.72 mm |
 
+A partir de estas probetas se realizó una prueba de tracción, la cual dio como resultado las ==siguientes gráficas==, en las cuales se puede ver que las probetas de fibras desordenadas obtuvieron un rendimiento similar en el ensayo de tracción, mientras que la probeta de fibras ordenadas obtuvo un resultado mayor a comparación de las anteriormente mencionadas. Los resultados se muestran en la ==siguiente tabla.== 
+
+| Probeta                    | Resistencia a la tracción |
+| -------------------------- | ------------------------- |
+| Fibra de vidrio ordenada   |                           |
+| Fibra de vidrio aleatoria  |                           |
+| Fibra de aramida aleatoria |                           |
+## Conclusión
+
+Con los resultados obtenidos en la prueba realizada a las probetas de los diferentes tipos de fibra se puede ver que la fibra tuvo un efecto nulo e incluso perjudicial para el material compuesto, esto debido a que redujo de forma considerable el valor de la resistencia a la tracción. Esto se debió mayormente a la falta de un agente acoplante que permitiera la unión entre el refuerzo y la matriz, además de que no se tuvo un cuidado pertinente a la hora de preparar el material compuesto, lo que dio lugar a una gran cantidad de defectos dentro del material. 
+
+## Discusión 
+
+En esta practica se intentó realizar un material compuesto, el cual falló debido a diferentes motivos, entre los cuales se encuentran los siguientes: 
+- Falta de agente acoplantes: Debido a que no se le añadió un agente que permitiera mejorar la unión entre la fibra y la matriz no se pudo obtener una interfaz satisfactoria que pudiera mejorar las propiedades físicas del material. 
+- Defectos: Debido al proceso por el cual se realizó el material compuesto se introdujeron una gran cantidad de burbujas y defectos superficiales al material, lo que redujo sus propiedades mecánicas considerablemente. 
+- Obtención de la probeta: Al  momento de obtener la probeta se utilizó un esmeril y un Dremel, los cuales eliminaron una cantidad considerable de material en zonas específicas, lo que produjo una distribución de esfuerzos desigual. 
+- Diferencia en los grosores: Debido a que ciertas probetas fueron más gruesas que otras, esto pudo generar un valor sobrestimado. 
+- Variabilidad en el grosor: Debido a la presencia de fibras de forma aleatoria, en las probetas que no tenían un orden en las fibras se tenía una variabilidad muy alta del grosor de la probeta, esto generaba que se tuvieran alteraciones a la hora de realizar los ensayos de tracción. 
+
+Estos errores en el proceso de fabricación del material compuesto tuvieron una gran repercusión en las propiedades del mismo, esto es fácilmente apreciable si se comparan los resultados teóricos con los resultados obtenidos. 
+
+$$
+\begin{gather}
+\text{Datos:} \\
+\text{Fraccion fibra de vidrio ordenada:} ~0.1 \\
+\text{Fraccion fibra de vidrio aleatoria:} ~0.06 \\
+\text{Fraccion fibra de aramida aleatoria:} ~0.125 \\
+\text{Modulo de traccion fibra de vidrio:}~ 2500 ~MPa \\
+\text{Modulo de traccion fibra de aramida:} ~ 3075 ~MPa \\
+\text{Modulo de traccion resina poliester:} ~65 ~MPa \\ \\
+\text{Fibra de vidrio aleatoria:} \\
+0.06(2500 ~MPa) +0.94(65~MPa) = 211.1 ~MPa \\
+\text{Fibra de vidrio ordenada: }  \\
+0.1(2500 ~MPa) +0.9(65~MPa) = 308.5 ~MPa \\
+\text{Fibra de aramida aleatoria:} \\
+0.125(3075 ~MPa) +0.875(65~MPa) = 520 ~MPa
+\end{gather}
+$$
+Gracias a estos cálculos se puede ver que la inclusión de la fibra produjo un efecto bastante malo dentro del material compuesto, esto debido a que perjudicó sus propiedades mecánicas en vez de mejorarlas. Además de la falta de agente acoplante, un factor que perjudicó al material compuesto fue el acomodo de la fibra dentro de la matriz polimérica, esto debido a que en las muestras que tenían fibras de vidrio acomodadas, se pudo obtener un mejor resultado si las fibras se hubieran colocado en sentido paralelo al esfuerzo de tracción. 
+
+Debido a que uno de los problemas más importantes que se tuvieron a la hora de obtener las probetas para poder realizar el ensayo de tracción fue que no se pudieron controlar de forma eficiente las dimensiones de la pieza, esto debido a que en ciertas ocasiones las herramientas utilizadas para poder obtener la probeta cortaban una cantidad de material muy alta, generando así irregularidades en el contorno de la pieza. Para poder corregir este problema se propone utilizar un molde impreso en 3D para poder obtener directamente la probeta sin tener que realizar un proceso para poder obtener la geometría deseada. Esto puede mejorar las propiedades físicas de la probeta. 
+
+Para poder hacer una comparación completamente efectiva se necesitaría haber utilizado una probeta que no contase con ningún tipo de refuerzo, esto para poder obtener un valor base que pudiera servir para comparar el desempeño de las fibras; esto debido a que los cálculos presentados para esta práctica utilizan parámetros estándar, estos pueden llegar a variar de forma considerable dependiendo de la pureza y del método de síntesis utilizado para obtener la matriz polimérica. Debido a esto se recomienda ampliamente hacer una probeta que no contenga ningún tipo de refuerzo, esto para poder determinar de forma precisa la efectividad del material de refuerzo. Además de esto se recomienda ampliamente tener mediciones precisas de las materias primas utilizadas para poder obtener los materiales compuestos, esto debido a que son necesarias para poder realizar cálculos teóricos. 
+
+Las fibras presentes en el material compuesto tienen diferentes composiciones dependiendo de los proveedores, esto repercute de forma significativa en las propiedades mecánicas. Debido a esto se recomienda realizar un proceso de caracterización a las fibras únicamente, esto para poder determinar su resistencia específica y así evitar valores sobre estimados o subestimados. 
 
