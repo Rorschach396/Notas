@@ -11,6 +11,8 @@
 | Cinta teflón                          | Asegurar sellado de conecciones de agua          |
 | WD-40                                 | Poder realizar limpieza del molde                |
 | Placa de seguridad                    | Evitar que el molde se pueda abrir al moverlo    |
+| Trapo                                 | Colocar capa de WD-40                            |
+|                                       |                                                  |
 
 
 Procedimiento para bajar el molde 
@@ -35,3 +37,8 @@ Procedimiento para bajar el molde
 16) Sacar el molde de la máquina 
 17) Bajar el molde a aproximadamente 10 cm del suelo 
 18) Mover hasta la posición en la que se requiera
+
+El tornillo de tope debe de estar completamente liso 
+2 veces y media el diámetro para asegurar que agarre chido 
+Se tiene que apretar en el agujero más cercano al molde 
+Grados a 
