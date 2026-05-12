@@ -1,18 +1,17 @@
-| Herramienta                           | Uso                                              |
-| ------------------------------------- | ------------------------------------------------ |
-| Llave Allen de 17 mm                  | Quitar y poner las grapas del molde              |
-| Eslingas para carga                   | Sujetar el molde para moverlo                    |
-| Nivel                                 | Alinear el molde                                 |
-| Torquímetro                           | Ajustar los tornillos de las grapas              |
-| Plumón                                | Marcar tornillos y molde para rapida colocación. |
-| Llave Allen de tamaño ==Especificar== | Quitar y poner tornillos de seguridad            |
-| Pinzas                                |                                                  |
-| Pericas                               | Quitar conectores de agua                        |
-| Cinta teflón                          | Asegurar sellado de conecciones de agua          |
-| WD-40                                 | Poder realizar limpieza del molde                |
-| Placa de seguridad                    | Evitar que el molde se pueda abrir al moverlo    |
-| Trapo                                 | Colocar capa de WD-40                            |
-|                                       |                                                  |
+| Herramienta                           | Uso                                              | Listo |
+| ------------------------------------- | ------------------------------------------------ | ----- |
+| Llave Allen de 17 mm                  | Quitar y poner las grapas del molde              |       |
+| Eslingas para carga                   | Sujetar el molde para moverlo                    |       |
+| Nivel                                 | Alinear el molde                                 |       |
+| Torquímetro                           | Ajustar los tornillos de las grapas              |       |
+| Plumón                                | Marcar tornillos y molde para rapida colocación. |       |
+| Pinzas                                |                                                  |       |
+| Pericas                               | Quitar conectores de agua                        |       |
+| Cinta teflón                          | Asegurar sellado de conecciones de agua          |       |
+| WD-40                                 | Poder realizar limpieza del molde                |       |
+| Placa de seguridad                    | Evitar que el molde se pueda abrir al moverlo    |       |
+| Trapo                                 | Colocar capa de WD-40                            |       |
+|                                       |                                                  |       |
 
 
 Procedimiento para bajar el molde 
