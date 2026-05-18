@@ -79,7 +79,7 @@ Estructura Hexagonal de átomos de carbono con hibridación sp2 con un átomo de
 - Propiedades: band gap muy alto, muy resistente a la manipulación mecánica y baja reactividad química. 
 - Aplicaciones: Material encapsulante o sustrato de estructuras 2D. Aumento en la movilidad electrónica del grafeno hasta 3 veces más que sin este substrato y aumenta la corriente hasta 2x
 
-## Fosforo Negro 
+## Fosforo Nigga
 - Material 2D con estructura ortorrómbica ondulada. 
 - Band gap directo 
 - Alta movilidad electrónica 
