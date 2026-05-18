@@ -14,4 +14,5 @@
 - Nanostich 
 - Imidas reaccionan muy fácilmente por los oxígenos 
 - Se imidiza 
+- Ensayo de tracción de 3 puntos 
 - 
