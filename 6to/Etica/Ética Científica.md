@@ -34,3 +34,8 @@ Técnica: Gremios de profesionistas que deciden que estudios y cualificaciones s
 | Posibilidad de publicar              | Nula, no se puede                                                                                                                                                            | Muy alta por que así lo evalúan                                                                                                  |
 | Uso de patentes y secreto industrial | 20 años, debe de ser algo nuevo a nivel mundial y debe de tener una aplicabilidad industrial, durante tu tiempo en la empresa y después de un tiempo no puedes divulgar nada |                                                                                                                                  |
 | Evaluación del investigador          |                                                                                                                                                                              | Numero de publicaciones, numero de citas, factor h (número de artículos citados) impacto de la revista, evaluación entre iguales |
+
+Derechos de autor: Propiedad intelectual, hacer copias o modificar obras de arte 
+Plagio: Hacer pasar la idea de alguien más como tuya 
+
+
