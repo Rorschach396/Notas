@@ -1,0 +1,39 @@
+
+- No existe una definición establecida de derecho, por lo que no se puede 
+- La economía no es ciencia 
+- El derecho es una ordenación normativa de comportamiento humano
+- hay muchas divisiones en el derecho 
+	- objetivo: que dice la ley 
+	- subjetivo: El derecho que te crea la ley 
+	- vigente: 
+	- no vigente
+- Norma Jurídica: Las normas jurídicas se aplican a todos los individuos que se encuentren comprometidos en su mandato sin distinción 
+- Norma obligatoria: Su cumplimiento puede ser exigido sin mediar la voluntad de los particulares. 
+- Las sentencias son normas jurídicas particulares 
+
+- normas jurídicas 
+	- nacionales: Normas de tu país 
+	- extranjeras: Aplican para un país que no es el tuyo 
+		- derecho internacional privado: Norma extranjera que te aplica, también conocida como conflicto de leyes 
+	- Internacionales: Acuerdo entre países, contratos entre países 
+	- Federales
+	- Locales 
+	- Municipales 
+- Existen leyes estatales 
+- Existe una jerarquía, donde el artículo 133 no dice nada y los pone en el mismo nivel a todos, según la ultima interpretación se puede poner en el siguiente orden: 
+	- Ámbito federal
+		- Constitución-tratados de DDHH 
+		- Tratados 
+		- Leyes federales 
+		- Leyes reglamentarias 
+	- Ámbito estatal
+		- Constitución estatal 
+		- Leyes estatales 
+		- Leyes reglamentarias 
+		- Ordenamientos municipales 
+- Orden jurídico mexicano 
+	- Legislativo: Hace las leyes, congreso de la unión , camara de diputados y camara de senadores 
+	- Jurídico: Resuelve conflictos, SCJN, tribunales federales 
+	- Ejecutivo: Aplica las normas, presidente
+- Amparo: Juicio que permite defender los derechos humanos 
+- 
