@@ -1,0 +1,13 @@
+- Conjunto de normas administrativas 
+- actividad del estado, del poder ejecutivo o de la misma administración publica 
+- trata de entender al derecho administrativo como el que hacer más específico de los diversos sujetos como es la actividad funcional los servicios públicos o las relaciones jurídicas entre administración y administrados. 
+- Elementos 
+	- Sujetos: El órgano del estado que es un complejo competencias, atribuciones, facultades, derechos, prerrogativas, deberes y obligaciones cuyo desempeño, ejercicio y cumplimiento debe de realizarse por medio de persona física. 
+	- Objeto: Patrimonio publico y en algunas ocasiones el patrimonio privado
+- Negativa ficta: Niega la constitución menos qlero 
+- Afirmativa ficta: Niega la constitución más qlero 
+- Fuente: Origen
+- Ordenanzas de bilbao 
+- Fuentes reales: Todos aquellos acontecimientos que suceden dentro de la sociedad, los cuales en un momento dado producen un cambio y evolucionan en el derecho administrativo 
+- Diputados: Representan a las personas 
+- Senadores: representan estados 

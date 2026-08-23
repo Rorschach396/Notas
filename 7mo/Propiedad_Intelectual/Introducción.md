@@ -36,4 +36,10 @@
 	- Jurídico: Resuelve conflictos, SCJN, tribunales federales 
 	- Ejecutivo: Aplica las normas, presidente
 - Amparo: Juicio que permite defender los derechos humanos 
-- 
+- El derecho se divide en: 
+	- Derecho publico: Supra subordinación, el gobierno está en lo más alto 
+		- Constitucional 
+		- Administrativo
+		- Penal 
+	- Derecho privado: Civil mercantil, todos están al mismo nivel 
+	- Derecho social: laboral, agrario, indígena, ambiental; se asume que estos grupos son de menor valor a comparación que el derecho mercantil entre otros. 
