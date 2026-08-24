@@ -1,0 +1,2 @@
+Es muy complicado poder ver las células y es aun más complicado poder ver las nanopartículas de las células. Hay partículas duras que pueden tener una carga en su superficie, para que estas partículas pueden formar un coloide deben de tener un estabilizante. 
+Las fuerzas de van der waals tienen una fuerza tan baja que solo se pueden dar cuando están extremadamente cerca. Existen gráficas que explican la energía que presenta una partícula cuando otra se le está acercando 

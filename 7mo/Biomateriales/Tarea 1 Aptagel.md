@@ -3,12 +3,31 @@
 ## Definiciones importantes
 - Aptámero: oligómeros de ácidos nucleicos de cadena sencilla (ssDNA y RNA) que tienen la capacidad de unirse con moléculas específicas. 
 - Vancomicina: Antibiótico ampliamente usado 
+```smiles
+
+```
 - Poli(etilenglicol)-norborneno de 8 brazos: Macrómero ramificado que tiene extremos de norborneno que se entrecruzan de forma rápida en un hidrogel biocompatible (PEG-NB)
 - DTT: 1,4-dithiothreito
+```smiles
+C(C(C(CS)O)O)S
+```
 - DDT:  1-dodecanthiol
+```smiles
+CCCCCCCCCCCCS
+```
 - TCEP: Tris(2-carboxyethyl)phosphine hydrochloride
+```smiles
+Cl.OC(=O)CCP(CCC(O)=O)CCC(O)=O
+```
 - LAP: lithium phenyl(2,4,6trimethylbenzoyl)phosphina
+```smiles
+O=P(C(C1=C(C)C=C(C)C=C1C)=O)(C2=CC=CC=C2)[O-].[Li+]
+```
 - DD: Aptámero con doble terminación con grupo tiol 
+- Norborneno: Compuesto orgánico y bicíclico que tiene la formula $C_{7}H_{10}$ que presenta una alta reactividad debido a la tensión presente en el doble enlace. 
+```smiles
+C1=CC2CCC1C2
+```
 
 ## Forma de sintetizar
 ### Preparación del oro
@@ -31,3 +50,5 @@
 - Se logró encontrar cual sería el aptámero ideal para esta tarea 
 
 La sangre de caballo permitió medir su eficiencia en la discriminación de la vancomicina, su tiempo de función (3 semanas) y demostrar que el gel permitia mantener las propiedades de los aptámeros. En el caso del suero de rata permitió ver que puede durar hasta 5 semanas, en la sangre de caballo puede durar hasta 24 horas 
+
+- Se deben de agregar referencias 
