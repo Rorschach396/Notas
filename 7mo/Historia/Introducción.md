@@ -18,10 +18,3 @@ Se puede usar IA en la clase
 | Presentación y reflexión III (líder empresarial tecnológico)                           | 15         |
 | Presentación y documento del proyecto II                                               | 35         |
 Se tiene que mejorar la cultura extranjera con la Mexicana 
-
-
-
- 
-
-
-
