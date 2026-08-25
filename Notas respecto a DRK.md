@@ -1,4 +1,4 @@
 - 24-08-2026: El derek menciona que cuando tiene hambre empieza a decir mamadas, como en el caso de DnD empieza a decir que va a seducir a los enemigos SOLO para molestar. 
 - 21-08-2026: Menciona el "DAAAAAAAAAAAAAAAAAAM" hasta por mensaje 
 - 25-08-2026: Se vuelve a mencionar el hecho de DAM sin un motivo aparente
-- 
+- 25-08-2026: Se le ve al individuo leyendo un libro por primera vez por un motivo peculiar. 
