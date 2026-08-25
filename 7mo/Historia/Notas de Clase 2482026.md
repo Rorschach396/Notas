@@ -1,6 +1,6 @@
 Para saber que alguien está loco: 
 - No debe ser consiente de la realidad 
-- Debe haber congruencia entre lo que piensas y lo que haces 
+- Debe haber congruencia entre lo que piensas, sientes y haces 
 
 - Libertad 
 - Confianza 
@@ -15,5 +15,7 @@ Para saber que alguien está loco:
 - Puro tornillo
 - waiting for superman 
 - Estados Unidos: El lugar donde hay 
--  Los bambús están iluminados como en el budismo 
+- Los bambús están iluminados como en el budismo 
+- Buscar una salida de negocios a nuestra tesis 
+- Encuesta de ingreso y gasto en los hogares: ENIGH
 - 
