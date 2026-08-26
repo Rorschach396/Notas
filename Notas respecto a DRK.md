@@ -2,3 +2,4 @@
 - 21-08-2026: Menciona el "DAAAAAAAAAAAAAAAAAAM" hasta por mensaje 
 - 25-08-2026: Se vuelve a mencionar el hecho de DAM sin un motivo aparente
 - 25-08-2026: Se le ve al individuo leyendo un libro por primera vez por un motivo peculiar. 
+- 26-08-2026: A media clase frente al profesor se pone a jugar en internet para aprender mecanografía 
