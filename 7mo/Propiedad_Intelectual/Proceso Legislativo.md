@@ -1,0 +1,38 @@
+ - Primero pasa por los diputados 
+ - Después pasa por los senadores 
+ - Pasa al poder ejecutivo 
+ - Diario oficial de la federación 
+	 - En Querétaro es la sombra de artenga 
+ - El poder ejecutivo puede vetar leyes 
+	 - Jerarquía de las leyes 
+	 - Constitución, tratados DDHH 
+	 - Tratados 
+	 - leyes federales
+	 - reglamento
+- Reglamento: Norma jurídica general, no es ley por que no pasó por el proceso legislativo 
+- Ley: Crea nuevas situaciones jurídicas generales, abstractas e impersonales, permanentes y obligatorias 
+- Reglamento: contiene disposiciones generales abstractas, obligatorias que desarrollan y detallan una ley sin excedería ni contradecirlo 
+- Costumbre: es muy complicado que se pueda llevar la costumbre a una ley 
+- Principios generales del derecho: normas que se siguen como guías desde hace mucho tiempo. 
+- iura novit curia 
+- in dubio pro reo 
+- Cuando se mete un amparo se mencionan los artículos 14 y 16: Debido proceso, recae sobre la interpretación de la ley  
+- Tesis aisladas
+- reiteración 
+- jurisprudencia 
+- contradicción 
+- Jurisprudencia: Interpretación de la ley que hacen los jueces, fuera de México es el estudio de la ley estudiando sentencias. 
+- Normas de calidad: Disposiciones generales de tipo técnico que emite la administración pública directa o indirectamente para regular las características de un bien o servicio que se produzca en el país o se importe a éste. Regulan una cuestión muy específica 
+- Decretos: Orden emitida por una autoridad, el decreto está supeditado tanto a la ley como al reglamento
+- Proceso legislativo del artículo 72 
+	- Congreso de la Unión 
+	- Presidente 
+	- DOF 
+- Se pueden sacar decretos ley solo cuando el congreso lo aprueba 
+- Acuerdos: 
+	- decisión de un servidor público 
+	- acto ejecutivo emitido por un cuerpo colegiado de funcionarios 
+	- resolución de un superior jerárquico respecto a un asunto presentado por su subordinado 
+	- el instrumento para la cración de organismos administrativos 
+	- Un vergo más que no anoté 
+- 
