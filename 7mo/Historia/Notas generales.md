@@ -12,4 +12,5 @@
 - Hay geles en japón que permiten evitar comer pero que no dañan el cuerpo 
 - Productos culturales de japón 
 - Estas series no son pasivas, si no motivan a las personas a buscar algo más 
+- En las historias japonesas se busca promover la esperanza en los seres humanos a comparación de las historias generadas en estados unidos donde se muestra que siempre habrá alguien que va a buscar ser superior a otro 
 - 
