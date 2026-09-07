@@ -9,4 +9,5 @@
 - Robusta es más chida 
 - La mezcla arabica tiene cualidades particulares 
 - El cultivo que se tiene ahorita es una cosa dañina para el medioambiente 
+- Hay geles en japón que permiten evitar comer pero que no dañan el cuerpo 
 - 
