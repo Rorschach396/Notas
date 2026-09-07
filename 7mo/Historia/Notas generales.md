@@ -10,4 +10,6 @@
 - La mezcla arabica tiene cualidades particulares 
 - El cultivo que se tiene ahorita es una cosa dañina para el medioambiente 
 - Hay geles en japón que permiten evitar comer pero que no dañan el cuerpo 
+- Productos culturales de japón 
+- Estas series no son pasivas, si no motivan a las personas a buscar algo más 
 - 
