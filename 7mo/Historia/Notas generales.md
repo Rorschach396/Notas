@@ -17,4 +17,5 @@
 - Pilotado por un ser humano o que fuera completamente automático un robot 
 - En Gundam si se pueden crear mundos diferentes 
 - El ser humano se beneficia de los avances tecnológicos pero la tecnología se jode por parte de los humanos 
+- Se puede trasladar el espíritu a una máquina 
 - 
