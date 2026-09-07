@@ -18,4 +18,4 @@
 - En Gundam si se pueden crear mundos diferentes 
 - El ser humano se beneficia de los avances tecnológicos pero la tecnología se jode por parte de los humanos 
 - Se puede trasladar el espíritu a una máquina 
-- 
+- Combinación de interdisciplinas para los tecnólogos 
