@@ -76,3 +76,6 @@ El $E^2$ debe de ser mayor al 95%
 ***==El Benceno absorbe en los 280 nm==***
 
 Para determinar si una banda está formada por diferentes bandas empalmadas se puede utilizar la deconvolución para poder encontrar que bandas componen a la misma, también se pueden utilizar la primera y la cuarta derivada de los datos para poder encontrar el punto máximo, la cuarta derivada te dice donde está la banda o cual es la forma de la banda, para poder de esta forma realizar el proceso de deconvolución. 
+
+En el uv-vis se pueden ver diferentes compuestos que puedan dejar pasar la luz. 
+en el UV-VIS se puede ver el plasmon superficial  o el orbital molecular. 
