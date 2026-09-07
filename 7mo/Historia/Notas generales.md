@@ -14,4 +14,6 @@
 - Estas series no son pasivas, si no motivan a las personas a buscar algo más 
 - En las historias japonesas se busca promover la esperanza en los seres humanos a comparación de las historias generadas en estados unidos donde se muestra que siempre habrá alguien que va a buscar ser superior a otro 
 - Humanización del robot, un mundo trasladado a una sociedad donde los robots están relacionados con los seres humanos
+- Pilotado por un ser humano o que fuera completamente automático un robot 
+- En Gundam si se pueden crear mundos diferentes 
 - 
