@@ -26,3 +26,10 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 - BaOH: 
 - $Y^{+3}$: 396.66 mg
 - $NH_{4}F$: 131.925 mg
+
+### Procedimiento de disoluciones 
+
+1) Realizar las mediciones de los reactivos (normalmente cloruro de itrio, cloruro de iterbio y cloruro de erbio)
+2) Corroborar de por lo menos 3 veces que sean los reactivos indicados 
+3) Realizar las mediciones indicadas para cada reactivo: 
+	1) 
