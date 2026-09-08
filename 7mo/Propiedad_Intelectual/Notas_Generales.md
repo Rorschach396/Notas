@@ -14,4 +14,5 @@
 	- Si es divisional entonces se tendrá que dar con presición la fecha de presentación y número de expediente en trámite, correspondiente a la solicitud inicial. 
 	- En su caso, reclamación de prioridad en el señalamiento del país de origen, fecha de presentación y número de serie. 
 	- Descripción de la invención por duplicado 
-	- Dibujos necesarios 
+	- Dibujos necesarios
+	- Reivindicaciones claras y c
