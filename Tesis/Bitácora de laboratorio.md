@@ -44,6 +44,5 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 
 ### Procedimiento de lavados 
 
-1) sksksksksksks
-2) }
+1) 
 
