@@ -29,13 +29,19 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 
 ### Procedimiento de disoluciones 
 
-1) Realizar las mediciones de los reactivos (normalmente cloruro de itrio, cloruro de iterbio y cloruro de erbio)
-2) Corroborar de por lo menos 3 veces que sean los reactivos indicados 
-3) Realizar las mediciones indicadas para cada reactivo: 
+1) Corroborar de por lo menos 3 veces que sean los reactivos indicados 
+2) Realizar las mediciones indicadas para cada reactivo: 
 	1) Itrio con concentración de 0.5 M en 20 ml = 3.0326g 
 	2) Iterbio con concentración de 0.5 M en 20 ml = 3.875g 
 	3) Erbio con concentración de 0.1 M en 10 ml = 0.38171g 
-4) Colocar el reactivo medido en un vaso de precipitado 
-5) Agregar una pequeña cantidad de agua y remover para poder disolver la sal 
-6) Verter el contenido del vaso de precipitado en un matraz volumétrico 
-7) Agregar agua al vaso de precipitado, agitar y volver 
+3) Colocar el reactivo medido en un vaso de precipitado 
+4) Agregar una pequeña cantidad de agua y remover para poder disolver la sal 
+5) Verter el contenido del vaso de precipitado en un matraz volumétrico 
+6) Agregar agua al vaso de precipitado, agitar y colocar en el matraz volumétrico, repetir este paso un mínimo de 2 veces
+7) Aforar el matraz volumétrico. 
+
+![[Pasted image 20260908094827.png]]
+
+### Procedimiento de lavados 
+
+1) 
