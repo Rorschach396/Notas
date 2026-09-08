@@ -22,4 +22,20 @@
 - En la patente gana el que aplica primero 
 - Cuando se mete una patente, debe ser para una sola cosa, en caso de que sea una patente para algo que consta de varias cosas entonces el impi te dice que las dividas y se tienen que patentar de forma individual 
 - Hay dos exámenes para las patentes: 
-	- 
+	- Examen de forma 
+		- Solo pueden formular dos requerimientos 
+		- el primero debe emitirse dentro de los res meses posteriores a la presentación de la solicitud y de no formularse dentro de dicho plaso, 
+		- Sirve para poder iniciar el proceso y que se cheque que todo esté en regla, si no está en regla se le notificará al que esté aplicando para poder colocar todo en regla, si no lo hace entonces vale verga todo 
+		- Solo se hace dos veces 
+		- Si pasan más de 3 meses sin respuesta entonces se considera como rechazada 
+	- Publicación de la solicitud 
+		- Cuando se aprueba el examen de forma 
+		- Se publica en la gaceta de la propiedad industrial
+		- Se publica lo más rapido posible en el plaso de 18 meses 
+		- Contiene: datos bibliográficos contenidos en la solicitud, resumen de la invención y el dibujo más ilustrativo 
+		- Si pagas chido entonces se puede publicar un poco antes 
+		- Publicación formal después de que se de la patente 
+		- Busca que terceros den la opinión de tu patente 
+		- No sirve en México 
+		- se puede intentar patentar en la página del IMPI
+- También hay examen de fondo, pero se verá hasta después del examen 
