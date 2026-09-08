@@ -15,4 +15,7 @@
 	- En su caso, reclamación de prioridad en el señalamiento del país de origen, fecha de presentación y número de serie. 
 	- Descripción de la invención por duplicado 
 	- Dibujos necesarios
-	- Reivindicaciones claras y c
+	- Reivindicaciones claras y concisas sin exceder el contenido de la descripción 
+	- Resumen del invento 
+	- acreditación de la personalidad del apoderado 
+	- 
