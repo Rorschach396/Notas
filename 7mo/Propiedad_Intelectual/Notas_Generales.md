@@ -17,5 +17,7 @@
 	- Dibujos necesarios
 	- Reivindicaciones claras y concisas sin exceder el contenido de la descripción 
 	- Resumen del invento 
-	- acreditación de la personalidad del apoderado 
-	- 
+	- acreditación de la personalidad del apoderado
+- Apartir de que tu aplicaste en México, tienes 1 año a partir de que aplicaste la patente para poder aplicar en otros países 
+- En la patente gana el que aplica primero 
+- 
