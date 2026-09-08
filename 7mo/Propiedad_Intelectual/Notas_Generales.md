@@ -7,3 +7,8 @@
 - Las patentes se pagan en bloques de 5 años
 - Cuando se terminan los 20 años de la patente entonces ya se perdió y cualquiera la puede explotar 
 - Para poder patentar es importante hacer un chingo de trámites 
+	- Nacionalidad 
+	- Nombre y domicilio 
+	- Denominación 
+	- Fecha en la que la invención fue divulgada (si es necesario 
+	- )
