@@ -20,4 +20,6 @@
 	- acreditación de la personalidad del apoderado
 - Apartir de que tu aplicaste en México, tienes 1 año a partir de que aplicaste la patente para poder aplicar en otros países 
 - En la patente gana el que aplica primero 
-- 
+- Cuando se mete una patente, debe ser para una sola cosa, en caso de que sea una patente para algo que consta de varias cosas entonces el impi te dice que las dividas y se tienen que patentar de forma individual 
+- Hay dos exámenes para las patentes: 
+	- 
