@@ -10,5 +10,5 @@
 	- Nacionalidad 
 	- Nombre y domicilio 
 	- Denominación 
-	- Fecha en la que la invención fue divulgada (si es necesario 
-	- )
+	- Fecha en la que la invención fue divulgada (si es necesario)
+	- Si es divisional entonces se tendrá que dar con presición la fh
