@@ -27,6 +27,7 @@
 	- Cosas que pueden dar valor 
 	- Cosa que necesita el consumidor  y que le puede servir inclusive cuando tienes competencia 
 	- Se tiene que tratar al cliente como una persona inteligente 
+	- Mejora del estado del ánimo 
 	- 
 - Relación con el consumidor 
 - Sectores de consumo 
