@@ -62,5 +62,8 @@
 - En el startup siempre se tienen mejoras, nunca se termina la chamba 
 - Definitivamente no me voy a meter a la política mientras tenga familia 
 - Scrum, certificarse en esta madre para poder administrar proyectos 
+- Estudio permanente 
+- Lo más importante es que todos esperan fallar 
+- Se tiene que fallar para poder aprender 
 - 
 ![[Pasted image 20260911162829.png]]
