@@ -24,6 +24,7 @@
 
 - Propuesta de valor 
 	- Cosa que no tiene nadie 
+	- Cosas que pueden dar valor 
 - Relación con el consumidor 
 - Sectores de consumo 
 - chanel 
