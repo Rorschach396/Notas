@@ -27,4 +27,9 @@
 - Sectores de consumo 
 - chanel 
 - Revenue 
-- Esto se va 
+- Esto se va a tener que presentar dos veces en el semestre que es el 50% de la calificación 
+- Key partners 
+- Key activities 
+- Key resources 
+- Costs 
+- 
