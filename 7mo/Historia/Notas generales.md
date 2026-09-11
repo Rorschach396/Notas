@@ -29,7 +29,7 @@
 	- Se tiene que tratar al cliente como una persona inteligente 
 	- Mejora del estado del ánimo 
 	- Belleza/estética 
-	- 
+	- Necesidad, racionalidad y la parte emocional 
 - Relación con el consumidor 
 - Sectores de consumo 
 - channel 
