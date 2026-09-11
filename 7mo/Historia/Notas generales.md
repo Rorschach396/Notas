@@ -74,5 +74,8 @@
 - La venta se concreta hasta que se deposita 
 - Hasta el más confiable anda valiendo verga 
 - Es mejor mantenerse con una estructura horizontal a empezar a hacer una estructura vertical 
+- No siempre subir rápido es mejor, hay veces en las que es mejor trabajar lento que en putiza 
+- Los mentores mínimo te hacen pensar 
+- Mínimo 3 o 4 mentores 
 - 
-![[Pasted image 20260911162829.png]]
+![[Pasted image 20260911162829.png]]45
