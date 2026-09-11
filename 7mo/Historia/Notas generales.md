@@ -60,5 +60,7 @@
 - Lo que vende va primero
 - Feedback de las personas que van a comprar
 - En el startup siempre se tienen mejoras, nunca se termina la chamba 
+- Definitivamente no me voy a meter a la política mientras tenga familia 
+- Scrum, certificarse en esta madre para poder administrar proyectos 
 - 
 ![[Pasted image 20260911162829.png]]
