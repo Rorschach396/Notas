@@ -35,6 +35,7 @@
 	- Como se mantiene en contacto con el cliente
 	- Regalos (forma de poder mantener contacto aunque sea algo muy burdo)
 	- Encontrar la manera en la que el cliente pueda acordarse de ti 
+	- No se tiene que atosigar al cliente, solo se tiene que buscar estar presente 
 	- 
 - Sectores de consumo 
 	- Evangelistas: Personas que creen en ti, personas que confían en el producto que estás dando sin la necesidad de pruebas 
