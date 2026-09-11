@@ -26,6 +26,7 @@
 	- Cosa que no tiene nadie 
 	- Cosas que pueden dar valor 
 	- Cosa que necesita el consumidor  y que le puede servir inclusive cuando tienes competencia 
+	- Se tiene que tratar al cliente como una persona inteligente 
 	- 
 - Relación con el consumidor 
 - Sectores de consumo 
