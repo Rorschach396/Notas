@@ -52,4 +52,6 @@
 - Key resources 
 - Costs 
 - Qpdo tuvo in intento de asesinato 
+- La voluntad no es suficiente, se necesita la inteligencia 
+- Si me muero, mínimo dejé un libro 
 ![[Pasted image 20260911162829.png]]
