@@ -51,9 +51,5 @@
 - Key activities 
 - Key resources 
 - Costs 
-- 
-
-
-
-
+- Qpdo tuvo in intento de asesinato 
 ![[Pasted image 20260911162829.png]]
