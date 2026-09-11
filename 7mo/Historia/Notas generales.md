@@ -25,9 +25,11 @@
 - Propuesta de valor 
 	- Cosa que no tiene nadie 
 	- Cosas que pueden dar valor 
+	- Cosa que necesita el consumidor  y que le puede servir inclusive cuando tienes competencia 
+	- 
 - Relación con el consumidor 
 - Sectores de consumo 
-- chanel 
+- channel 
 - Revenue 
 - Esto se va a tener que presentar dos veces en el semestre que es el 50% de la calificación 
 - Key partners 
