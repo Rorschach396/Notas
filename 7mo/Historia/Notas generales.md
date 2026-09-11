@@ -37,3 +37,8 @@
 - Key resources 
 - Costs 
 - 
+
+
+
+
+![[Pasted image 20260911162829.png]]
