@@ -36,22 +36,29 @@
 	- Regalos (forma de poder mantener contacto aunque sea algo muy burdo)
 	- Encontrar la manera en la que el cliente pueda acordarse de ti 
 	- No se tiene que atosigar al cliente, solo se tiene que buscar estar presente 
-	- 
 - Sectores de consumo 
 	- Evangelistas: Personas que creen en ti, personas que confían en el producto que estás dando sin la necesidad de pruebas 
 	- Customer development
 	- La propuesta de valor se encuentra conectada con el consumidor objetivo 
-	- 
 - channel 
 	- Como hacer que el producto siempre esté en contacto con el cliente 
-	- 
 - Revenue 
-- Esto se va a tener que presentar dos veces en el semestre que es el 50% de la calificación 
 - Key partners 
 - Key activities 
 - Key resources 
 - Costs 
+- Esto se va a tener que presentar dos veces en el semestre que es el 50% de la calificación 
 - Qpdo tuvo in intento de asesinato 
 - La voluntad no es suficiente, se necesita la inteligencia 
 - Si me muero, mínimo dejé un libro 
+- El mundo no es bonito 
+- Si alguien ya invirtió en mi, eso quiere decir que soy bueno $\rightarrow$ no necesariamente 
+- No tiene que haber sobreconfianza 
+- No se tiene que implementar sin verificar 
+- Primero se tiene que vender, lean startup
+- Primero se busca cual es el cliente, el proveedor y todo para poder tener ya al cliente 
+- Lo que vende va primero
+- Feedback de las personas que van a comprar
+- En el startup siempre se tienen mejoras, nunca se termina la chamba 
+- 
 ![[Pasted image 20260911162829.png]]
