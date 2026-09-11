@@ -78,5 +78,5 @@
 - Los mentores mínimo te hacen pensar 
 - Mínimo 3 o 4 mentores 
 - Hay que saber como manejar las crisis 
-- 
+- Si estás en la tormenta, que se puede hacer ?? 
 ![[Pasted image 20260911162829.png]]45
