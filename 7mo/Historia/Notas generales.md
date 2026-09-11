@@ -30,9 +30,19 @@
 	- Mejora del estado del ánimo 
 	- Belleza/estética 
 	- Necesidad, racionalidad y la parte emocional 
+	- Quien se queda con lo que voy a ofrecer 
 - Relación con el consumidor 
+	- Como se mantiene en contacto con el cliente
+	- Regalos (forma de poder mantener contacto aunque sea algo muy burdo)
+	- 
 - Sectores de consumo 
+	- Evangelistas: Personas que creen en ti, personas que confían en el producto que estás dando sin la necesidad de pruebas 
+	- Customer development
+	- La propuesta de valor se encuentra conectada con el consumidor objetivo 
+	- 
 - channel 
+	- Como hacer que el producto siempre esté en contacto con el cliente 
+	- 
 - Revenue 
 - Esto se va a tener que presentar dos veces en el semestre que es el 50% de la calificación 
 - Key partners 
