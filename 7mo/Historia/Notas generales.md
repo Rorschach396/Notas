@@ -65,5 +65,10 @@
 - Estudio permanente 
 - Lo más importante es que todos esperan fallar 
 - Se tiene que fallar para poder aprender 
+- Siempre se finge saber 
+- Nunca se va a saber que es lo que quiere el cliente 
+- No se debe de dar por sentado que el saber que es lo que quiere el cliente 
+- Siempre se quiere iniciar, primero se tiene que tener todo antes de empezar 
+- El que empieza bien sigue bien, el que empieza mal termina mal 
 - 
 ![[Pasted image 20260911162829.png]]
