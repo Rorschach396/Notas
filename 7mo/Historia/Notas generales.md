@@ -23,6 +23,7 @@
 # 11/09/2026
 
 - Propuesta de valor 
+	- Cosa que no tiene nadie 
 - Relación con el consumidor 
 - Sectores de consumo 
 - chanel 
