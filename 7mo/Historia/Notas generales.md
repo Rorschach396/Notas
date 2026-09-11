@@ -70,5 +70,6 @@
 - No se debe de dar por sentado que el saber que es lo que quiere el cliente 
 - Siempre se quiere iniciar, primero se tiene que tener todo antes de empezar 
 - El que empieza bien sigue bien, el que empieza mal termina mal 
+- Si no se prueba de forma constante puede fallar, es mejor decir que aun no es la final y así poder probar el producto 
 - 
 ![[Pasted image 20260911162829.png]]
