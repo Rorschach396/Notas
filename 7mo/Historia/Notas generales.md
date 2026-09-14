@@ -99,5 +99,6 @@ Esta clase fue tomada en línea
 - Pinches políticos están de la verga 
 - El sistema está muy jodido 
 - En asía se reconoce más la capacidad que la lana (hasta cierto punto)
+- Los ricos no pagan impuestos 
 - 
 ![[Pasted image 20260914161725.png]]
