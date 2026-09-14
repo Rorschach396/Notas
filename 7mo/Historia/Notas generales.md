@@ -91,4 +91,6 @@ Esta clase fue tomada en línea
 - Debe de existir una demanda para poder vender los productos 
 - Pinche capitalismo está de la verga, su fin ultimo es la automatización completa 
 - Existen muchos mundos, cada vez más segmentado 
+- Una vez más con el rent a human, que se jodan 
+- 
 ![[Pasted image 20260914161725.png]]
