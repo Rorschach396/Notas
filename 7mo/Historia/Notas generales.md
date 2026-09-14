@@ -100,5 +100,6 @@ Esta clase fue tomada en línea
 - El sistema está muy jodido 
 - En asía se reconoce más la capacidad que la lana (hasta cierto punto)
 - Los ricos no pagan impuestos 
-- 
-![[Pasted image 20260914161725.png]]
+- putos rentistas 
+- Dinero llama dinero 
+- ![[Pasted image 20260914161725.png]]
