@@ -86,4 +86,6 @@ Esta clase fue tomada en línea
 
 - Una sociedad no es lo mismo que una comunidad 
 - Una sociedad no es lo mismo que una población 
+- Siempre se tiene que estar trabajando 
 - 
+![[Pasted image 20260914161725.png]]
