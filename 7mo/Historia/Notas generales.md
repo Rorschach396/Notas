@@ -87,5 +87,7 @@ Esta clase fue tomada en línea
 - Una sociedad no es lo mismo que una comunidad 
 - Una sociedad no es lo mismo que una población 
 - Siempre se tiene que estar trabajando 
+- Post capitalismo: Solo las máquinas producen. 
+- Debe de existir una demanda para poder vender los productos 
 - 
 ![[Pasted image 20260914161725.png]]
