@@ -96,5 +96,6 @@ Esta clase fue tomada en línea
 - Hijos de perra, por que no le dan dinero a los negros ??
 - Existen barrios donde nomás hay gente fentfoldeada 
 - La idea del capitalismo se está desvaneciendo 
+- Pinches políticos están de la verga 
 - 
 ![[Pasted image 20260914161725.png]]
