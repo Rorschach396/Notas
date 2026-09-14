@@ -94,5 +94,7 @@ Esta clase fue tomada en línea
 - Una vez más con el rent a human, que se jodan 
 - Ya no se ocupa el dinero, según el Elon Musk 
 - Hijos de perra, por que no le dan dinero a los negros ??
+- Existen barrios donde nomás hay gente fentfoldeada 
+- La idea del capitalismo se está desvaneciendo 
 - 
 ![[Pasted image 20260914161725.png]]
