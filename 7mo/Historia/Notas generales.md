@@ -102,4 +102,5 @@ Esta clase fue tomada en línea
 - Los ricos no pagan impuestos 
 - putos rentistas 
 - Dinero llama dinero 
+- PTM por que se busca tanto el dinero ?? 
 - ![[Pasted image 20260914161725.png]]
