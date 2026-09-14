@@ -1,5 +1,4 @@
 %% Debido a que es extremadamente complicado poder tomar notas dentro de esta clase se decidió realizar este documento de notas generales%%
-
 # 07/09/2026
 
 - Plantationoceno: Denuncia la sobre simplificación de procesos agrícolas 
@@ -79,4 +78,4 @@
 - Mínimo 3 o 4 mentores 
 - Hay que saber como manejar las crisis 
 - Si estás en la tormenta, que se puede hacer ?? 
-![[Pasted image 20260911162829.png]]45
+![[Pasted image 20260911162829.png]]
