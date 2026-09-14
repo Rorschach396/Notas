@@ -89,5 +89,6 @@ Esta clase fue tomada en línea
 - Siempre se tiene que estar trabajando 
 - Post capitalismo: Solo las máquinas producen. 
 - Debe de existir una demanda para poder vender los productos 
+- Pinche capitalismo está de la verga, su fin ultimo es la automatización completa 
 - 
 ![[Pasted image 20260914161725.png]]
