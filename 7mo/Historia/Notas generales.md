@@ -79,3 +79,9 @@
 - Hay que saber como manejar las crisis 
 - Si estás en la tormenta, que se puede hacer ?? 
 ![[Pasted image 20260911162829.png]]
+
+# 14/09/2026
+
+Esta clase fue tomada en línea
+
+- 
