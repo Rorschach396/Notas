@@ -97,5 +97,6 @@ Esta clase fue tomada en línea
 - Existen barrios donde nomás hay gente fentfoldeada 
 - La idea del capitalismo se está desvaneciendo 
 - Pinches políticos están de la verga 
+- El sistema está muy jodido 
 - 
 ![[Pasted image 20260914161725.png]]
