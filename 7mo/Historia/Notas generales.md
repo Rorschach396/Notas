@@ -90,5 +90,5 @@ Esta clase fue tomada en línea
 - Post capitalismo: Solo las máquinas producen. 
 - Debe de existir una demanda para poder vender los productos 
 - Pinche capitalismo está de la verga, su fin ultimo es la automatización completa 
-- 
+- Existen muchos mundos, cada vez más segmentado 
 ![[Pasted image 20260914161725.png]]
