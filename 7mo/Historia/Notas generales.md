@@ -98,5 +98,6 @@ Esta clase fue tomada en línea
 - La idea del capitalismo se está desvaneciendo 
 - Pinches políticos están de la verga 
 - El sistema está muy jodido 
+- En asía se reconoce más la capacidad que la lana (hasta cierto punto)
 - 
 ![[Pasted image 20260914161725.png]]
