@@ -92,5 +92,7 @@ Esta clase fue tomada en línea
 - Pinche capitalismo está de la verga, su fin ultimo es la automatización completa 
 - Existen muchos mundos, cada vez más segmentado 
 - Una vez más con el rent a human, que se jodan 
+- Ya no se ocupa el dinero, según el Elon Musk 
+- Hijos de perra, por que no le dan dinero a los negros ??
 - 
 ![[Pasted image 20260914161725.png]]
