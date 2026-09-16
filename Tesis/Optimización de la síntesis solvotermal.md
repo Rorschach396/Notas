@@ -12,16 +12,6 @@ La síntesis solvotermal es un proceso en el cual los reactivos se encuentran en
 
 El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmente se suele hacer en estado sólido, esto presenta dificultades para poder obtener una buena eficiencia de la reacción. Para poder contrarrestar estas dificultades se puede utilizar la síntesis solvotermal, la cual además de permitir tener un mayor control en la forma, tamaño y distribución cristalina; esta permite tener una mayor eficiencia de reacción. Debido a que la reacción solvotermal es muy sensible a cambios en la presión y temperatura se tienen que realizar pruebas para poder encontrar cuales son los parámetros de reacción óptimos para poder obtener la fase que se busca; sumado a esto es necesario considerar que se puede variar la proporción estequiométrica de los reactivos para poder mejorar la eficiencia de la emisión del material, debido a esto se buscará encontrar cuales son los parámetros más indicados para poder llevar a cabo la reacción y poder obtener la mayor eficiencia en la emisión. 
 
-# Portada 
+# Metodología 
 
-Licenciatura en tecnología 
 
-OPTIMIZACIÓN DE LA SÍNTESIS SOLVOTERMAL DE $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$
-
-TESIS 
-
-QUE PARA OPTAR POR EL GRADO DE:
-LICENCIADO EN TECNOLOGÍA 
-
-PRESENTA: 
-JOSÉ ROGELIO SÁNCHEZ ESPÍRITU 
