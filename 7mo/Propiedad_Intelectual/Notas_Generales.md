@@ -74,4 +74,5 @@ Ahora si, notas de la clase:
 	- Un gel de solventes eutécticos profundos (DES) caracterizado por que comprende: 
 		- Un solvente eutéctico profundo sintetizado con una proporción molar de 1:2 de cloruro de colina y etilen glicol con un 22% en peso de gelatina
 	- El solvente eutéctico caracterizado por la reivindicación 1 se le podrá agregar como aditivo entre un 10% y 20% en peso de nanocristales de celulosa (CNC)
-	- En conformidad con la reivindicación 1 se puede sustituir la gelatina por a
+	- En conformidad con la reivindicación 1 se puede sustituir la gelatina por ácido acrílico (AA) en una relación de 30% en peso 
+	- Es posible agregar un agente reticulante fotocurable co
