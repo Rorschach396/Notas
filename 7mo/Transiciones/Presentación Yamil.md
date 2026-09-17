@@ -1,0 +1,7 @@
+- Sólido: Conjunto de átomos o moléculas que interactúan entre si de manera tal que forman una estructura "rígida" que es capaz de dispersar energía que se le aplica en función de su acomodo relativo entre sus constituyentes. 
+- Fase: Región de material con composición química y propiedades físicas homogéneas. 
+- Organización de las fases sólidas: 
+	- Cristales (los sólidos pueden ser cristalinos (mono o poli), amorfos o cuasicristalinos). 
+	- Granos 
+	- Microestructura 
+- 
