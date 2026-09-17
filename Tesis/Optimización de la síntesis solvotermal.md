@@ -15,7 +15,10 @@ El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmen
 # Metodología 
 
 ## Síntesis 
-1) Pesar el acetato de bario, cloruro de itrio, fluoruro de amonio y 
+1) Pesar el acetato de bario, cloruro de itrio, fluoruro de amonio, cloruro de iterbio y cloruro de erbio. 
+2) Disolver en 2 ml de agua el acetato de bario. 
+3) Disolver en 2 ml de agua el cloruro de itrio, cloruro de iterbio y cloruro de erbio. 
+4) Medir 
 
 ## Lavados 
 1) Centrifugar a ==6000 rpm durante 10 min== y desechar el sobrenadante evitando que pase sobre el precipitado. 
