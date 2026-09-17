@@ -56,4 +56,8 @@ Leer páginas 163-66 del escrito de Bercovitz.  Contesten:
 	- Deben tener apoyo suficiente en la descripción 
 	- Deben respetar la exigencia de la unidad de invención
 Ahora si, notas de la clase: 
+- Preambulo: Introducción al objeto de la invención. Caracterizado por y luego la característica, esto es lo que permite proteger 
+- Palabras utilizadas deben ser las que normalmente se emplean en el área técnica 
+- No debe haber inconsistencias entre reivindicaciones y la descripción 
+- No se puede usar "aproximadamente" o "alrededor"
 - 
