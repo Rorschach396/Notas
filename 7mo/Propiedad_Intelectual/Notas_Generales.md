@@ -70,4 +70,6 @@ Ahora si, notas de la clase:
 	- No deberán redactarse en función de las características técnicas esenciales de la invención 
 	- No debes de mandar a las figuras o dibujos amenos que sea completamente necesario 
 	- Si se tiene más de una categoría, por cada categoría debe haber una independiente. Cada independiente debe de referirse a una característica. 
-- 
+- Ejemplo 
+	- Un gel de solventes eutécticos profundos (DES) caracterizado por que comprende: 
+		- Un solvente eutéctico profundo sintetizado con una proporción molar de 1:2 de cloruro de colina y etilen glicol con un 22% en peso de gelatina
