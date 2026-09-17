@@ -48,6 +48,7 @@ Leer páginas 163-66 del escrito de Bercovitz.  Contesten:
 - ¿Cuál es la función principal de las reivindicaciones según el autor? Explique la analogía con los linderos de los bienes inmuebles.
 	- En el caso de los lideros se tiene que definir con claridad los lideros para poder determinar con claridad el objeto de la propiedad y los límites que tiene que respetar con terceros. En este caso las reivindicaciones son muy similares por que determina que se tiene que proteger, determina que es el objeto. 
 - ¿Qué significa que las reivindicaciones son "el corazón mismo, el núcleo esencial" de la patente?
-	- 
+	- Es la parte escencial de la patente, esto debido a que son la parte central que va a defender la patente
 - ¿Qué consecuencias jurídicas tiene la ausencia de reivindicaciones en una solicitud de patente?
+	- 
 - ¿Cuáles son los tres requisitos de fondo según Mousseron?
