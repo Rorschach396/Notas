@@ -4,4 +4,8 @@
 	- Cristales (los sólidos pueden ser cristalinos (mono o poli), amorfos o cuasicristalinos). 
 	- Granos 
 	- Microestructura 
+- Cristales: Conjunto de átomos o moléculas que ocupan posiciones fijas con respecto a un modelo matemático. 
+- Granos: Son un conjunto de cristales de una misma fase, orientados al azar (policristalinos). 
+- Límite de grano: Colisión entre dos granos diferentes, estos presentan una alta energía; los tratamientos térmicos provocan cambios en la morfología de estos. 
+- Microestructura: Disposición de fases (granos)  y defectos en un material. Implica el tamaño, la forma y la distribución. 
 - 
