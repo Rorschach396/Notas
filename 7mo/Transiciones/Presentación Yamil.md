@@ -10,4 +10,4 @@
 - Microestructura: Disposición de fases (granos)  y defectos en un material. Implica el tamaño, la forma y la distribución. 
 - Difusión: Solubilidad ilimitada en estado sólido. Después de la solidificación, los átomos forman una sola fase y se ubican de manera aleatoria dentro de la estructura cristalina. Forman una sola fase 
 - Cuando hay una solubilidad limitada en estado sólido, si se agrega una proporción de una especie  atómica en otra y la solución que solidifica presenta un excedente, se forma un compuesto diferente. Coexistiendo dos fases sólidas. Estas soluciones sólidas pueden formar mecanismos sustitucionales o intersticiales. 
-- 
+- Vacancia: Átomo ausente de su sitio normal, aumenta la entropía del material e incrementa la estabilidad termodinámica de los materiales cristalinos. 
