@@ -64,3 +64,10 @@ Ahora si, notas de la clase:
 	- Dependientes: Dependen de otra reivindicación. 
 	- Independientes: Siempre va a ser la primera y no depende de otras reivindicaciones 
 	- En el examen pueden eliminar una dependiente y no pasa nada, cuando te eliminan una independiente eliminan todas las dependientes que tenga
+- Artículo 52 del reglamento: Las reivindicaciones deben de seguir las siguientes reglas: 
+	- Número de reivindicaciones deberá corresponder a la naturaleza de la invención reivindicada
+	- Cuando se presenten varias reivindicaciones se enumerarán en forma consecutiva con números arábicos 
+	- No deberán redactarse en función de las características técnicas esenciales de la invención 
+	- No debes de mandar a las figuras o dibujos amenos que sea completamente necesario 
+	- Si se tiene más de una categoría, por cada categoría debe haber una independiente. Cada independiente debe de referirse a una característica. 
+- 
