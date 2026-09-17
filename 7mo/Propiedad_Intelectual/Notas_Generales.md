@@ -60,4 +60,7 @@ Ahora si, notas de la clase:
 - Palabras utilizadas deben ser las que normalmente se emplean en el área técnica 
 - No debe haber inconsistencias entre reivindicaciones y la descripción 
 - No se puede usar "aproximadamente" o "alrededor"
-- 
+- hay dos tipos de reivindicaciones
+	- Dependientes: Dependen de otra reivindicación. 
+	- Independientes: Siempre va a ser la primera y no depende de otras reivindicaciones 
+	- En el examen pueden eliminar una dependiente y no pasa nada, cuando te eliminan una independiente eliminan todas las dependientes que tenga
