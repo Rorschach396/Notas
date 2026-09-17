@@ -43,6 +43,7 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 ![[Pasted image 20260908094827.png]]
 
 ### Procedimiento de lavados 
-
-1) 
-
+1) Centrifugar a 6000 rpm durante 10 min y desechar el sobrenadante evitando que pase sobre el precipitado. 
+2) Lavar con ==6ml de hexano==, redispersar y centrifugar bajo las mismas condiciones. 
+3) Repetir el paso #2 3 veces; en el ultimo lavado añadir ==100 $\mu l$== de ácido clorhídrico. 
+4) 
