@@ -18,12 +18,18 @@ El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmen
 1) Pesar el acetato de bario, cloruro de itrio, fluoruro de amonio, cloruro de iterbio y cloruro de erbio. 
 2) Disolver en 2ml de agua el acetato de bario. 
 3) Disolver en 2ml de agua el cloruro de itrio, cloruro de iterbio y cloruro de erbio. 
-4) Medir 10ml de ácido oleico y 10ml de 1-octadecano 
+4) Medir 10ml de ácido oleico y 10ml de 1-octadeceno y agregar la solución de acetato de bario, calentar a 115°C por 30 minutos para formar oleatos.
+5) Medir 10ml de ácido oleico y 10ml de 1-octadeceno y agregar la solución de cloruro de itrio, cloruro de iterbio y cloruro de erbio, calentar a 115°C por 30 minutos para formar los oleatos. 
+6) Disolver el fluoruro de amonio en 12ml de metanol en un recipiente cerrado. 
+7) Cuando los oleatos se encuentren fríos, agregar a un recipiente de teflón los oleatos junto con la solución de metanol y fluoruro de amonio. 
+8) Colocar el recipiente de teflón en una autoclave. 
+9) Colocar el autoclave en un horno a 200°C por 24 horas. 
 
 ## Lavados 
-1) Centrifugar a ==6000 rpm durante 10 min== y desechar el sobrenadante evitando que pase sobre el precipitado. 
-2) Lavar con ==6ml de hexano==, redispersar y centrifugar bajo las mismas condiciones. 
-3) Repetir el paso #2 3 veces; en el ultimo lavado añadir ==100 $\mu l$== de ácido clorhídrico. 
+1) Centrifugar a 6000 rpm durante 10 min y desechar el sobrenadante evitando que pase sobre el precipitado. 
+2) Lavar con 6ml de hexano, redispersar y centrifugar bajo las mismas condiciones. 
+3) Repetir el paso #2 3 veces; en el ultimo lavado añadir 100 $\mu l$ de ácido clorhídrico. 
 4) Repetir el mismo procedimiento de lavado utilizando etanol como solvente. 
-5) Añadir ==9ml de agua destilada + 1ml de ácido clorhídrico==, colocar a baño ==ultrasónico durante 30 min==, luego centrifugar para retirar el agua. 
-6) Realizar una redispersión en ==7ml de hexano + 20$\mu l$ de ácido clorhídrico==. Después de que se aglomeren ==centrifugar a 6000 rpm durante 10 min== y decantar. 
+5) Añadir 9ml de agua destilada + 1ml de ácido clorhídrico, colocar a baño ultrasónico durante 30 min, luego centrifugar para retirar el agua. 
+6) Realizar una redispersión en 7ml de hexano + 20$\mu l$ de ácido clorhídrico. Después de que se aglomeren centrifugar a 6000 rpm durante 10 min y decantar. 
+7) 
