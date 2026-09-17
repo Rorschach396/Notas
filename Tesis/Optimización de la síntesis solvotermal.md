@@ -14,4 +14,6 @@ El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmen
 
 # Metodología 
 
+## Síntesis 
 
+1) Pesar 
