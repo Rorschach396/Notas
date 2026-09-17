@@ -39,3 +39,5 @@
 		- No sirve en México 
 		- se puede intentar patentar en la página del IMPI
 - También hay examen de fondo, pero se verá hasta después del examen 
+# 17/09/2026
+
