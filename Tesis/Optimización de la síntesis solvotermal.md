@@ -32,4 +32,4 @@ El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmen
 4) Repetir el mismo procedimiento de lavado utilizando etanol como solvente. 
 5) Añadir 9ml de agua destilada + 1ml de ácido clorhídrico, colocar a baño ultrasónico durante 30 min, luego centrifugar para retirar el agua. 
 6) Realizar una redispersión en 7ml de hexano + 20$\mu l$ de ácido clorhídrico. Después de que se aglomeren centrifugar a 6000 rpm durante 10 min y decantar. 
-7) Secar las nanopartículas sedimentadas 
+7) Secar las nanopartículas sedimentadas en un desecador a 70°C durante 1 hora. 
