@@ -41,3 +41,10 @@
 - También hay examen de fondo, pero se verá hasta después del examen 
 # 17/09/2026
 
+Se realizó un ejercicio de reivindicaciones que es el siguiente: 
+Leer páginas 163-66 del escrito de Bercovitz.  Contesten:
+- ¿Por qué históricamente se delimitaba el objeto de la patente a partir de la descripción y no de las reivindicaciones? ¿Qué problemas generaba?
+- ¿Cuál es la función principal de las reivindicaciones según el autor? Explique la analogía con los linderos de los bienes inmuebles.
+- ¿Qué significa que las reivindicaciones son "el corazón mismo, el núcleo esencial" de la patente?
+- ¿Qué consecuencias jurídicas tiene la ausencia de reivindicaciones en una solicitud de patente?
+- ¿Cuáles son los tres requisitos de fondo según Mousseron?
