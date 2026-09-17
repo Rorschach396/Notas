@@ -16,4 +16,4 @@ El proceso de síntesis de la fase $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ actualmen
 
 ## Síntesis 
 
-1) Pesar 
+1) Pesar el acetato de bario, cloruro de itrio, fluoruro de amonio y 
