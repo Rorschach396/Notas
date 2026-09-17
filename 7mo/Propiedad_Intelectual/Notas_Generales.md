@@ -44,7 +44,9 @@
 Se realizó un ejercicio de reivindicaciones que es el siguiente: 
 Leer páginas 163-66 del escrito de Bercovitz.  Contesten:
 - ¿Por qué históricamente se delimitaba el objeto de la patente a partir de la descripción y no de las reivindicaciones? ¿Qué problemas generaba?
+	- Para poder deducir de ella lo que constituía la invención protegida y objeto del derecho exclusivo de la explotación. Generaba inseguridad jurídica que generaba corruptelas, esto debido a que si se hacía una descripción muy vaga entonces se podía tener una protección más extensa. 
 - ¿Cuál es la función principal de las reivindicaciones según el autor? Explique la analogía con los linderos de los bienes inmuebles.
+	- 
 - ¿Qué significa que las reivindicaciones son "el corazón mismo, el núcleo esencial" de la patente?
 - ¿Qué consecuencias jurídicas tiene la ausencia de reivindicaciones en una solicitud de patente?
 - ¿Cuáles son los tres requisitos de fondo según Mousseron?
