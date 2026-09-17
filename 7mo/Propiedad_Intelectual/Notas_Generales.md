@@ -46,9 +46,14 @@ Leer páginas 163-66 del escrito de Bercovitz.  Contesten:
 - ¿Por qué históricamente se delimitaba el objeto de la patente a partir de la descripción y no de las reivindicaciones? ¿Qué problemas generaba?
 	- Para poder deducir de ella lo que constituía la invención protegida y objeto del derecho exclusivo de la explotación. Generaba inseguridad jurídica que generaba corruptelas, esto debido a que si se hacía una descripción muy vaga entonces se podía tener una protección más extensa. 
 - ¿Cuál es la función principal de las reivindicaciones según el autor? Explique la analogía con los linderos de los bienes inmuebles.
-	- En el caso de los lideros se tiene que definir con claridad los lideros para poder determinar con claridad el objeto de la propiedad y los límites que tiene que respetar con terceros. En este caso las reivindicaciones son muy similares por que determina que se tiene que proteger, determina que es el objeto. 
+	- En el caso de los linderos se tiene que definir con claridad los linderos para poder determinar con claridad el objeto de la propiedad y los límites que tiene que respetar con terceros. En este caso las reivindicaciones son muy similares por que determina que se tiene que proteger, determina que es el objeto. 
 - ¿Qué significa que las reivindicaciones son "el corazón mismo, el núcleo esencial" de la patente?
-	- Es la parte escencial de la patente, esto debido a que son la parte central que va a defender la patente
+	- Es la parte esencial de la patente, esto debido a que son la parte central que va a defender la patente
 - ¿Qué consecuencias jurídicas tiene la ausencia de reivindicaciones en una solicitud de patente?
-	- 
+	- No existe la patente si no tiene las reivindicaciones 
 - ¿Cuáles son los tres requisitos de fondo según Mousseron?
+	- Deben determinar suficientemente el objeto reivindicado, esto es, la invención para la que se pide protección 
+	- Deben tener apoyo suficiente en la descripción 
+	- Deben respetar la exigencia de la unidad de invención
+Ahora si, notas de la clase: 
+- 
