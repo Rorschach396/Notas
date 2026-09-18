@@ -36,4 +36,8 @@ Variables que condicionan la reproducibilidad del ensayo:
 - Masa y dimensión 
 - Velocidad de calentamiento 
 - Atmósfera 
-- Historia térmica y mecánica 
+- Historia térmica y mecánica: Ida y vuelta para poder eliminar cualquier lectura errónea 
+$$
+\Delta T = T_{s} - T_{r}
+$$
+Mismo material para la referencia y para el análisis, dentro del análisis de DTA se busca poder analizar cuanto se calienta el blanco y cuanto se calienta la mezcla. 
