@@ -61,3 +61,11 @@ Se puede poner la etiqueta de hacia donde es endotérmico y donde es exotérmico
 - Fusión Pico endotérmico absorción de calor 
 - Oxidación: Desviación sostenida de la línea base a alta temperatura
 
+
+| Criterio                 | DTA                                                                                | DSC                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Magnitud registrada      | Diferencia de temperatura                                                          | Diferencia de flujo de calor                                                         |
+| Naturaleza termodinámica | Cualitativa: La diferencia de temperatura no aporta datos cuantitativos de energía | Cuantitativas el flujo de calor proporciona el cambio de entalpía del evento         |
+| Intervalo térmico        | superior a 1500                                                                    | hasta 750                                                                            |
+| Convención de la curva   | Evento endotérmico hacia abajo                                                     | Evento endotérmico hacia arriba                                                      |
+| Idoneidad                | Materiales de elevada temperatura de fusión                                        | Determinación de entalpías, capacidad calorífica y transiciones de baja temperatura  |
