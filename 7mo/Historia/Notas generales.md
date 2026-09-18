@@ -108,3 +108,4 @@ Esta clase fue tomada en línea
 # 18/09/2026
 
 - Los productos buscan poder mejorar o beneficiar al consumidor, literalmente quitarle lo emputado 
+- El nombre es la introducción 
