@@ -114,4 +114,4 @@ Esta clase fue tomada en línea
 	- Tequilero mediano o empresas medianas de alcohol 
 	- Empresas de cervezas artesanales 
 - El arquetipo es quien se puede enamorar más rápido de tu tecnología 
-- 
+	- 
