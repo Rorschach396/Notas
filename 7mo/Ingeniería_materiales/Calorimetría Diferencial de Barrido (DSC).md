@@ -12,4 +12,11 @@ Cambios de flujo de calor, mide la entalpía
 
 - Pueden utilizarse crisoles de platino. 
 - TMA mide propiedades mecánicas respecto a la temperatura 
-- 
+
+| Evento térmico                | Reacción                                             | Flujo de calor | Cambio de masa |
+| ----------------------------- | ---------------------------------------------------- | -------------- | -------------- |
+| Transformación de fase sólida | A (sólido $\alpha$) $\rightarrow$ A (sólido $\beta$) | $\pm$          | No             |
+| Transición vítrea             | Vidrio -> caucho                                     | No             | no             |
+| Fusión                        | Sólido -> líquido                                    | +              | no             |
+| Sublimación                   | Sólido -> gas                                        | +              | si             |
+| Descomposición térmica        | Sólido -> sólido + gas                               | $\pm$          | si             |
