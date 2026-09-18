@@ -1,5 +1,5 @@
 Cambios de flujo de calor, mide la entalpía
-- Tanto el TGA como el DSC son análisis térmicos 
+- Tanto el TGA como el DSC son análisis térmicos
 
 | Técnica                             | Abreviatura | Magnitud medida              |
 | ----------------------------------- | ----------- | ---------------------------- |
@@ -10,3 +10,5 @@ Cambios de flujo de calor, mide la entalpía
 | Análisis termomecánico              | TMA         | Deformación                  |
 | Análisis mecánico dinámico          | DMA         | Deformación                  |
 
+- Pueden utilizarse crisoles de platino. 
+- 
