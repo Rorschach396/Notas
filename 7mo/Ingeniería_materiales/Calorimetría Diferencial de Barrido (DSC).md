@@ -11,4 +11,5 @@ Cambios de flujo de calor, mide la entalpía
 | Análisis mecánico dinámico          | DMA         | Deformación                  |
 
 - Pueden utilizarse crisoles de platino. 
+- TMA mide propiedades mecánicas respecto a la temperatura 
 - 
