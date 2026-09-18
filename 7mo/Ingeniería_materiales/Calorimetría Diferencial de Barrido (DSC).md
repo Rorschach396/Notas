@@ -56,4 +56,8 @@ DSC de compensación por potencia
 Se puede poner la etiqueta de hacia donde es endotérmico y donde es exotérmico 
 
 - Cambio de pendiente es la transición vítrea, se debe de saber mas o menos donde es  
-- 
+- En el punto de fusión se absorbe el calor latente 
+- Cristalización: Pico exotérmico la muestra libera calor 
+- Fusión Pico endotérmico absorción de calor 
+- Oxidación: Desviación sostenida de la línea base a alta temperatura
+
