@@ -20,3 +20,13 @@ Cambios de flujo de calor, mide la entalpía
 | Fusión                        | Sólido -> líquido                                    | +              | no             |
 | Sublimación                   | Sólido -> gas                                        | +              | si             |
 | Descomposición térmica        | Sólido -> sólido + gas                               | $\pm$          | si             |
+El análisis térmico se realiza habitualmente a presión constante debido a esto el calor intercambiado entre la muestra y su entorno queda descrito íntegramente por el cambio en la entalpía: 
+$$
+\begin{gather}
+\Delta U = Q-W \\
+\Delta U = Q_{p} P\Delta V \\
+H = U + PV  \\
+\Delta H = \Delta U + P\Delta V  \\
+\Delta H  = Q_{p}
+\end{gather}
+$$
