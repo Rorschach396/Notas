@@ -113,4 +113,5 @@ Esta clase fue tomada en línea
 - Quien me puede dar varo más rápido 
 	- Tequilero mediano o empresas medianas de alcohol 
 	- Empresas de cervezas artesanales 
-	- 
+- El arquetipo es quien se puede enamorar más rápido de tu tecnología 
+- 
