@@ -41,3 +41,14 @@ $$
 \Delta T = T_{s} - T_{r}
 $$
 Mismo material para la referencia y para el análisis, dentro del análisis de DTA se busca poder analizar cuanto se calienta el blanco y cuanto se calienta la mezcla. 
+
+DSC de flujo de calor
+- Mide directamente la diferencia de temperatura entre muestra y referencia 
+- Un algoritmo del programa informático convierte esa diferencia en una diferencia de flujo de calor 
+- El factor de calibración depende de la temperatura y debe determinarse próximo al pico a medir 
+
+DSC de compensación por potencia 
+- Dispone de dos cámaras independientes cada una con su propio elemento calefactor 
+- el equipo mantiene n todo momento el estado de nulidad térmica 
+- Un evento endotérmico exige aumentar la potencia suministrada a la muestra, uno exotérmico reducirla 
+- La variación de potencia equivale a la energía del flujo térmico que compensa la absorción o liberación. 
