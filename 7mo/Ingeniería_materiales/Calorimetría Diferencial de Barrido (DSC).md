@@ -31,3 +31,9 @@ H = U + PV  \\
 \end{gather}
 $$
 Si se tienen eventos muy puntuales se tiene que tener una rampa de calentamiento muy baja para poder evitar una mala lectura. 
+
+Variables que condicionan la reproducibilidad del ensayo: 
+- Masa y dimensión 
+- Velocidad de calentamiento 
+- Atmósfera 
+- Historia térmica y mecánica 
