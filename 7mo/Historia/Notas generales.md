@@ -103,4 +103,8 @@ Esta clase fue tomada en línea
 - putos rentistas 
 - Dinero llama dinero 
 - PTM por que se busca tanto el dinero ?? 
-- ![[Pasted image 20260914161725.png]]
+![[Pasted image 20260914161725.png]]
+
+# 18/09/2026
+
+- Los productos buscan poder mejorar o beneficiar al consumidor, literalmente quitarle lo emputado 
