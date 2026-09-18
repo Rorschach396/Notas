@@ -52,3 +52,8 @@ DSC de compensación por potencia
 - el equipo mantiene n todo momento el estado de nulidad térmica 
 - Un evento endotérmico exige aumentar la potencia suministrada a la muestra, uno exotérmico reducirla 
 - La variación de potencia equivale a la energía del flujo térmico que compensa la absorción o liberación. 
+
+Se puede poner la etiqueta de hacia donde es endotérmico y donde es exotérmico 
+
+- Cambio de pendiente es la transición vítrea, se debe de saber mas o menos donde es  
+- 
