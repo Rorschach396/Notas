@@ -112,4 +112,5 @@ Esta clase fue tomada en línea
 - Las palabras son seguridad, tranquilidad y practicidad: Es una opción más segura que permite censar de manera más rápida para poder darle una tranquilidad a la persona que lo usa 
 - Quien me puede dar varo más rápido 
 	- Tequilero mediano o empresas medianas de alcohol 
-	- Empresas de ce
+	- Empresas de cervezas artesanales 
+	- 
