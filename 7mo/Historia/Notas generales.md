@@ -110,4 +110,6 @@ Esta clase fue tomada en línea
 - Los productos buscan poder mejorar o beneficiar al consumidor, literalmente quitarle lo emputado 
 - El nombre es la introducción 
 - Las palabras son seguridad, tranquilidad y practicidad: Es una opción más segura que permite censar de manera más rápida para poder darle una tranquilidad a la persona que lo usa 
-- 
+- Quien me puede dar varo más rápido 
+	- Tequilero mediano o empresas medianas de alcohol 
+	- Empresas de ce
