@@ -69,3 +69,16 @@ Se puede poner la etiqueta de hacia donde es endotérmico y donde es exotérmico
 | Intervalo térmico        | superior a 1500                                                                    | hasta 750                                                                            |
 | Convención de la curva   | Evento endotérmico hacia abajo                                                     | Evento endotérmico hacia arriba                                                      |
 | Idoneidad                | Materiales de elevada temperatura de fusión                                        | Determinación de entalpías, capacidad calorífica y transiciones de baja temperatura  |
+
+Perfil convencional: T0 temperatura inicial, t el tiempo beta la velocidad de calentamiento 
+$$
+T = T_{0} + \beta t
+$$
+Perfil modulado: B es la amplitud de modulación y omega es 2pi p a la menos 1 donde p es el perodo de modulación 
+ $$
+ T = T_{0} +\beta t + B \sin (\omega t)
+ $$
+  
+ $$
+ \frac{dH}{dt} = C_{p}\beta + 
+ $$
