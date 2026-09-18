@@ -82,3 +82,4 @@ Perfil modulado: B es la amplitud de modulación y omega es 2pi p a la menos 1 d
  $$
  \frac{dH}{dt} = C_{p}\beta + 
  $$
+
