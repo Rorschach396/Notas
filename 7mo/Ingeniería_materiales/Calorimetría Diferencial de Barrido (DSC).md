@@ -30,3 +30,4 @@ H = U + PV  \\
 \Delta H  = Q_{p}
 \end{gather}
 $$
+Si se tienen eventos muy puntuales se tiene que tener una rampa de calentamiento muy baja para poder evitar una mala lectura. 
