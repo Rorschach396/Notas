@@ -84,3 +84,9 @@ Perfil modulado: B es la amplitud de modulación y omega es 2pi p a la menos 1 d
  $$
 
 Normalmente requieren más de una sola muestra 
+
+Materiales patrón
+
+$$
+\frac{\Delta H}{Masa} = K_{C}A_{p}
+$$
