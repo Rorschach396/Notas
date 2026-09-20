@@ -7,7 +7,7 @@ Una reacción eutéctica es definida por la IUPAC como "Una reacción isotérmic
 
 Los solventes eutécticos profundos (DES por sus siglas en ingles) son un tipo de reacción eutéctica donde la fase líquida producida presenta un punto de fusión más bajo que los componentes que forman, estos son utilizados para poder formar geles DES. Los geles DES son el resultado de mezclar un agente gelante y un DES, estos han sido sujetos de estudio debido a que permiten imitar ciertas propiedades atractivas de la piel humana. 
 
-La urea es un compuesto orgánico que normalmente se produce en el cuerpo humano debido al metabolismo de proteínas en los mamíferos, este compuesto tiene la fórmula química $CO(NH_{2})_{2}$ y se caracteriza por ser una de las pocas moléculas orgánicas que no tienen enlaces $C-C$ o $C-H$. Este x
+La urea es un compuesto orgánico que normalmente se produce en el cuerpo humano debido al metabolismo de proteínas en los mamíferos, este compuesto tiene la fórmula química $CO(NH_{2})_{2}$ y se caracteriza por ser una de las pocas moléculas orgánicas que no tienen enlaces $C-C$ o $C-H$. La urea es ampliamente utilizada para poder desnaturalizar proteínas, esto debido a que permite 
 # Reactivos 
 
 - Cloruro de colina ($C_{5}H_{14}ClNO$)
