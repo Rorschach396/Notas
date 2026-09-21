@@ -29,9 +29,12 @@ Para tener una proteína se tiene que considerar que tipos de aminoácidos se ti
 Todos los seres vivos se encuentran hechos de estos aminoácidos. La cisteína puede formar enlaces disulfuro, esto permite acercar las cadenas. 
 La estructuras de la proteína se dan gracias a la configuración que tiene la proteína, dependiendo de los grupos vistos anteriormente va a determinar como es que se configura la proteína. 
 - Estructura primaria: Secuencia (lineal) de aminoácidos (AA)
-- Estructura secundaria: 
+- Estructura secundaria: Se forman por la interacción entre aminoácidos no adyacentes 
 	- $\alpha$ Helices (Helix)
-	- $\beta$ Láminas (Sheets)
+	- $\beta$ Láminas (Sheets): Dominios hidrofóbicos que permiten acomodar casi paralelas las proteínas. 
+	- Vueltas (loops): Determina que tan flexible es la estructura
+
+
 
 # Una pequeña desviación 
 
