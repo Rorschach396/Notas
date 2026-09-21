@@ -33,6 +33,13 @@ La estructuras de la proteína se dan gracias a la configuración que tiene la p
 	- $\alpha$ Helices (Helix)
 	- $\beta$ Láminas (Sheets): Dominios hidrofóbicos que permiten acomodar casi paralelas las proteínas. 
 	- Vueltas (loops): Determina que tan flexible es la estructura
+- Estructuras Terciarias: 
+	- Grupos $\alpha$, $\beta$ secciones 
+- Estructuras cuaternarias
+	- Grupos prostéticos 
+¿Porqué solo los grupos L de las proteínas son los que sirven para la vida? 
+
+
 
 ![[Pasted image 20260921112835.png|431]]
 
