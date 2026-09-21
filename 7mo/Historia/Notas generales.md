@@ -129,3 +129,5 @@ Presentación de Wuji Bifan
 - Zoe frente a bios: Vitalidad impersonal, compartida como lo no humano
 - Transposición: Del transposón genético y del cambio de tonalidad musical 
 - Pacifismo ontológico 
+- Violencia lenta: Capitalismo, machismo, racismo, violencia que no tiene un arma o una persona que está actuando 
+- 
