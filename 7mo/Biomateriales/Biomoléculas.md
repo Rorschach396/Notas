@@ -21,7 +21,7 @@ Las proteínas se encuentran formadas por unidades primarias llamadas ==aminoác
 
 ![[Pasted image 20260921102955.png]]
 
-A esto se le llama Zwitterión, depende del pH. También se puede dar un ataque nucleofílico, este da como resultado una amida o (en biología) enlace peptídico; para que esto se de se requiere un medio ácido o básico. 
+A esto se le llama Zwitterión, depende del pH. También se puede dar un ataque nucleofílico, este da como resultado una amida o (en biología) enlace peptídico; para que esto se de se requiere un medio ácido o básico. Los péptidos son una serie de aminoácidos donde se puede ver la amina inicial y el carboxilo inicial y se considera que es lineal. 
 
 # Una pequeña desviación 
 
