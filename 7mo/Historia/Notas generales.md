@@ -115,4 +115,7 @@ Esta clase fue tomada en línea
 	- Empresas de cervezas artesanales 
 	- Alcohol artesanal de especialidad 
 - El arquetipo es quien se puede enamorar más rápido de tu tecnología 
-	- 
+
+# 21/09/2026
+Presentación de Wuji Bifan 
+- 
