@@ -34,6 +34,7 @@ La estructuras de la proteína se dan gracias a la configuración que tiene la p
 	- $\beta$ Láminas (Sheets): Dominios hidrofóbicos que permiten acomodar casi paralelas las proteínas. 
 	- Vueltas (loops): Determina que tan flexible es la estructura
 
+![[Pasted image 20260921112835.png|431]]
 
 
 # Una pequeña desviación 
