@@ -49,4 +49,7 @@ Se tiene que considerar que es un ácido y que es una base:
 Esto es de la visión de Arrhenius:
 - un ácido: Substancia que tiene protones que en solución produce iones H+ 
 - El protón existe ligado al agua, no existe como tal solo (ion hidronio)
+- Bases: Iones hidroxilos, tienen carga negativa 
+- Todos estos son bases/ácidos de Arrhenius 
+- Hay ciertas substancias que pueden cambiar el color de la fenoftaleina pero que, en realidad no tienen la estructura de una base, tienen estructura de un ácido, como el amoniaco 
 - 
