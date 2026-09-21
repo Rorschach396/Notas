@@ -130,4 +130,5 @@ Presentación de Wuji Bifan
 - Transposición: Del transposón genético y del cambio de tonalidad musical 
 - Pacifismo ontológico 
 - Violencia lenta: Capitalismo, machismo, racismo, violencia que no tiene un arma o una persona que está actuando 
+- La nueva violencia arcaica 
 - 
