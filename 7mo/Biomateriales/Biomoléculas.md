@@ -23,7 +23,7 @@ Las proteínas se encuentran formadas por unidades primarias llamadas ==aminoác
 
 A esto se le llama Zwitterión, depende del pH. También se puede dar un ataque nucleofílico, este da como resultado una amida o (en biología) enlace peptídico; para que esto se de se requiere un medio ácido o básico. Los péptidos son una serie de aminoácidos donde se puede ver la amina inicial y el carboxilo inicial y se considera que es lineal. 
 
-Para tener una proteína se tiene que 
+Para tener una proteína se tiene que considerar que tipos de aminoácidos se tiene y de que familia pertenecen. 
 
 # Una pequeña desviación 
 
@@ -55,4 +55,3 @@ Esto es de la visión de Arrhenius:
 Ahora llega mi compa el Lewis: 
 - Propone que el par de electrones del nitrógeno en el amoniaco es tan electronegativo que puede formar hidróxidos del agua. 
 - A las substancias que forman ácidos o bases al momento de combinarse con agua entonces se les conoce como ácidos de Lewis (como el cloruro de aluminio). 
-- 
