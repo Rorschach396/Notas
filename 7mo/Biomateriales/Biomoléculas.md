@@ -53,4 +53,6 @@ Esto es de la visión de Arrhenius:
 - Todos estos son bases/ácidos de Arrhenius 
 - Hay ciertas substancias que pueden cambiar el color de la fenolftaleína pero que, en realidad no tienen la estructura de una base, tienen estructura de un ácido, como el amoniaco 
 Ahora llega mi compa el Lewis: 
+- Propone que el par de electrones del nitrógeno en el amoniaco es tan electronegativo que puede formar hidróxidos del agua. 
+- A las substancias que forman ácidos o bases al momento de combinarse con agua entonces se les conoce como ácidos de Lewis (como el cloruro de aluminio). 
 - 
