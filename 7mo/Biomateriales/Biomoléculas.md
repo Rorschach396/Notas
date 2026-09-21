@@ -19,9 +19,9 @@ Muchas partes, en teoría se pueden considerar a las macromoléculas como polím
 
 Las proteínas se encuentran formadas por unidades primarias llamadas ==aminoácidos== que contiene un grupo carboxilo y un grupo amina. 
 
-```smiles 
-[NH3+][C@@H](R)C(=O)[O-]
-```
+![[Pasted image 20260921102955.png]]
+
+A esto se le llama Zwitterión, depende del ph 
 
 # Una pequeña desviación 
 
