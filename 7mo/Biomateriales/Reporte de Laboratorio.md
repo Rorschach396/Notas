@@ -51,4 +51,4 @@ Al utilizar un DES formado por urea y cloruro de colina, este podría formar un 
 
 # Metodología 
 
-1) 
+1) Pesar 
