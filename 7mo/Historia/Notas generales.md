@@ -126,4 +126,6 @@ Presentación de Wuji Bifan
 - Affectus: La variación de energía 
 - Potentia: Capacidad inmanente de obrar 
 - Potestas: Poder como autoridad, poder constituido 
-- 
+- Zoe frente a bios: Vitalidad impersonal, compartida como lo no humano
+- Transposición: Del transposón genético y del cambio de tonalidad musical 
+- Pacifismo ontológico 
