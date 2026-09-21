@@ -25,6 +25,7 @@ A esto se le llama Zwitterión, depende del pH. También se puede dar un ataque 
 
 Para tener una proteína se tiene que considerar que tipos de aminoácidos se tiene y de que familia pertenecen. 
 ![[Pasted image 20260921111335.png]]
+Todos los seres vivos se encuentran hechos de estos aminoácidos. 
 
 # Una pequeña desviación 
 
