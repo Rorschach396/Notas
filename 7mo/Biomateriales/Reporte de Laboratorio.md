@@ -11,8 +11,7 @@ La urea es un compuesto orgánico que normalmente se produce en el cuerpo humano
 
 El cloruro de colina es una sal cuaternaria de de amonio, esta presenta la formula química $[(CH_{3})_{3}NCH_{2}CH_{2}OH]^+ Cl^-$, esta sal se suele utilizar como suplemento alimenticio para poder acelerar el crecimiento de los pollos. Este compuesto se suele utilizar en gran medida en la formación de DES debido a que es un muy buen receptor de enlaces de hidrógeno frente a donadores de enlaces de hidrógeno como lo son la urea, alcoholes, azucares, aminoácidos entre otros. 
 
-
-La piel es uno de los órganos más complejos y versátiles que existen; esto se debe a que permite proteger otros órganos presentes en el cuerpo humano y, además, permite sentir el entorno en el que nos encontramos. Debido a esto, se han hecho innumerables esfuerzos para replicar de forma sintética la piel manteniendo sus propiedades mecánicas y biológicas.
+%%La piel es uno de los órganos más complejos y versátiles que existen; esto se debe a que permite proteger otros órganos presentes en el cuerpo humano y, además, permite sentir el entorno en el que nos encontramos. Debido a esto, se han hecho innumerables esfuerzos para replicar de forma sintética la piel manteniendo sus propiedades mecánicas y biológicas.
 
 Una reacción eutéctica es definida por la IUPAC como "una reacción isotérmica reversible entre dos (o más) fases sólidas durante el calentamiento de un sistema, como resultado de la cual se produce una única fase líquida". Esta reacción se encuentra ampliamente estudiada debido a su uso en la formación de solventes eutécticos.
 
@@ -20,10 +19,10 @@ Los solventes eutécticos profundos (DES, por sus siglas en inglés) son un tipo
 
 La urea es un compuesto orgánico que normalmente se produce en el cuerpo humano debido al metabolismo de proteínas en los mamíferos. Este compuesto tiene la fórmula química CO(NH2)2CO(NH2​)2​ y se caracteriza por ser una de las pocas moléculas orgánicas que no tienen enlaces C−CC−C o C−HC−H. La urea se utiliza ampliamente para desnaturalizar proteínas, ya que permite cambiar el equilibrio desde la conformación nativa de las proteínas hacia una conformación desnaturalizada; esto se logra gracias a que la urea permite que las proteínas se comporten como una amida soluble.
 
-El cloruro de colina es una sal cuaternaria de amonio; esta presenta la fórmula química [(CH3)3NCH2CH2OH]+Cl−[(CH3​)3​NCH2​CH2​OH]+Cl−. Esta sal se suele utilizar como suplemento alimenticio para acelerar el crecimiento de los pollos. Este compuesto se suele utilizar en gran medida en la formación de DES, debido a que es un muy buen receptor de enlaces de hidrógeno frente a donadores de enlaces de hidrógeno como la urea, los alcoholes, los azúcares y los aminoácidos, entre otros.
+El cloruro de colina es una sal cuaternaria de amonio; esta presenta la fórmula química [(CH3)3NCH2CH2OH]+Cl−[(CH3​)3​NCH2​CH2​OH]+Cl−. Esta sal se suele utilizar como suplemento alimenticio para acelerar el crecimiento de los pollos. Este compuesto se suele utilizar en gran medida en la formación de DES, debido a que es un muy buen receptor de enlaces de hidrógeno frente a donadores de enlaces de hidrógeno como la urea, los alcoholes, los azúcares y los aminoácidos, entre otros.%%
 # Hipóteis 
 
-Al utilizar un DES formado por urea y cloruro de colina, este podría formar un material que debería ser biocompatible y tener una consistencia y propiedades similares a la piel si se mezcla gelatina del tipo A.
+Al utilizar un DES formado por urea y cloruro de colina, este podría formar un material que debería ser biocompatible y tener una consistencia y propiedades similares a las de la piel si se mezcla con gelatina tipo A.
 # Reactivos 
 
 - Cloruro de colina ($C_{5}H_{14}ClNO$)
