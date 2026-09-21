@@ -118,4 +118,7 @@ Esta clase fue tomada en línea
 
 # 21/09/2026
 Presentación de Wuji Bifan 
-- 
+- Conatus: Cada cosa, en cuanto está en ella, se esfuerza por perseverar en su ser. 
+- Laetitia: Paso a una perfección mayor 
+- Tristitia: Paso a una perfección menor 
+- Agendi ptentia: Potencia de obrar 
