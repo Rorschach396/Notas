@@ -58,4 +58,4 @@ Al utilizar un DES formado por urea y cloruro de colina, este podría formar un 
 5) Agregar 800 $\mu L$ de agua destilada y tapar el vial. 
 6) Medir ==Gramos de gelatina== y agregarlos poco a poco al vial sin que toque las paredes y sin dejar abierto el vial por mucho tiempo. 
 7) Agregar la curcuma si se desea. 
-8) 
+8) Cuando se disuelva la gelatina se vierte en moldes de silicon y se lleva a refrigeración.
