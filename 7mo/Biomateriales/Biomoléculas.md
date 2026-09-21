@@ -51,5 +51,6 @@ Esto es de la visión de Arrhenius:
 - El protón existe ligado al agua, no existe como tal solo (ion hidronio)
 - Bases: Iones hidroxilos, tienen carga negativa 
 - Todos estos son bases/ácidos de Arrhenius 
-- Hay ciertas substancias que pueden cambiar el color de la fenoftaleina pero que, en realidad no tienen la estructura de una base, tienen estructura de un ácido, como el amoniaco 
+- Hay ciertas substancias que pueden cambiar el color de la fenolftaleína pero que, en realidad no tienen la estructura de una base, tienen estructura de un ácido, como el amoniaco 
+Ahora llega mi compa el Lewis: 
 - 
