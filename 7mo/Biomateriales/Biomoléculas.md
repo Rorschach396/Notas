@@ -26,7 +26,13 @@ A esto se le llama Zwitterión, depende del pH. También se puede dar un ataque 
 
 Para tener una proteína se tiene que considerar que tipos de aminoácidos se tiene y de que familia pertenecen. 
 ![[Pasted image 20260921111335.png]]
-Todos los seres vivos se encuentran hechos de estos aminoácidos. La cisteína puede formar enlaces disulfuro, esto permite acercar las cadenas 
+Todos los seres vivos se encuentran hechos de estos aminoácidos. La cisteína puede formar enlaces disulfuro, esto permite acercar las cadenas. 
+La estructuras de la proteína se dan gracias a la configuración que tiene la proteína, dependiendo de los grupos vistos anteriormente va a determinar como es que se configura la proteína. 
+- Estructura primaria: Secuencia (lineal) de aminoácidos (AA)
+- Estructura secundaria: 
+	- $\alpha$ Helices (Helix)
+	- $\beta$ Láminas (Sheets)
+
 # Una pequeña desviación 
 
 ## Cromatografía 
