@@ -49,3 +49,21 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 4) Repetir el mismo procedimiento de lavado utilizando etanol como solvente. 
 5) Añadir ==9ml de agua destilada + 1ml de ácido clorhídrico==, colocar a baño ==ultrasónico durante 30 min==, luego centrifugar para retirar el agua. 
 6) Realizar una redispersión en ==7ml de hexano + 20$\mu l$ de ácido clorhídrico==. Después de que se aglomeren ==centrifugar a 6000 rpm durante 10 min== y decantar. 
+
+# Calculos 
+
+$$
+\begin{gather}
+\text{Considerando que la proporción estequimétrica normal es 17.81 entonces: } \\
+1 \rightarrow 17.81  \\
+1.1 \rightarrow 19.591 \\
+1.25 \rightarrow 22.2625 \\
+1.5 \rightarrow 26.715  \\
+1.1 \rightarrow 19.591(0.2\times 10^{-3}\text{mol})\left( \frac{37.037g}{mol} \right) = 0.14511837 g \\
+1.25 \rightarrow 22.2625(0.2\times 10^{-3}\text{mol})\left( \frac{37.037g}{mol} \right) = 0.164907242 g \\
+1.5 \rightarrow 26.715(0.2\times 10^{-3}\text{mol})\left( \frac{37.037g}{mol} \right) = 0.197888691g \\
+1.1 \rightarrow 0.145118373g \rightarrow 145.118373mg \\
+1.25\rightarrow 0.164907242 g \rightarrow 164.907242 mg \\
+1.5 \rightarrow 0.197888691 g \rightarrow 197.888691 mg 
+\end{gather}
+$$
