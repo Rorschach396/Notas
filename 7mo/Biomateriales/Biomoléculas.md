@@ -39,7 +39,7 @@ La estructuras de la proteína se dan gracias a la configuración que tiene la p
 	- Grupos prostéticos 
 ¿Porqué solo los grupos L de las proteínas son los que sirven para la vida? 
 
-
+El ADN es lo que codifica las proteínas y ha permitido reducir la cantidad de energía que se necesita para poder ensamblar todas las proteínas. 
 
 ![[Pasted image 20260921112835.png|431]]
 
