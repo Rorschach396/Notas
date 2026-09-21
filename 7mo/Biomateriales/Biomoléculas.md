@@ -42,3 +42,11 @@ Figuras o cosas que tienen colores
 - Puede haber un detector de masas/cargas para poder obtener una mejor identificación de lo que se tiene
 - Está relativamente relacionada con la electroforesis. 
 - Esto es muy usado para poder refinar productos de reacciones 
+
+# Enlace de hidrógeno 
+
+Se tiene que considerar que es un ácido y que es una base: 
+Esto es de la visión de Arrhenius:
+- un ácido: Substancia que tiene protones que en solución produce iones H+ 
+- El protón existe ligado al agua, no existe como tal solo (ion hidronio)
+- 
