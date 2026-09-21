@@ -15,6 +15,13 @@ Muchas partes, en teoría se pueden considerar a las macromoléculas como polím
 	- Bloque 
 	- Ramificado 
 
+# Lípidos 
+
+Las proteínas se encuentran formadas por unidades primarias llamadas ==aminoácidos== que contiene un grupo carboxilo y un grupo amina. 
+
+```smiles 
+[NH3+][C@@H](R)C(=O)[O-]
+```
 
 # Una pequeña desviación 
 
