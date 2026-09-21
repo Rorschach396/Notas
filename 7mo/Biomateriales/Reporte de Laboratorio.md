@@ -51,4 +51,9 @@ Al utilizar un DES formado por urea y cloruro de colina, este podría formar un 
 
 # Metodología 
 
-1) Pesar 
+1) Pesar 1.85 g de urea. 
+2) Pesar 2.15 g de cloruro de colina. 
+3) Mezclar ambos reactivos en un vial y agregar un agitador magnético. 
+4) Colocar el vial en un baño de arena y calentar. 
+5) Agregar 800 $\mu L$ de agua destilada y tapar el vial. 
+6) Medir 
