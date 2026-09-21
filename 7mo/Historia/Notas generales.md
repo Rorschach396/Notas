@@ -131,4 +131,6 @@ Presentación de Wuji Bifan
 - Pacifismo ontológico 
 - Violencia lenta: Capitalismo, machismo, racismo, violencia que no tiene un arma o una persona que está actuando 
 - La nueva violencia arcaica 
+- ¿Tiene la alegría una teoría del conflicto? 
+- ¿Tiene la violencia una teoría de la solidaridad? 
 - 
