@@ -122,3 +122,8 @@ Presentación de Wuji Bifan
 - Laetitia: Paso a una perfección mayor 
 - Tristitia: Paso a una perfección menor 
 - Agendi ptentia: Potencia de obrar 
+- Affectio: En el encuentro, el estado de un cuerpo afectado por otro 
+- Affectus: La variación de energía 
+- Potentia: Capacidad inmanente de obrar 
+- Potestas: Poder como autoridad, poder constituido 
+- 
