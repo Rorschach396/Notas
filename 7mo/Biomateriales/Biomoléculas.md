@@ -14,6 +14,8 @@ Muchas partes, en teoría se pueden considerar a las macromoléculas como polím
 	- Random 
 	- Bloque 
 	- Ramificado 
+
+
 # Una pequeña desviación 
 
 ## Cromatografía 
