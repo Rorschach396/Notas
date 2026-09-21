@@ -10,6 +10,10 @@ Los solventes eutécticos profundos (DES por sus siglas en ingles) son un tipo d
 La urea es un compuesto orgánico que normalmente se produce en el cuerpo humano debido al metabolismo de proteínas en los mamíferos, este compuesto tiene la fórmula química $CO(NH_{2})_{2}$ y se caracteriza por ser una de las pocas moléculas orgánicas que no tienen enlaces $C-C$ o $C-H$. La urea es ampliamente utilizada para poder desnaturalizar proteínas, esto debido a que permite cambiar el equilibrio desde la conformación nativa de las proteínas hacia una conformación desnaturalizada; esto se logra gracias a que la urea permite que las proteínas se comporten como una amida soluble. 
 
 El cloruro de colina es una sal cuaternaria de de amonio, esta presenta la formula química $[(CH_{3})_{3}NCH_{2}CH_{2}OH]^+ Cl^-$, esta sal se suele utilizar como suplemento alimenticio para poder acelerar el crecimiento de los pollos. Este compuesto se suele utilizar en gran medida en la formación de DES debido a que es un muy buen receptor de enlaces de hidrógeno frente a donadores de enlaces de hidrógeno como lo son la urea, alcoholes, azucares, aminoácidos entre otros. 
+
+# Hipóteis 
+
+Al utilizar un DES formado por urea y cloruro de colina, este podría formar un material que debería ser biocompatible y tener una consistencia y propiedades similares a la piel si se mezcla gelatina del tipo A.
 # Reactivos 
 
 - Cloruro de colina ($C_{5}H_{14}ClNO$)
