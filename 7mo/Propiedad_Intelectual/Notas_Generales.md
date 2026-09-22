@@ -85,3 +85,5 @@ Segundo lugar en el kahoot
 - Se deben de indicar los cortes transversales con líneas 
 - Deben poder reconocerse todos los detalles 
 - Mismos signos de referencia 
+- Obligatorios en los modelos de utilidad 
+- 
