@@ -133,4 +133,3 @@ Presentación de Wuji Bifan
 - La nueva violencia arcaica 
 - ¿Tiene la alegría una teoría del conflicto? 
 - ¿Tiene la violencia una teoría de la solidaridad? 
-- 
