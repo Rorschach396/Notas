@@ -10,6 +10,7 @@ La ciencia de los materiales en las ultimas décadas se ha enfocado en poder hac
 
 Los materiales fotoluminiscentes son materiales que tienen la propiedad de absorber fotones para entrar a un estado excitado, dependiendo de su emisión se pueden clasificar como stokes o antistokes. La Emisión antistokes es el principal tipo de emisión que presentan las nanopartículas de conversión ascendente, en este proceso dos o más fotones de menor energía para generar un fotón de mayor energía. Los principales tipos de conversión ascendente son absorción de estado excitado (ESA), conversión ascendente por transmición de energía (ETU), conversión ascendente por sensibilización cooperativa (CSU) y conversión ascendentente mediado por migración de energía (EMU).
 
+![[Pasted image 20260922091827.png]]
 
 La síntesis solvotermal es un proceso en el cual los reactivos se encuentran en una solución, esta solución es calentada en un recipiente cerrado, lo que da como resultado un aumento de presión que permite llevar el solvente a una temperatura superior a la de su punto de ebullición. Este tipo de síntesis es bastante útil en la nanotecnología debido a que permite controlar de forma precisa la morfología y las propiedades del material resultante, esto se consigue con un control preciso de las condiciones en las que se lleva a cabo la síntesis.
 
