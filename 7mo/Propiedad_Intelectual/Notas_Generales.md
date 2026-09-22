@@ -79,4 +79,8 @@ Ahora si, notas de la clase:
 
 # 22/09/2026
 Segundo lugar en el kahoot
+- Describir y comprender mejor la invensión 
+- Explicados 
+- Deben ser duraderos y sin color 
+- Se deben de indicar los cortes transversales con lineas 
 - 
