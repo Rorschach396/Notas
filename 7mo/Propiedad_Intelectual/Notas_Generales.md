@@ -86,4 +86,3 @@ Segundo lugar en el kahoot
 - Deben poder reconocerse todos los detalles 
 - Mismos signos de referencia 
 - Obligatorios en los modelos de utilidad 
-- 
