@@ -86,3 +86,6 @@ Segundo lugar en el kahoot
 - Deben poder reconocerse todos los detalles 
 - Mismos signos de referencia 
 - Obligatorios en los modelos de utilidad 
+
+- Es importante poner los antecedentes para poder evitar que te reboten la patente 
+- 
