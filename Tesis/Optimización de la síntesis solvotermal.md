@@ -8,6 +8,8 @@ Optimizar la ==síntesis solvotermal== de $Ba₄Y₃F₁₇:Yb³⁺,Er³⁺$ con
 
 La ciencia de los materiales en las ultimas décadas se ha enfocado en poder hacer un uso más eficiente de las materias primas utilizadas en la síntesis de diferentes materiales, debido a esto uno de los enfoques que se le ha dado a la ciencia de materiales ha sido la nanotecnología. La nanotecnología se enfoca en la síntesis de materiales que tienen un tamaño entre 1 y 100 nm; a estas escalas de tamaño los materiales empiezan a tener propiedades únicas que permiten darle aplicaciones áreas muy diversas, entre las que resaltan la medicina, la agricultura, biosensores, terapia genética, energía y computación. 
 
+Existen muchas rutas de síntesis para poder obtener nanomateriales pero se pueden clasificar en Top
+
 Los materiales fotoluminiscentes son materiales que tienen la propiedad de absorber fotones para entrar a un estado excitado, dependiendo de su emisión se pueden clasificar como stokes o antistokes. La Emisión antistokes es el principal tipo de emisión que presentan las nanopartículas de conversión ascendente, en este proceso dos o más fotones de menor energía para generar un fotón de mayor energía. Los principales tipos de conversión ascendente son absorción de estado excitado (ESA), conversión ascendente por transmición de energía (ETU), conversión ascendente por sensibilización cooperativa (CSU) y conversión ascendentente mediado por migración de energía (EMU).
 
 ![[Pasted image 20260922091827.png]]
