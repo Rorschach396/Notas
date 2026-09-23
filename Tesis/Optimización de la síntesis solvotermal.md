@@ -6,7 +6,14 @@ Optimizar la ==síntesis solvotermal== de $Ba₄Y₃F₁₇:Yb³⁺,Er³⁺$ con
 
 # Resumen
 
-Las nanopartículas son nanomateriales que se encuentran entre 1 y 100 nm, estas presentan propiedades diferentes a las del material en bulto
+La nanotecnología es una rama de la ciencia que se enfoca en el estudio de materiales en el rango de 1 a 100 nanómetros, mejor conocidos como nanomateriales. Los nanomateriales presentan propiedades diferentes a las del material en bulto debido a la aparición de fenómenos cuánticos. Las principales clasificaciones que se dan de los nanomateriales dependen de las dimensiones del material que se encuentren en el rango de nanomateriales. 
+
+- Cero dimensional: Todas sus dimensiones se encuentran en el rango de nanomateriales. 
+- Uno dimensional: Solo una de sus dimensiones no se encuentra en el rango de nanomaterial. 
+- Dos dimensional: Dos de sus dimensiones no se encuentran en el rango de nanomaterial 
+- Tres dimensional o material en bulto: Ninguna de sus dimensiones se encuentra en el rango de nanomaterial. 
+
+La conversión ascendente de fotones, mejor conocida como up conversion (UC), es un fenómeno óptico no lineal del tipo anti-stokes que permite que un material pueda absorber uno o más fotones de baja energía (comúnmente del infrarrojo cercano) para convertirlo en un solo fotón de mayor energía, comúnmente visible o ultravioleta. Las nanopartículas de conversión ascendente (UCNPs por sus siglas en ingles) son nanopartículas que contienen iones dopantes de lantánidos alojados en una matriz, esto les permite tener aplicaciones en la biología debido a que las nanopartículas pueden ser excitadas en el rango de la ventana infrarroja del tejido biológico, lo que permite que tenga una mayor penetración sin llegar a dañar el tejido donde se encuentre; además de esto se pueden utilizar en sensores, esto gracias a que se puede obtener una relación entre su emisión y la presencia de una molécula objetivo. 
 
 # Introducción 
 
@@ -18,8 +25,6 @@ Dentro de la síntesis se utilizó una proporción molar inicial de 4 de bario, 
 La ciencia de los materiales en las ultimas décadas se ha enfocado en poder hacer un uso más eficiente de las materias primas utilizadas en la síntesis de diferentes materiales, debido a esto uno de los enfoques que se le ha dado a la ciencia de materiales ha sido la nanotecnología. La nanotecnología se enfoca en la síntesis de materiales que tienen un tamaño entre 1 y 100 nm; a estas escalas de tamaño los materiales empiezan a tener propiedades únicas que permiten darle aplicaciones áreas muy diversas, entre las que resaltan la medicina, la agricultura, los biosensores, la terapia genética, la producción de energía y la computación. Uno de los tipos de nanomateriales más estudiado en la actualidad son las nanopartículas, esto debido a que son sumamente versátiles y son fáciles de sintetizar. 
 
 Existen muchas rutas de síntesis para poder obtener nanomateriales pero se pueden clasificar en top-down y bottom-up. Las síntesis de tipo top-down empiezan con el material en bulto para poder ir reduciendo su tamaño; este tipo de síntesis es el más utilizado actualmente en la industria debido a su facilidad y practicidad aunque, por lo general, suele tener dificultades para poder controlar los defectos superficiales del material. Cuando se comienza con átomos o moléculas que se van reaccionando hasta llegar a obtener nanopartículas se le conoce como bottom-up, este tipo de síntesis permite obtener formas, tamaños y distribuciones uniformes, además de tener el potencial de generar una menor cantidad de residuos. La síntesis solvotermal es un tipo de síntesis bottom-up, en esta los reactivos se encuentran en una solución, esta solución es calentada en un recipiente cerrado, lo que da como resultado un aumento de presión que permite llevar el solvente a una temperatura superior a la de su punto de ebullición. Este tipo de síntesis es bastante útil debido a que permite controlar de forma precisa la morfología y las propiedades del material resultante, esto se consigue con un control preciso de las condiciones en las que se lleva a cabo la síntesis.
-
-La conversión ascendente de fotones, mejor conocida como up conversion (UC), es un fenómeno óptico no lineal del tipo anti-stokes que permite que un material pueda absorber uno o más fotones de baja energía (comúnmente del infrarrojo cercano) para convertirlo en un solo fotón de mayor energía, comúnmente visible o ultravioleta. Este tipo de emisión es de suma utilidad para aplicaciones biológicas, debido a que las nanopartículas pueden ser excitadas en el rango de la ventana infrarroja del tejido biológico. Las nanopartículas de conversión ascendente (UCNPs por sus siglas en ingles) son nanopartículas que contienen iones dopantes de lantánidos alojados en una matriz. 
 
 # Metodología 
 
