@@ -53,5 +53,6 @@
 	- Filamentos de actina: Filamentos más pequeños  formados por actina (6 nm)
 	- Filamentos intermedios: Tamaño intermedio con un diámetro de unos 10nm está constituido por diversas subunidades proteicas 
 	- Microtúbulos: Filamento de mayor tamaño compuesto por tubulina (25 nm)
-- para que se pueda mover una célula se tienen que tener los puntos de adhesión focal, las células pueden migrar en grupo extensión de lamelipodios, contracción del cuerpo celular , adhesión del sustratio 
-- 
+- para que se pueda mover una célula se tienen que tener los puntos de adhesión focal, las células pueden migrar en grupo extensión de lamelipodios, contracción del cuerpo celular , adhesión del sustrato 
+- Las células adherentes migran en grupo 
+- La adhesión entre las células permiten la transmi
