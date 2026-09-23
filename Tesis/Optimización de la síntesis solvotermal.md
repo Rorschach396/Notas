@@ -1,9 +1,6 @@
 Optimización de la síntesis solvotermal de $Ba_{4}Y_{3}F_{17}:Yb^{3+},Er^{3+}$ %%Titulo%%
 ## Objetivo 
-Optimizar la ==síntesis solvotermal== de $Ba₄Y₃F₁₇:Yb³⁺,Er³⁺$ con el propósito de obtener preferentemente la fase Ba₄Y₃F₁₇ y maximizar su emisión por ==conversión ascendente==, estableciendo relaciones entre las ==condiciones de síntesis, la estructura cristalina, la morfología y las propiedades luminiscentes.==
-
-
-
+Optimizar la síntesis solvotermal de $Ba₄Y₃F₁₇:Yb³⁺,Er³⁺$ con el propósito de obtener preferentemente la fase Ba₄Y₃F₁₇ y maximizar su emisión por conversión ascendente, estableciendo relaciones entre las condiciones de síntesis, la estructura cristalina, la morfología y las propiedades luminiscentes.
 # Resumen
 
 La nanotecnología es una rama de la ciencia que se enfoca en el estudio de materiales en el rango de 1 a 100 nanómetros, mejor conocidos como nanomateriales. Los nanomateriales presentan propiedades diferentes a las del material en bulto debido a la aparición de fenómenos cuánticos. Las principales clasificaciones que se dan de los nanomateriales dependen de las dimensiones del material que se encuentren en el rango de nanomateriales. 
@@ -26,10 +23,30 @@ La ciencia de los materiales en las ultimas décadas se ha enfocado en poder hac
 
 Existen muchas rutas de síntesis para poder obtener nanomateriales pero se pueden clasificar en top-down y bottom-up. Las síntesis de tipo top-down empiezan con el material en bulto para poder ir reduciendo su tamaño; este tipo de síntesis es el más utilizado actualmente en la industria debido a su facilidad y practicidad aunque, por lo general, suele tener dificultades para poder controlar los defectos superficiales del material. Cuando se comienza con átomos o moléculas que se van reaccionando hasta llegar a obtener nanopartículas se le conoce como bottom-up, este tipo de síntesis permite obtener formas, tamaños y distribuciones uniformes, además de tener el potencial de generar una menor cantidad de residuos. La síntesis solvotermal es un tipo de síntesis bottom-up, en esta los reactivos se encuentran en una solución, esta solución es calentada en un recipiente cerrado, lo que da como resultado un aumento de presión que permite llevar el solvente a una temperatura superior a la de su punto de ebullición. Este tipo de síntesis es bastante útil debido a que permite controlar de forma precisa la morfología y las propiedades del material resultante, esto se consigue con un control preciso de las condiciones en las que se lleva a cabo la síntesis.
 
-# Metodología 
+# Justificación 
 
-## Síntesis 
-1) Pesar el acetato de bario, cloruro de itrio, fluoruro de amonio, cloruro de iterbio y cloruro de erbio. 
+La síntesis de $Ba_{4}Y_{3}F_{17}$ normalmente se hace a través de estado sólido, este tipo de síntesis a pesar de ser muy sencilla  puede llegar a tener complicaciones en obtener una fase específica del material y normalmente requiere de una mayor cantidad de precursores para llevar a cabo la síntesis; debido a esto se busca poder realizar la síntesis a través de un medio solvotermal, pero para poder obtener el resultado deseado se debe de encontrar las proporciones estequiométricas optimas para favorecer el arreglo atómico que permita tener una mayor eficiencia dentro del proceso de emisión del material para poder darle una mayor cantidad de aplicaciones a las nanopartículas. 
+
+# Hipótesis
+
+Al momento de variar la proporción de fluoruro de amonio utilizado en el proceso de síntesis de $Ba_{4}Y_{3}F_{17}$,  agregar iones dopantes de erbio e iterbio ($Yb^{3+},Er^{3+}$) y mantener condiciones estrictas de síntesis solvotermal se podrá mejorar la eficiencia en el proceso de conversión ascendente que tienen las nanopartículas. 
+
+# Metodología y Materiales
+## Reactivos 
+
+- Cloruro de itrio hexahidratado ($Y_{3}Cl \cdot 6H_{2}O$) 
+- Cloruro de iterbio hexahidratado ($Yb_{3}Cl \cdot 6H_{2}O$)
+- Cloruro de erbio hexahidratado ($Er_{3}Cl \cdot 6H_{2}O$)
+- Acetado de bario ($Ba(CH_{3}COO)_{2}$)
+- 1-Octadeceno 
+- Ácido oleico 
+- Hexano 
+- Ácido Clorhídrico 
+- Alcohol etílico 
+- Agua desionizada 
+
+## Síntesis Solvotermal
+1) Pesar el acetato de bario, cloruro de itrio hexahidratado, fluoruro de amonio, cloruro de iterbio hexahidratado y cloruro de erbio hexahidratado. 
 2) Disolver en 2ml de agua el acetato de bario. 
 3) Disolver en 2ml de agua el cloruro de itrio, cloruro de iterbio y cloruro de erbio. 
 4) Medir 10ml de ácido oleico y 10ml de 1-octadeceno y agregar la solución de acetato de bario, calentar a 115°C por 30 minutos para formar oleatos.
@@ -41,9 +58,12 @@ Existen muchas rutas de síntesis para poder obtener nanomateriales pero se pued
 
 ## Lavados 
 1) Centrifugar a 6000 rpm durante 10 min y desechar el sobrenadante evitando que pase sobre el precipitado. 
-2) Lavar con 6ml de hexano, redispersar y centrifugar bajo las mismas condiciones. 
+2) Lavar con 9ml de hexano, redispersar y centrifugar bajo las mismas condiciones. 
 3) Repetir el paso #2 3 veces; en el ultimo lavado añadir 100 $\mu l$ de ácido clorhídrico. 
 4) Repetir el mismo procedimiento de lavado utilizando etanol como solvente. 
 5) Añadir 9ml de agua destilada + 1ml de ácido clorhídrico, colocar a baño ultrasónico durante 30 min, luego centrifugar para retirar el agua. 
 6) Realizar una redispersión en 7ml de hexano + 20$\mu l$ de ácido clorhídrico. Después de que se aglomeren centrifugar a 6000 rpm durante 10 min y decantar. 
-7) Secar las nanopartículas sedimentadas en un desecador a 70°C durante 1 hora. 
+7) Agregar 5 ml de etanol, redispersar y centrifugar bajo las mismas condiciones. 
+8) Dejar evaporar el etanol residual a temperatura ambiente. 
+
+
