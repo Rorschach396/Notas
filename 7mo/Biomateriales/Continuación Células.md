@@ -65,4 +65,3 @@
 - Las vías de señalización conectan la superficie celular con el núcleo, lo que da lugar a cambios en la expresión génica en respuesta estímulos extracelulares. 
 - Tiene que haber un receptor 
 - Puede ser que la molécula entre directamente a la célula o que se tengan intermediaros (segundos mensajeros) que mandan la señal 
-- 
