@@ -38,4 +38,15 @@
 # Mecanotransducción 
 
 - Se pueden abrir canales cuando se producen cambios mecánicos en la célula 
+
+# Citoesqueléto 
+
+- Red de filamentos de proteínas que se extiende por todo el citoplasma de todas las células eucariotas 
+- Estructura dinámica que se reorganiza continuamente 
+	- Estructura 
+	- Forma y organización 
+	- Transporte interno 
+	- Movimiento/migración 
+	- División celular 
+	- Adhesión 
 - 
