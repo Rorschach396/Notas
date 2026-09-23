@@ -58,3 +58,9 @@
 - La adhesión entre las células permiten la transmisión de fuerzas entre células
 ![[Pasted image 20260923112551.png|359]]
 
+# Transducción de señales 
+
+- Mecanismo mediante el cual las células responden a la información extracelular
+- Factor de transcripción: Moléculas que regulan la expresión genética 
+- Las vías de señalización conectan la superficie celular con el núcleo, lo que da lugar a cambios en la expresión génica en respuesta estímulos extracelulares. 
+- Tiene que haber un receptor 
