@@ -27,3 +27,5 @@
 - Funcionan como receptores transmembtanales 
 - Media la adhesión celular 
 - El nombre se dio para indicar la importancia para mantener la intedridad del enlace citoesquelético-MEC
+![[Pasted image 20260923104618.png|400]]
+- 
