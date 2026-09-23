@@ -53,4 +53,4 @@
 	- Filamentos de actina: Filamentos más pequeños  formados por actina (6 nm)
 	- Filamentos intermedios: Tamaño intermedio con un diámetro de unos 10nm está constituido por diversas subunidades proteicas 
 	- Microtúbulos: Filamento de mayor tamaño compuesto por tubulina (25 nm)
-- 
+- para que se pueda mover una c
