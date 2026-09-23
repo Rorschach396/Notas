@@ -56,4 +56,4 @@
 - para que se pueda mover una célula se tienen que tener los puntos de adhesión focal, las células pueden migrar en grupo extensión de lamelipodios, contracción del cuerpo celular , adhesión del sustrato 
 - Las células adherentes migran en grupo 
 - La adhesión entre las células permiten la transmisión de fuerzas entre células
-- 1
+- 
