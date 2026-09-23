@@ -50,5 +50,7 @@
 	- División celular 
 	- Adhesión 
 - Tiene 3 tipos de proteínas 
-	- Filamentos de actina: Filamentos más pequeños  formados por actina (6nm)
-	- Filamentos intermedios: Tamaño intermedio con un diámetro de unos 10nm está constituido por diversas subunida
+	- Filamentos de actina: Filamentos más pequeños  formados por actina (6 nm)
+	- Filamentos intermedios: Tamaño intermedio con un diámetro de unos 10nm está constituido por diversas subunidades proteicas 
+	- Microtúbulos: Filamento de mayor tamaño compuesto por tubulina (25 nm)
+- 
