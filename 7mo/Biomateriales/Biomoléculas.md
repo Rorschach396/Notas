@@ -74,3 +74,5 @@ Esto es de la visión de Arrhenius:
 Ahora llega mi compa el Lewis: 
 - Propone que el par de electrones del nitrógeno en el amoniaco es tan electronegativo que puede formar hidróxidos del agua. 
 - A las substancias que forman ácidos o bases al momento de combinarse con agua entonces se les conoce como ácidos de Lewis (como el cloruro de aluminio). 
+
+Anfóteros: Presentan ambos tipos de carga en una sola molécula (positiva y negativa). 
