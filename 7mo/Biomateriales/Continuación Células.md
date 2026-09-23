@@ -28,4 +28,10 @@
 - Media la adhesión celular 
 - El nombre se dio para indicar la importancia para mantener la intedridad del enlace citoesquelético-MEC
 ![[Pasted image 20260923104618.png|400]]
+- Dominio: Región o segmento de la proteína donde se da una interacción específica 
+- Si la célula no se adhiere entonces no vive. 
+	- Adsorción de proteínas: proteínas específicas del entorno se adsorben en la superficie del biomaterial 
+	- Anclaje: Las proteínas adsorbidas experimentan un cambio conformacional hacia una forma activa, permitiendo ser reconocidas por integrinas e inicien las vías de señalización 
+	- Adhesión focal: Reclutamiento de diversas proteínas y la formación de adhesiones focales, conducen a una adhesión estable de las células 
+	- Extensión: Reorganización del citoesqueleto y cambios morfológicos permiten la supervivencia celular 
 - 
