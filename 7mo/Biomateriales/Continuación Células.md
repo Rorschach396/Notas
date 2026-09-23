@@ -34,4 +34,6 @@
 	- Anclaje: Las proteínas adsorbidas experimentan un cambio conformacional hacia una forma activa, permitiendo ser reconocidas por integrinas e inicien las vías de señalización 
 	- Adhesión focal: Reclutamiento de diversas proteínas y la formación de adhesiones focales, conducen a una adhesión estable de las células 
 	- Extensión: Reorganización del citoesqueleto y cambios morfológicos permiten la supervivencia celular 
-- 
+
+# Mecanotransducción 
+
