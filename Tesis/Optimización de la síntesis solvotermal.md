@@ -10,7 +10,9 @@ La ciencia de los materiales en las ultimas décadas se ha enfocado en poder hac
 
 Existen muchas rutas de síntesis para poder obtener nanomateriales pero se pueden clasificar en top-down y bottom-up. Las síntesis de tipo top-down empiezan con el material en bulto para poder ir reduciendo su tamaño; este tipo de síntesis es el más utilizado actualmente en la industria debido a su facilidad y practicidad aunque, por lo general, suele tener dificultades para poder controlar los defectos superficiales del material. Cuando se comienza con átomos o moléculas que se van reaccionando hasta llegar a obtener nanopartículas se le conoce como bottom-up, este tipo de síntesis permite obtener formas, tamaños y distribuciones uniformes, además de tener el potencial de generar una menor cantidad de residuos. 
 
-Las nanopartículas fotoluminiscentes son partículas que presentan la propiedad de poder absorber y emitir luz. Las nanopartículas de conversión ascendente presentan la capacidad de absorber fotones de baja energía, normalmente infrarrojo, para convertirla en fotones de alta energía visible o ultravioleta. Este fenómeno se 
+
+
+Las nanopartículas fotoluminiscentes son partículas que presentan la propiedad de poder absorber y emitir luz. Las nanopartículas de conversión ascendente  presentan la capacidad de absorber fotones de baja energía, normalmente infrarrojo, para convertirla en fotones de alta energía visible o ultravioleta. Este fenómeno se 
 
 
 
