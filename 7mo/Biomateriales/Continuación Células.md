@@ -24,9 +24,9 @@
 - Median la transmisión de señales bidireccionales entre la célula y su entorno 
 - Genera uniones con proteínas de la MEC
 - Son heterodímeros: presentan la unidad $\alpha$ (18 subunidades) y la unidad $\beta$ (8 subunidades)
-- Funcionan como receptores transmembtanales 
+- Funcionan como receptores transmembranales 
 - Media la adhesión celular 
-- El nombre se dio para indicar la importancia para mantener la intedridad del enlace citoesquelético-MEC
+- El nombre se dio para indicar la importancia para mantener la integridad del enlace citoesquelético-MEC
 ![[Pasted image 20260923104618.png|400]]
 - Dominio: Región o segmento de la proteína donde se da una interacción específica 
 - Si la célula no se adhiere entonces no vive. 
