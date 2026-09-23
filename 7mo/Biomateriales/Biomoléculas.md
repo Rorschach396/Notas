@@ -76,3 +76,4 @@ Ahora llega mi compa el Lewis:
 - A las substancias que forman ácidos o bases al momento de combinarse con agua entonces se les conoce como ácidos de Lewis (como el cloruro de aluminio). 
 
 Anfóteros: Presentan ambos tipos de carga en una sola molécula (positiva y negativa). 
+
