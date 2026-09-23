@@ -17,4 +17,13 @@
 	- Polisacáridos (glucosaminoglicanos): Proteoglicanos (glucosaminoglicanos unidos a una proteína por enlaces covalentes, excepto el ácido hialurónico, pueden formar un hidrogel). 
 - Es una red heterogénea y dinámica 
 - Cada tejido tiene una composición diferente y estructura específica 
-- 
+
+# Integrinas 
+
+- Receptores presentes en la membrana celular 
+- Median la transmisión de señales bidireccionales entre la célula y su entorno 
+- Genera uniones con proteínas de la MEC
+- Son heterodímeros: presentan la unidad $\alpha$ (18 subunidades) y la unidad $\beta$ (8 subunidades)
+- Funcionan como receptores transmembtanales 
+- Media la adhesión celular 
+- El nombre se dio para indicar la importancia para mantener la intedridad del enlace citoesquelético-MEC
