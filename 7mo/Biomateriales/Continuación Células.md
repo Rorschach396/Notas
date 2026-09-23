@@ -57,3 +57,4 @@
 - Las células adherentes migran en grupo 
 - La adhesión entre las células permiten la transmisión de fuerzas entre células
 ![[Pasted image 20260923112551.png|359]]
+
