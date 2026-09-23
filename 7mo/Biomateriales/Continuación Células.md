@@ -37,3 +37,5 @@
 
 # Mecanotransducción 
 
+- Se pueden abrir canales cuando se producen cambios mecánicos en la célula 
+- 
