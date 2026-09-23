@@ -1,4 +1,4 @@
-# Carbohidratos 
+	# Carbohidratos 
 
 ## Celulosa 
 Es uno de los carbohidratos más comunes en la naturaleza, este es un polímero lineal que contiene glucosa. Es más importante la estructura que la química. La celulosa puede ser cristalina (normalmente se encuentra en las plantas). %% ver las cosas in situ es muy complicado%% Mientras algo no escale y empiece a ser competitivo entonces no se puede conseguir de forma tan común. 
