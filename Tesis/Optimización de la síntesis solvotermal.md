@@ -21,7 +21,7 @@ Dentro de la síntesis se utilizó una proporción molar inicial de 4 de bario, 
 
 [En 1959 el físico Richard Feynman propuso dos desafíos al mundo pensando en que el siguiente paso de la humanidad sería controlar la materia a escala atómica; estos retos consistían en poder crear un motor eléctrico funcional que tuviera un volumen igual o menor a 1/64 $in^{3}$ y poder escalar la página de un libro a una escala de 1/25000. Estos retos tardaron 26 años en poder ser resueltos y lograron crear la nanotecnología. ](https://euon.echa.europa.eu/es/history-of-nanomaterials-and-nanotechnology/) [La nanotecnología es una rama de la ciencia que busca controlar la materia a escalas donde empiezan a suceder fenómenos únicos que permiten obtener aplicaciones novedosas (normalmente entre 1 y 100 nanómetros). ](https://www.nano.gov/about-nanotechnology/)
 
-Dentro de la nanotecnología se pueden
+Dentro de la nanotecnología se pueden obtener diversos tipos de materiales que se clasifican en 
 
 
 # Metodología 
