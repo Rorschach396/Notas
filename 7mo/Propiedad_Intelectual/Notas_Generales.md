@@ -96,3 +96,5 @@ Segundo lugar en el kahoot
 - Los modelos como tal no existen en todo el mundo 
 - No tiene cosas nuevas, no hay actividad inventiva 
 - Duran 15 años 
+- Aquí no hay licencias obligatorias 
+- 
