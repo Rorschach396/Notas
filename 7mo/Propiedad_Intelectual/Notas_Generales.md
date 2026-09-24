@@ -114,4 +114,5 @@ Segundo lugar en el kahoot
 	- Conocimientos técnicos secretos complementarios de una parte 
 	- Si la banda lo puede sacar con ingeniería inversa entonces mejor patentar 
 	- Tod ainformación de aplicación industrial o comercial que guarde una persona física o moral con carácter confidencial que signifique obtener o mantenr una ventaja competitiva o económica frente a terceros en la realización de actividades económicas 
+	- Información secreta que dé ventaja competitiva 
 	- 
