@@ -112,4 +112,5 @@ Segundo lugar en el kahoot
 	- Conocimientos técnicos no patentables por prohibición legal 
 	- Conocimientos técnicos secretos que no reúnen los requisitos necesarios para ser considerados una invención 
 	- Conocimientos técnicos secretos complementarios de una parte 
+	- Si la banda lo puede sacar con ingeniería inversa entonces mejor patentar 
 	- 
