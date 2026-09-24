@@ -14,7 +14,7 @@ La conversión ascendente de fotones, mejor conocida como up conversion (UC), es
 
 # Introducción 
 
-En este estudio se realizó la síntesis de nanopartículas de $Ba_{4}Y_{3}F_{17}$ copadas con $Yb^{3+}$ y $Er^{3+}$ a través de una síntesis solvotermal. Para poder obtener una mejora en la emisión de las nanopartículas por conversión ascendente se decidió variar los parámetros de síntesis, específicamente la cantidad de fluor presente en la reacción, debido a esto se realizaron diferentes síntesis donde se aumentó paulatinamente la cantidad de fluor llegando hasta un máximo de 300%. 
+En este estudio se realizó la síntesis de nanopartículas de $Ba_{4}Y_{3}F_{17}$ dopadas con $Yb^{3+}$ y $Er^{3+}$ a través de una síntesis solvotermal. Para poder obtener una mejora en la emisión de las nanopartículas por conversión ascendente se decidió variar los parámetros de síntesis, específicamente la cantidad de fluor presente en la reacción, debido a esto se realizaron diferentes síntesis donde se aumentó paulatinamente la cantidad de fluor llegando hasta un máximo de 300%. 
 
 Dentro de la síntesis se utilizó una proporción molar inicial de 4 de bario, 3.34 de itrio, 0.6 de iterbio, 0.06 de erbio y 17.81 de fluor. Las síntesis se llevaron a cabo en un autoclave que se calentó a 200°C por 24 horas. Posteriormente las nanopartículas producidas fueron lavadas utilizando ácido clorhídrico, hexano, agua destilada y etanol. 
 
