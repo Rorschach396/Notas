@@ -94,4 +94,5 @@ Segundo lugar en el kahoot
 - Se pueden registrar como modelos de utilidad los objetos, utensilios, aparatos o herramientas que como resultado de un cambio en su disposición, configuración, estructura o forma presenten una función distinta 
 - Cambios o mejoras a cosas que ya existen 
 - Los modelos como tal no existen en todo el mundo 
-- 
+- No tiene cosas nuevas, no hay actividad inventiva 
+- Duran 15 años 
