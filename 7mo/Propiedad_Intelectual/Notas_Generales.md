@@ -105,4 +105,5 @@ Segundo lugar en el kahoot
 	- Diseño que sea creado de forma independiente que difiera en grado significativo de diseños conocidos o de combinaciones de características conocidas de diseños 
 	- Si se puede renovar 
 	- Dura 25 años 
+- Secretos industriales 
 	- 
