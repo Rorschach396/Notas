@@ -88,4 +88,9 @@ Segundo lugar en el kahoot
 - Obligatorios en los modelos de utilidad 
 
 - Es importante poner los antecedentes para poder evitar que te reboten la patente 
+
+# 24/09/2026
+
+- Se pueden registrar como modelos de utilidad los objetos, utensilios, aparatos o herramientas que como resultado de un cambio en su disposición, configuración, estructura o forma presenten una función distinta 
+- Cambios o mejoras a cosas que ya existen 
 - 
