@@ -97,4 +97,5 @@ Segundo lugar en el kahoot
 - No tiene cosas nuevas, no hay actividad inventiva 
 - Duran 15 años 
 - Aquí no hay licencias obligatorias 
-- 
+- Diseños industriales 
+	- 
