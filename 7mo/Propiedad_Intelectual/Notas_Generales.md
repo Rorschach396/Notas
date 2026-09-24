@@ -98,4 +98,8 @@ Segundo lugar en el kahoot
 - Duran 15 años 
 - Aquí no hay licencias obligatorias 
 - Diseños industriales 
+	- Estampados 
+	- Moldes 
+	- Cuestiones meramente estéticas 
+	- Si el diseño tiene algo técnico entonces ya no es diseño industrial 
 	- 
