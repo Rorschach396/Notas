@@ -106,4 +106,10 @@ Segundo lugar en el kahoot
 	- Si se puede renovar 
 	- Dura 25 años 
 - Secretos industriales 
+	- Información producto de un acto inventivo, novedoso y susceptible de aplicación industrial. 
+	- Te da la capacidad de demandar a las personas que revelan los secretos industriales 
+	- Conocimientos técnicos aun no patentables que puedan llegar a serlo 
+	- Conocimientos técnicos no patentables por prohibición legal 
+	- Conocimientos técnicos secretos que no reúnen los requisitos necesarios para ser considerados una invención 
+	- Conocimientos técnicos secretos complementarios de una parte 
 	- 
