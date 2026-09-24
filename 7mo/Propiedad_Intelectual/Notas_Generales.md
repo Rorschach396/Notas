@@ -103,4 +103,6 @@ Segundo lugar en el kahoot
 	- Cuestiones meramente estéticas 
 	- Si el diseño tiene algo técnico entonces ya no es diseño industrial 
 	- Diseño que sea creado de forma independiente que difiera en grado significativo de diseños conocidos o de combinaciones de características conocidas de diseños 
+	- Si se puede renovar 
+	- Dura 25 años 
 	- 
