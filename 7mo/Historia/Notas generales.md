@@ -152,4 +152,5 @@ Presentación de Wuji Bifan
 	- Mantener levaduras para poder obtener diferentes tipos de alcohol 
 	- Mantener relación con los que hacen alambiques y dar tours por viñedos
 	- Videos tutoriales de alcohol 
-	- 
+- Socio: Persona que cree en el proyecto 
+- 
