@@ -145,4 +145,4 @@ Presentación de Wuji Bifan
 - Canal: Como hacer llegar el producto al consumidor 
 	- Como si fueran tiras de pH 
 	- Tubitos con una caja para hacer las pruebas 
-	- 
+	- Los que venden las botellas y/o las latas 
