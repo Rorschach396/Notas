@@ -141,4 +141,5 @@ Presentación de Wuji Bifan
 - Quien es exactamente quien nos va a comprar 
 	- Empresas de alcohol artesanal que realicen sus propias destilaciones 
 	- Personas que hacen su propio alcohol para consumo personal 
-	- 
+	- Consumidor de alcohol de forma recreativa 
+- 
