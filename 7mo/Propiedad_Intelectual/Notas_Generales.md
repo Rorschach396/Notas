@@ -113,7 +113,6 @@ Segundo lugar en el kahoot
 	- Conocimientos técnicos secretos que no reúnen los requisitos necesarios para ser considerados una invención 
 	- Conocimientos técnicos secretos complementarios de una parte 
 	- Si la banda lo puede sacar con ingeniería inversa entonces mejor patentar 
-	- Tod ainformación de aplicación industrial o comercial que guarde una persona física o moral con carácter confidencial que signifique obtener o mantenr una ventaja competitiva o económica frente a terceros en la realización de actividades económicas 
+	- Toda información de aplicación industrial o comercial que guarde una persona física o moral con carácter confidencial que signifique obtener o mantener una ventaja competitiva o económica frente a terceros en la realización de actividades económicas 
 	- Información secreta que dé ventaja competitiva 
 	- Se puede transferir por contrato 
-	- 
