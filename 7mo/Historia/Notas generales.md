@@ -149,4 +149,7 @@ Presentación de Wuji Bifan
 	- Se tienen que hacer los cálculos para las camionetas o las formas de hacer llegar el producto 
 	- Los de las levaduras 
 - Relación con el cliente
+	- Mantener levaduras para poder obtener diferentes tipos de alcohol 
+	- Mantener relación con los que hacen alambiques y dar tours por viñedos
+	- Videos tutoriales de alcohol 
 	- 
