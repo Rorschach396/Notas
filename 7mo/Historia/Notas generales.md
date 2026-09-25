@@ -147,4 +147,5 @@ Presentación de Wuji Bifan
 	- Tubitos con una caja para hacer las pruebas 
 	- Los que venden las botellas y/o las latas 
 	- Se tienen que hacer los cálculos para las camionetas o las formas de hacer llegar el producto 
+	- Los de las levaduras 
 - 
