@@ -153,4 +153,6 @@ Presentación de Wuji Bifan
 	- Mantener relación con los que hacen alambiques y dar tours por viñedos
 	- Videos tutoriales de alcohol 
 - Socio: Persona que cree en el proyecto 
+- Costos siempre van hasta el final 
+- Aplicaciones de administración de proyectos 
 - 
