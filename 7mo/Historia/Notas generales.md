@@ -142,4 +142,7 @@ Presentación de Wuji Bifan
 	- Empresas de alcohol artesanal que realicen sus propias destilaciones 
 	- Personas que hacen su propio alcohol para consumo personal 
 	- Consumidor de alcohol de forma recreativa 
-- 
+- Canal: Como hacer llegar el producto al consumidor 
+	- Como si fueran tiras de pH 
+	- Tubitos con una caja para hacer las pruebas 
+	- 
