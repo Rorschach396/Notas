@@ -138,4 +138,6 @@ Presentación de Wuji Bifan
 
 - Propuesta de valor 
 - Tiene que ser para 10 min 
-- 
+- Quien es exactamente quien nos va a comprar 
+	- Empresas de alcohol artesanal que realicen sus propias destilaciones 
+	- 
