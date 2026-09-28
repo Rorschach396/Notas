@@ -155,4 +155,9 @@ Presentación de Wuji Bifan
 - Socio: Persona que cree en el proyecto 
 - Costos siempre van hasta el final 
 - Aplicaciones de administración de proyectos 
+
+# 28/09/2026
+
+- Alienación 
+- Comercialización de plataformas 
 - 
