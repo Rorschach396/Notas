@@ -24,3 +24,4 @@ Depende de cada tipo celular, recibe señales/estímulo, por lo que tendrán dif
 	- Apoptosis 
 	- Alteraciones subcelulares 
 
+Las células se especializan y forman tejidos, a este proceso se le llama diferenciación celular. Este proceso se caracteriza por la expresión y el silenciamiento coordinado de genes que determinan la morfología y función de una célula, esto permite desarrollar características y/o funciones especializadas. 
