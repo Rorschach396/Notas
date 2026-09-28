@@ -22,4 +22,5 @@ Depende de cada tipo celular, recibe señales/estímulo, por lo que tendrán dif
 - Daño celular 
 	- Daño reversible: desencadena muerte celular 
 	- Apoptosis 
-	- 
+	- Alteraciones subcelulares 
+
