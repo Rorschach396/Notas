@@ -12,9 +12,14 @@ Las propiedades fisicoquímicas de los materiales controlan y guían la activida
 - Módulo elástico 
 - Hidrofobicidad 
 
-
 | Propiedades físicoquímica | Efecto en la adhesión (osteoblastos)                                      |
 | ------------------------- | ------------------------------------------------------------------------- |
 | Química superficial       | Recubrimiento con proteínas de la MEC promueve la adhesión                |
 | Topografía                | Superficies rugosas promueve la adhesión                                  |
 | Hidrofobicidad            | Favorece en mayor medida la adhesión celular las superficies hidrofílicas |
+Depende de cada tipo celular, recibe señales/estímulo, por lo que tendrán diferentes reacciones presente a materiales presentes en el cuerpo humano. La interacción entre la célula y el material puede afectar la homeóstasis, esto puede desencadenar en dos cosas: 
+- Adaptación 
+- Daño celular 
+	- Daño reversible: desencadena muerte celular 
+	- Apoptosis 
+	- 
