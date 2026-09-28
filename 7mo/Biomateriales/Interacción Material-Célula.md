@@ -11,3 +11,10 @@ Las propiedades fisicoquímicas de los materiales controlan y guían la activida
 - Topografía 
 - Módulo elástico 
 - Hidrofobicidad 
+
+
+| Propiedades físicoquímica | Efecto en la adhesión (osteoblastos)                                      |
+| ------------------------- | ------------------------------------------------------------------------- |
+| Química superficial       | Recubrimiento con proteínas de la MEC promueve la adhesión                |
+| Topografía                | Superficies rugosas promueve la adhesión                                  |
+| Hidrofobicidad            | Favorece en mayor medida la adhesión celular las superficies hidrofílicas |
