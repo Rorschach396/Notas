@@ -31,3 +31,6 @@ Las células se especializan y forman tejidos, a este proceso se le llama difere
 - Multipotentes: Pueden formar un linaje especializado para formar un tejido/órgano. 
 
 Las células troncales de nicho son las que se encuentran dentro de un cuerpo adulto y se encargan de ir modificando 
+
+En el cultivo celular se tiene líneas celulares que son células obtenidas de tejidos que han sido inmortalizadas, esto permite obtener reproducibilidad, estandarización y tiempo prolongado. También se tiene un cultivo celular primario: se obtiene de tejidos vivo, permite tener medicina personalizada, alta variabilidad, pero duran muy poco tiempo. Células troncales pluripotentes inducidas, células troncales derivadas de células somáticas adultas reprogramación genética. 
+
