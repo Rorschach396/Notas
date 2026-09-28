@@ -25,3 +25,9 @@ Depende de cada tipo celular, recibe señales/estímulo, por lo que tendrán dif
 	- Alteraciones subcelulares 
 
 Las células se especializan y forman tejidos, a este proceso se le llama diferenciación celular. Este proceso se caracteriza por la expresión y el silenciamiento coordinado de genes que determinan la morfología y función de una célula, esto permite desarrollar características y/o funciones especializadas. 
+
+- Totipotentes: Pueden formar un organismo completo 
+- Pluripotentes: Pueden formar todas las células de un cuerpo (líneas terminales)
+- Multipotentes: Pueden formar un linaje especializado para formar un tejido/órgano. 
+
+Las células troncales de nicho son las que se encuentran dentro de un cuerpo adulto y se encargan de ir modificando 
