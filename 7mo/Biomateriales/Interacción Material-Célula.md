@@ -41,3 +41,9 @@ Las 3R de las pruebas con animales son:
 - Reducción: Buscar el menor uso de animales 
 - Refinamiento: Promover el bienestar de los animales para minimizar el dolor a los animales 
 
+Modelos in vitro complejos: Son modelos que integra un entorno multicelular y una estructura tridimencional utilizando matrices biopolímeros o derivadas de tejidos: 
+- Organoides 
+- Organo on a chip 
+- Modelos de barreros epiteliales (piel, pulmones, intestinal)
+- Andamios 
+
