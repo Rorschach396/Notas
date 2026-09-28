@@ -146,7 +146,7 @@ Presentación de Wuji Bifan
 	- Como si fueran tiras de pH 
 	- Tubitos con una caja para hacer las pruebas 
 	- Los que venden las botellas y/o las latas 
-		- Se tienen que hacer los cálculos para las camionetas o las formas de hacer llegar el producto 
+		- Se ti||enen que hacer los cálculos para las camionetas o las formas de hacer llegar el producto 
 	- Los de las levaduras 
 - Relación con el cliente
 	- Mantener levaduras para poder obtener diferentes tipos de alcohol 
