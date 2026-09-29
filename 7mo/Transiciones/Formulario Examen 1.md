@@ -1,6 +1,6 @@
 $$
 \begin{gather}
-\Delta G = \Delta H + T \Delta S  \\
+\Delta G = \Delta H - T \Delta S  \\
 \Delta G_{v} = \frac{L_{v}\Delta T}{T_{m}} \\
 r^* = \frac{2\gamma T_{m}}{L_{v}\Delta T} = \frac{2\gamma}{\Delta G _{v}} \\
 \Delta G ^{*}_{hom} = \frac{16\pi\gamma^{3}T^{2}}{3l_{v}^{2}(\Delta T)^{2}} \\
