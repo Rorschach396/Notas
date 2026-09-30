@@ -1,1 +1,1 @@
-La espectroscopía 
+La espectroscopía UV/Vis  es una técnica que permite analizar como interactúa la luz ultravioleta (UV) y la luz visible (Vis) con una muestra problema; 
