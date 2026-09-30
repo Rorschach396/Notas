@@ -35,11 +35,11 @@ Existen 7 sistemas cristalinos:
 # Actividad de clase 
 
 1) Conceptos básicos de: 
-	1) Red cristalina: Ordenamiento cristalino que se encuentra 
-	2) Base 
-	3) Estructura cristalina 
-	4) Celda unitaria 
-	5) Parámetro de red 
+	1) Red cristalina: Unidad fundamental de un material que contiene una estructura determinada y repetitiva. 
+	2) Base: Es la unidad que se puede repetir en una red cristalina 
+	3) Estructura cristalina: Conjunto de redes cristalinas que se repiten en el espacio sin que tengan que estar acomodadas de forma periódica 
+	4) Celda unitaria: Unidad repetitiva mínima que tiene un ordenamiento característico 
+	5) Parámetro de red: Dimensiones características que tiene una celda unitaria 
 2) Dimensionalidad de una red: Dibujar una red cristalina: 
 	1) Unidimensional Señalando su vector 
 	2) Bidimensional 
@@ -51,4 +51,8 @@ Existen 7 sistemas cristalinos:
 4) Completar la tabla: 
 5) Identificación a partir de parámetros de red 
 6) Representación dibujando una celda unitaria cúbica sencilla 
-7) 
+
+
+|     |     |
+| --- | --- |
+|     |     |
