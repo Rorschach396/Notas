@@ -21,4 +21,11 @@ Hay varios tipos de redes bidimensionales, entre estas destacan:
 - Hexagonal
 
 Existen 7 sistemas cristalinos: 
-- 
+- Cúbico o isométrico 
+- Tetragonal 
+- Hexagonal 
+- Trigonal 
+- Ortorrómbico 
+- Monoclínico 
+- Triclínico 
+
