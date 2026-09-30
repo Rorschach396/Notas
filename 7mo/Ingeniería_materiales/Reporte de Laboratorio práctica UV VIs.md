@@ -11,4 +11,5 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 
 - Nitrato de plata
 - Bromo hidruro 
+- Ácido cloro áurico
 - 
