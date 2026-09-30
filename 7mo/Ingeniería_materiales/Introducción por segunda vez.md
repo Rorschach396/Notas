@@ -53,6 +53,21 @@ Existen 7 sistemas cristalinos:
 6) Representación dibujando una celda unitaria cúbica sencilla 
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Sistema cristalino | Tipos de redes de Bravais                                                    | Número de redes de Bravais |
+| ------------------ | ---------------------------------------------------------------------------- | -------------------------- |
+| Triclínico         | Primitiva                                                                    | 1                          |
+| Monoclínico        | Primitiva, centrada en un lado                                               | 2                          |
+| Ortorrómbico       | Primitiva, centrada en el cuerpo, centrada en las caras, centrada en un lado | 4                          |
+| Tetragonal         | Primitiva, centrada en el cuerpo                                             | 2                          |
+| Trigonal           | Primitiva                                                                    | 1                          |
+| Hexagonal          | Primitiva                                                                    | 1                          |
+| Cúbico             | Primitiva, centrada en el cuerpo, centrada en las caras                      | 3                          |
+| Total              |                                                                              | 14                         |
+
+
+| Caso | Parámetro de red                                      | Sistema cristalino |
+| ---- | ----------------------------------------------------- | ------------------ |
+| a    | a = b = c<br>$\alpha = \beta=\gamma=90$               | Cubico             |
+| b    | $a \neq b \neq c$<br>$\alpha=\beta=\gamma=90$         | Rómbico            |
+| c    | a=b$\neq c$<br>$\alpha = \beta = 90 \quad \gamma=120$ | Hexagonal          |
+| d    | a=b$\neq c$<br>$\alpha = \beta=\gamma=90$             | Tetragonal         |
