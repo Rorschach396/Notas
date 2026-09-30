@@ -10,6 +10,6 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 ## Reactivos 
 
 - Nitrato de plata
-- Bromo hidruro 
+- Borohidruro de sodio
 - Ácido cloro áurico
 - 
