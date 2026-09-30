@@ -29,3 +29,6 @@ Existen 7 sistemas cristalinos:
 - Monoclínico 
 - Triclínico 
 
+![[Pasted image 20260930090814.png]]
+
+
