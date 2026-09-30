@@ -11,3 +11,11 @@ Existen 3 tipos de redes:
 - Bidimensionales 
 - Tridimensional 
 Estas se describen por medio de vectores 
+
+Hay varios tipos de redes bidimensionales, entre estas destacan: 
+
+- Oblicua 
+- Rectangular 
+- Rectangular centrada 
+- Cuadrada 
+- Hexagonal
