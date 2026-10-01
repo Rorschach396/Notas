@@ -133,3 +133,5 @@ Segundo lugar en el kahoot
 - Se puede registrar: 
 	- Marcas nominativas que identifican un producto o servicio 
 - Nuevo: Que no esté registrado o en trámite en un grado de confusión 
+- Notorio o famoso sin registro: Cuando ya se conoce la marca en el mercado donde se consume 
+- 
