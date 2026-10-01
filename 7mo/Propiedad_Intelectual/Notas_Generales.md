@@ -116,3 +116,11 @@ Segundo lugar en el kahoot
 	- Toda información de aplicación industrial o comercial que guarde una persona física o moral con carácter confidencial que signifique obtener o mantener una ventaja competitiva o económica frente a terceros en la realización de actividades económicas 
 	- Información secreta que dé ventaja competitiva 
 	- Se puede transferir por contrato 
+
+# Marcas 
+
+- Marcas de colores, marcas de sonidos y marcas 
+- Todo signo perceptible por los sentidos y susceptible de representarse de manera que permita determinar el objeto claro y preciso de la protección que distinga productos o servicios de otros de su misma especie o clase en el mercado 
+- Denominaciones letras o números, logos (elementos figurativos) formas tridimensionales (como la paleta payaso)
+- La principal diferencia entre marca y diseño industrial es: Sepa la verga 
+- 
