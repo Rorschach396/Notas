@@ -32,4 +32,6 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 4) Mantener en agitación hasta obtener un color rojizo. 
 5) Colocar 2 ml de una solución de nitrato de plata en un vaso de precipitado.
 6) Colocar el vaso de precipitado en una placa calefactora y encender la agitación. 
-7) 
+7) Agregar una solución de Borohidruro de sodio al nitrato de plata. 
+8) Mantener en agitación hasta obtener un color amarillento. 
+
