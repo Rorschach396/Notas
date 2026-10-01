@@ -21,6 +21,11 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 - 1 micropipeta de 1000 $\mu l$
 - 3 Puntas para micropipeta  de 1000 $\mu l$
 - Celdas de polímero para UV/Vis 
+- 2 Agitador magnético 
+- 2 placas calefactoras 
 
 # Procedimiento 
 
+1) Tomar 2 mililitros de ácido cloro áurico y colocarlos en un vaso de precipitado 
+2) Colocar el vaso de precipitado en una placa calefactora y calentar 
+3) 
