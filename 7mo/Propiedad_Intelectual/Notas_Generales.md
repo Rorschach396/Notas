@@ -128,4 +128,4 @@ Segundo lugar en el kahoot
 - Sonidos 
 - Pobre de los jueces que tienen que checar el pinche olor 
 - Viva cristo rey: Calendario del Yamil 
-- 
+- Marcas colectivas: Asociaciones sociedad de productores, fabricantes, o prestadores de servicios pueden solicitar el registro de marca colectiva para distinguir en el mercado los productos o servicios de sus miembros respecto de los productos o servicios de terceros 
