@@ -126,4 +126,4 @@ Segundo lugar en el kahoot
 - Las marcas sirven para distinguir los productos en el mercado
 - Se pueden registrar olores (como los bubble gummers)
 - Sonidos 
-- 
+- Pobre de los jueces que tienen que checar el pinche olor 
