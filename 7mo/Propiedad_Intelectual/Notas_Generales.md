@@ -127,3 +127,5 @@ Segundo lugar en el kahoot
 - Se pueden registrar olores (como los bubble gummers)
 - Sonidos 
 - Pobre de los jueces que tienen que checar el pinche olor 
+- Viva cristo rey: Calendario del Yamil 
+- 
