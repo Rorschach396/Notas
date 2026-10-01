@@ -132,4 +132,4 @@ Segundo lugar en el kahoot
 - La marca de certificación no la utiliza la marca, si no a los que tiene autorizados, es una marca de calidad, se auto regulan para poder determinar
 - Se puede registrar: 
 	- Marcas nominativas que identifican un producto o servicio 
-- 
+- Nuevo: Que no esté registrado o en trámite en un grado de confusión 
