@@ -123,4 +123,7 @@ Segundo lugar en el kahoot
 - Todo signo perceptible por los sentidos y susceptible de representarse de manera que permita determinar el objeto claro y preciso de la protección que distinga productos o servicios de otros de su misma especie o clase en el mercado 
 - Denominaciones letras o números, logos (elementos figurativos) formas tridimensionales (como la paleta payaso)
 - La principal diferencia entre marca y diseño industrial es: Sepa la verga 
-- Las marcas sirven para distinguir los productos en el mercado, 
+- Las marcas sirven para distinguir los productos en el mercado
+- Se pueden registrar olores (como los bubble gummers)
+- Sonidos 
+- 
