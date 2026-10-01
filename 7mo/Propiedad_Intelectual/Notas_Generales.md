@@ -129,4 +129,7 @@ Segundo lugar en el kahoot
 - Pobre de los jueces que tienen que checar el pinche olor 
 - Viva cristo rey: Calendario del Yamil 
 - Marcas colectivas: Asociaciones sociedad de productores, fabricantes, o prestadores de servicios pueden solicitar el registro de marca colectiva para distinguir en el mercado los productos o servicios de sus miembros respecto de los productos o servicios de terceros 
-- La marca de certificación no la utiliza la marca, si no a los que tiene autorizados, es una marca de calidad, se auto regulan para poder determinar 
+- La marca de certificación no la utiliza la marca, si no a los que tiene autorizados, es una marca de calidad, se auto regulan para poder determinar
+- Se puede registrar: 
+	- Marcas nominativas que identifican un producto o servicio 
+	- 
