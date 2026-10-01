@@ -12,4 +12,15 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 - Nitrato de plata
 - Borohidruro de sodio
 - Ácido cloro áurico
-- 
+- Agua destilada 
+
+# Materiales 
+
+- 4 vasos de precipitado de 20 ml 
+- 1 tuvo falcon de 40 ml 
+- 1 micropipeta de 1000 $\mu l$
+- 3 Puntas para micropipeta  de 1000 $\mu l$
+- Celdas de polímero para UV/Vis 
+
+# Procedimiento 
+
