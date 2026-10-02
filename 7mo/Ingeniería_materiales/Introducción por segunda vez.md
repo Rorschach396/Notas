@@ -92,3 +92,6 @@ A pesar de que con los materiales se busca que sean completamente puros, es casi
 - Se tiene temperatura 
 - No se puede quitar todo 
 
+Defectos de Vacancia: Se produce cuando falta un átomo en la estructura cristalina 
+Defectos intersticiales: Se produce cuando se inserta un átomo en una estructura cristalina en una posición normalmente desocupada 
+Defecto sustitucional: Se introduce un defecto sustitucional cuando un átomo es sustituido por otro átomo de distinta naturaleza, estos átomos cuando son de mayor tamaño causa una reducción de los espacios interatómicos vecinos. Cuando son de menor tamaño se produce una mayor distancia interatómica. 
