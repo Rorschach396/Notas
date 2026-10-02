@@ -90,4 +90,5 @@ familias de direcciones, pero en estos casos se tiene que expresar de forma dife
 
 A pesar de que con los materiales se busca que sean completamente puros, es casi imposible poder obtener pureza del 100%. Esto debido a que: 
 - Se tiene temperatura 
-- se 
+- No se puede quitar todo 
+
