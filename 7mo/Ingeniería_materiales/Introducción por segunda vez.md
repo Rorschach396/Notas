@@ -85,3 +85,4 @@ familias de direcciones, pero en estos casos se tiene que expresar de forma dife
 - Inversión = centro de inversión 
 - Rotoinversión = $\bar{n}$
 - Hay 32 grupos puntuales 
+- Un grupo espacial indica como se ordena y se repite una estructura cristalina en el espacio 
