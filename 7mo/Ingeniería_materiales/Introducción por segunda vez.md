@@ -74,4 +74,6 @@ Existen 7 sistemas cristalinos:
 
 # Direcciones 
 
-Como tal las direcciones no son equivalentes entre ellas si tiene signos diferentes, 
+Como tal las direcciones no son equivalentes entre ellas si tiene signos diferentes, pueden existir 
+familias de direcciones, pero en estos casos se tiene que expresar de forma diferente. 
+
