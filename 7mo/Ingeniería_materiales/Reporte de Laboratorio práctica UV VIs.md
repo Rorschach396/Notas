@@ -37,4 +37,4 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 
 # Resultados 
 
-
+Al momento de analizar las nanopartículas 
