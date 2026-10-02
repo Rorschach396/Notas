@@ -37,4 +37,4 @@ El principio fundamental de la espectroscopía UV/Vis está fundamentado en la a
 
 # Resultados 
 
-Al momento de analizar las nanopartículas 
+Al momento de analizar las nanopartículas de plata se encontró que estas presentaban un pico característico a 396 nm, esto al momento de compararlo con la literatura nos permite reconocer que 
