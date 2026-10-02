@@ -87,3 +87,7 @@ familias de direcciones, pero en estos casos se tiene que expresar de forma dife
 - Hay 32 grupos puntuales 
 - Un grupo espacial indica como se ordena y se repite una estructura cristalina en el espacio 
 - Los defectos 
+
+A pesar de que con los materiales se busca que sean completamente puros, es casi imposible poder obtener pureza del 100%. Esto debido a que: 
+- Se tiene temperatura 
+- 
