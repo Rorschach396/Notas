@@ -41,4 +41,4 @@ Al momento de analizar las nanopartículas de plata se encontró que estas prese
 
 Al momento de analizar las nanopartículas de plata, el espectro obtenido no era similar a los espectros presentados en la literatura, debido a esto se realizó la cuarta derivada de los datos para poder encontrar datos atípicos. En la cuarta derivada se pudo encontrar que había dos posibles zonas con picos poco visibles, debido a esto se sospecha que se puede tener una contaminación con el ácido cloro áurico, debido a que al momento de revisar la literatura relacionada con el este tema se encontró una ligera coincidencia con estos valores, sumado a esto es posible que se tengan nanopartículas dentro de la solución solo que estas queden opacadas debido al ácido. 
 
-Con las nanopartículas de plata y oro se realizó el mismo procedimiento que las anteriores. A pesar de que se realizó este procedimiento, no se pudo encontrar un pico secundario que se encontrase 
+Con las nanopartículas de plata y oro se realizó el mismo procedimiento que las anteriores. Gracias a este procedimiento se pudo encontrar un comportamiento similar al de 
