@@ -48,8 +48,8 @@ Existen 7 sistemas cristalinos:
 3) Red más base 
 	1) A partir de una red bidimensional cuadrada colocar como base un solo átomo 
 	2) Dos átomos diferentes y dibujar
-4) Completar la tabla: 
-5) Identificación a partir de parámetros de red 
+4) Completar la tabla de sistema cristalino
+5) Identificación a partir de parámetros de red (tabla de Caso)
 6) Representación dibujando una celda unitaria cúbica sencilla 
 
 
