@@ -77,3 +77,7 @@ Existen 7 sistemas cristalinos:
 Como tal las direcciones no son equivalentes entre ellas si tiene signos diferentes, pueden existir 
 familias de direcciones, pero en estos casos se tiene que expresar de forma diferente. 
 
+# Gupos espaciales o puntuales 
+
+- Se forman por operaciones de simetría 
+- 
