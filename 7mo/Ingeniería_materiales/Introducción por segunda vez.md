@@ -80,4 +80,8 @@ familias de direcciones, pero en estos casos se tiene que expresar de forma dife
 # Gupos espaciales o puntuales 
 
 - Se forman por operaciones de simetría 
-- 
+- Rotación = n
+- Reflexión = m 
+- Inversión = centro de inversión 
+- Rotoinversión = $\bar{n}$
+- Hay 32 grupos puntuales 
