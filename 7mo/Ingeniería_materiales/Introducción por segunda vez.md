@@ -71,3 +71,7 @@ Existen 7 sistemas cristalinos:
 | b    | $a \neq b \neq c$<br>$\alpha=\beta=\gamma=90$         | Rómbico            |
 | c    | a=b$\neq c$<br>$\alpha = \beta = 90 \quad \gamma=120$ | Hexagonal          |
 | d    | a=b$\neq c$<br>$\alpha = \beta=\gamma=90$             | Tetragonal         |
+
+# Direcciones 
+
+Como tal las direcciones no son equivalentes entre ellas si tiene signos diferentes, 
