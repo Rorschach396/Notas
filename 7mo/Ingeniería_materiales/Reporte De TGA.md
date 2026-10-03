@@ -9,8 +9,15 @@ En este trabajo se va a mostrar un análisis de TGA que se realizó a diferentes
 # Materiales y Método 
 
 ## Materiales 
-- Sulfato de calcio comercial 
-- Sulfato de calcio comercial fraguado 
-- Sulfato de calcio reconstituido 
-- Sulfato de calcio reconstituido fraguado 
-- Analizador Termogravimétrico
+Sulfato de calcio comercial 
+Sulfato de calcio comercial fraguado 
+Sulfato de calcio reconstituido 
+Sulfato de calcio reconstituido fraguado 
+Analizador Termogravimétrico
+Crisol de alúmina 
+Pinzas de disección 
+Espátula 
+
+## Método 
+
+1) Moler las muestras de 
