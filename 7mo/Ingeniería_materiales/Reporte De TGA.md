@@ -10,6 +10,7 @@ En este trabajo se va a mostrar un análisis de TGA que se realizó a diferentes
 
 ## Materiales 
 - Sulfato de calcio comercial 
-- Sulfato de calcio fraguado 
+- Sulfato de calcio comercial fraguado 
 - Sulfato de calcio reconstituido 
+- Sulfato de calcio reconstituido fraguado 
 - 
