@@ -27,4 +27,5 @@ Colocar el crisol dentro del analizador termogravimétrico con ayuda de las pinz
 Cerrar el TGA y correr el programa de prueba. 
 Repetir el proceso con cada muestra. 
 
-Resultados 
+# Resultados
+
