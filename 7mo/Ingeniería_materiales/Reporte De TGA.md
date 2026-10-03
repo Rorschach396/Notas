@@ -13,11 +13,16 @@ Sulfato de calcio comercial
 Sulfato de calcio comercial fraguado 
 Sulfato de calcio reconstituido 
 Sulfato de calcio reconstituido fraguado 
-Analizador Termogravimétrico
+Analizador Termogravimétrico (TGA)
 Crisol de alúmina 
 Pinzas de disección 
 Espátula 
+Balanza analítica
 
 ## Método 
 
-1) Moler las muestras de 
+Pesar el crisol de alúmina en una balanza analítica y anotar el peso. 
+Con ayuda de la espátula colocar alrededor de 4 mg de muestra dentro del crisol. 
+Colocar el crisol dentro del analizador termogravimétrico con ayuda de las pinzas de precisión. 
+Cerrar el TGA y correr el programa de prueba. 
+Repetir el proceso con cada muestra. 
