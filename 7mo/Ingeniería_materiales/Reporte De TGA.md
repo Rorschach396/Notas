@@ -29,3 +29,4 @@ Repetir el proceso con cada muestra.
 
 # Resultados
 
+Los datos obtenidos gracias al TGA se graficaron para poder obtener una curva comparable con la literatura, para esto se decidieron hacer 4 muestras, estas fueron divididas en dos grupos: Yeso comercial y yeso reconstituido, cada uno de estos grupos contaba con una muestra hidratada y una sin hidratar las cuales fueron puestas bajo las mismas condiciones en el TGA. Al momento de colocar las muestras dentro del TGA se realizó un pesado de las muestras, para esto 
