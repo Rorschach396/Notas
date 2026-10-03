@@ -29,4 +29,6 @@ Repetir el proceso con cada muestra.
 
 # Resultados
 
-Los datos obtenidos gracias al TGA se graficaron para poder obtener una curva comparable con la literatura, para esto se decidieron hacer 4 muestras, estas fueron divididas en dos grupos: Yeso comercial y yeso reconstituido, cada uno de estos grupos contaba con una muestra hidratada y una sin hidratar las cuales fueron puestas bajo las mismas condiciones en el TGA. Al momento de colocar las muestras dentro del TGA se realizó un pesado de las muestras, para esto 
+Los datos obtenidos gracias al TGA se graficaron para poder obtener una curva comparable con la literatura, para esto se decidieron hacer 4 muestras, estas fueron divididas en dos grupos: Yeso comercial y yeso reconstituido, cada uno de estos grupos contaba con una muestra hidratada y una sin hidratar las cuales fueron puestas bajo las mismas condiciones en el TGA. Al momento de colocar las muestras dentro del TGA se realizó un pesado de las muestras, para esto se decidió colocar el crisol dentro del TGA sin la muestra para luego llenarlo y volverlo a pesar, esta práctica no es recomendable por que da mas espacio a que se pueda dañar el equipo a la hora de retirar o colocar los crisoles. 
+
+Los resultados del TGA mostraron que las muestras de yeso deshidratadas (tanto la comercial como la reconstituida) presentan un comportamiento similar a la hora de calentar 
