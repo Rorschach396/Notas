@@ -1,3 +1,3 @@
 # Introducción 
 
-El análisis termogavimétrico es una herramienta que normalmente se utiliza para poder 
+El análisis termogravimétrico (más conocido como TGA )
