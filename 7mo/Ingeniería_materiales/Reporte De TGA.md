@@ -4,4 +4,8 @@ El análisis termogravimétrico (más conocido como TGA) es un método de análi
 
 El sulfato de calcio ($CaSO_{4}$) es un compuesto químico que se puede encontrar en la naturaleza en su forma dihidratada ($CaSO_{4} \cdot 2H_{2}O$), cuando a este compuesto se le deshidrata hasta solo tener media molécula de agua se le conoce comúnmente como yeso. El yeso es una de las materias primas más utilizadas en la construcción y el área médica, debido a esto cada año se generan una gran cantidad de desechos que pueden ser reutilizados si se realiza un proceso muy simple de deshidratación del yeso. 
 
-En este trabajo se va a mostrar un análisis de TGA que se realizó a diferentes muestras de yeso, esto para poder encontrar si un proceso de deshidratación simple (calentamiento a 200°C por 2 horas) es capas de eliminar el agua presente en el yeso para poder ser reutilizado 
+En este trabajo se va a mostrar un análisis de TGA que se realizó a diferentes muestras de yeso, esto para poder encontrar si un proceso de deshidratación simple (calentamiento a 200°C por 2 horas) es capas de eliminar el agua presente en el yeso para poder ser reutilizado en aplicaciones generales. 
+
+# Materiales y Método 
+
+## Materiales 
