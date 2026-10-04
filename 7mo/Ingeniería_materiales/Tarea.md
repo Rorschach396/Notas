@@ -1,0 +1,3 @@
+La difracción es un fenómeno que afecta a las ondas que se propagan por el espacio, este fenómeno se da cuando una onda  cruza una rendija que tiene dimensiones similares a las de su longitud de onda; al momento de cruzar esta presenta un cambio en su dirección de propagación. El fenómeno de difracción se puede presentar con ondas electromagnéticas como lo son los rayos X o la luz visible. 
+
+La difracción de rayos X es una técnica de caracterización analítica no destructiva, esta se utiliza para poder estudiar la estructura que presentan los materiales 
