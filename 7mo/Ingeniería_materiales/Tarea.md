@@ -12,3 +12,5 @@ n: es el orden de la difracción.
 $\lambda$ : es la longitud de onda de radiación incidente. 
 d es la distancia entre planos cristalinos.
 $\theta$ es el ángulo de incidencia del rayo X respecto al plano cristalino. 
+
+Esta puede ser deducida de la siguiente forma: 
