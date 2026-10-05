@@ -38,4 +38,6 @@ $$
 - Índices de miller (hkl)
 	- Cada pico se asocia con una familia de planos cristalográficos 
 	- Permite identificar la fase cristalina y su estructura 
-	- Se asignan comparando con patrones de referencia. 
+	- Se asignan comparando con patrones de referencia.
+- La indexación consiste en asignar a cada pico de difracción los indices de miller (hkl) correspondientes de planos cristalográficos que producen esa reflexión 
+1) Medir la posición 
