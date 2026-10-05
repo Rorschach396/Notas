@@ -13,4 +13,17 @@ $\lambda$ : es la longitud de onda de radiación incidente.
 d es la distancia entre planos cristalinos.
 $\theta$ es el ángulo de incidencia del rayo X respecto al plano cristalino. 
 
-Esta puede ser deducida considerando el escenario de la imagen (\ref ), donde se considera que se tienen planos de átomos de la red cristalina que se encuentran ordenados y separados por una distancia constante (d). Al momento en el que dos haces de rayos X de longitud de onda $\lambda$ inciden en fase sobre los planos del cristal con un ángulo de incidencia $\theta$ forman un frente de ondas (mostrado como la línea verde presente del lado izquierdo). Para que se pueda dar una reflexión cooperativa 
+Esta puede ser deducida considerando el escenario de la imagen (\ref ), donde se considera que se tienen planos de átomos de la red cristalina que se encuentran ordenados y separados por una distancia constante (d). Al momento en el que dos haces de rayos X de longitud de onda $\lambda$ inciden en fase sobre los planos del cristal con un ángulo de incidencia $\theta$ forman un frente de ondas (mostrado como la línea verde presente del lado izquierdo). Para que se pueda dar una difracción constructiva es necesario que en la reflexión ambos haces se encuentren en fase, esto solo se puede dar si los frentes OF y OH tienen una diferencia de un número entero de veces la longitud de onda de la radiación que incide. Esto se puede expresar de forma matemática de la siguiente forma: 
+
+$$
+\begin{gather}
+FG + GH = n\lambda  \\
+\text{Se sabe que: } \\
+FG = GH  \\
+\sin \theta = \frac{FG}{d} \\
+\text{Por lo que se puede obtener: } \\
+FG = d\sin \theta \\
+n\lambda = 2FG  \rightarrow \lambda  = 2(d\sin \theta)
+\end{gather}
+$$
+
