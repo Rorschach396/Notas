@@ -110,4 +110,6 @@ investigar que es la ley de brag y como se llega a la misma
 # Defectos Lineales 
 
 - Dislocación de borde: Imperfección lineal en la que un semiplano extra de átomos termina dentro del cristal provocando una desalineación local de la red. 
+	- Las tensiones generadas por las dislocaciones de borde pueden afectar la anchura de los picos 
+- Dislocación helicoidal: La imperfección lineal en la que los planos atómicos se apilan en espiral alrededor de la línea de dislocación. 
 - 
