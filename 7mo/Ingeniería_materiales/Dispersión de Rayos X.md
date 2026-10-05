@@ -41,3 +41,7 @@ $$
 	- Se asignan comparando con patrones de referencia.
 - La indexación consiste en asignar a cada pico de difracción los indices de miller (hkl) correspondientes de planos cristalográficos que producen esa reflexión 
 1) Medir la posición 
+2) Calcular la distancia 
+3) Relacionar D con la estructura cristalina 
+4) Asignar los índices 
+- 
