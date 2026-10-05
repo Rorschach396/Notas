@@ -21,4 +21,21 @@ $$
 	- Sus amplitudes se suman y se refuerzan, no producen un máximo de difracción 
 - Fuck, ya se de donde el doc saco el apunte 
 - Todas las operaciones se van a terminar haciendo en radianes, entonces se tiene que convertir a esa madre 
-- 
+
+# Interpretación de un difractograma
+
+- Posición del pico 2$\theta$
+	- Relacionada con la distancia interplanar hkl 
+	- Menor 2$\theta$ es mayor d 
+	- Mayor 2$\theta$ es menor d 
+- Intensidad del pico 
+	- Depende de la estructura cristalina y la distribución de los átomos 
+	- Puede verse afectada por la orientación preferencial 
+	- Un poco más intento no siempre es mayor calidad del material 
+- Anchura del pico (FWHM)
+	- Pico estrecho: Cristales grandes y/o menor deformación
+	- Picos anchos: Cristales pequeños, micro deformación o defectos 
+- Índices de miller (hkl)
+	- Cada pico se asocia con una familia de planos cristalográficos 
+	- Permite identificar la fase cristalina y su estructura 
+	- Se asignan comparando con patrones de referencia. 
