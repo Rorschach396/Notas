@@ -98,3 +98,16 @@ Defecto sustitucional: Se introduce un defecto sustitucional cuando un átomo es
 
 Si se cambian los parámetros de red se cambia el patrón de difracción 
 investigar que es la ley de brag y como se llega a la misma 
+
+# Defectos puntuales 
+
+- Defectos de Vacancias
+- Intersticiales 
+- Sustitucionales 
+- Defecto Frenkel (o par de Frenkel): Un par de vacancia intersticial que se forma cuando un ion salta de un punto normal de la red a un sitio intersticial y deja atrás una vacancia. 
+- Defecto Schottky: Cuando dos iones de carga opuesta faltan en un cristal iónico, se crea una divacante aniónica -catiónica que se conoce como defecto de Schottky. 
+
+# Defectos Lineales 
+
+- Dislocación de borde: Imperfección lineal en la que un semiplano extra de átomos termina dentro del cristal provocando una desalineación local de la red. 
+- 
