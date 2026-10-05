@@ -33,7 +33,7 @@ $$
 	- Puede verse afectada por la orientación preferencial 
 	- Un poco más intento no siempre es mayor calidad del material 
 - Anchura del pico (FWHM)
-	- Pico estrecho: Cristales grandes y/o menor deformación
+ 
 	- Picos anchos: Cristales pequeños, micro deformación o defectos 
 - Índices de miller (hkl)
 	- Cada pico se asocia con una familia de planos cristalográficos 
