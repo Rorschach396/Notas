@@ -27,3 +27,4 @@ n\lambda = 2FG  \rightarrow \lambda  = 2(d\sin \theta)
 \end{gather}
 $$
 
+Para poder tener una difracción de rayos X es necesario que la muestra que se va a procesar esté en polvo, presente una composición homogénea y preferentemente que esta no contenga contaminantes que puedan llegar a interferir con el análisis. Aunque el análisis se puede realizar en piezas en bulto, es preferible utilizar muestras en polvo debido a que proporcionan un mejor patrón de difracción.  
