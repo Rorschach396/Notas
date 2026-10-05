@@ -130,3 +130,4 @@ investigar que es la ley de brag y como se llega a la misma
 | Límite de grano        | Superficial   |                   |                            |                    |
 | Macla                  | Superficial   |                   |                            |                    |
 | Falla de apilamiento   | Superficial   |                   |                            |                    |
+
