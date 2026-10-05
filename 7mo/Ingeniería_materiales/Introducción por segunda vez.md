@@ -116,3 +116,17 @@ investigar que es la ley de brag y como se llega a la misma
 	- Maclas: Región cristal que es imagen especular de la otra a través de un plano de macla 
 	- Fallas de apilamiento: Interrupción en la secuencia normal de apilamiento de planos atómicos 
 
+
+| Defecto                | Clasificación | ¿En que consiste? | Representación Esquemática | Ejemplo o material |
+| ---------------------- | ------------- | ----------------- | -------------------------- | ------------------ |
+| Vacancia               | Puntual       |                   |                            |                    |
+| Intersticial           | Puntual       |                   |                            |                    |
+| Sustitucional          | Puntual       |                   |                            |                    |
+| Frenkel                | Puntual       |                   |                            |                    |
+| Schottky               | Puntual       |                   |                            |                    |
+| Dislocación de borde   | Lineal        |                   |                            |                    |
+| Dislocación Helicoidal | Lineal        |                   |                            |                    |
+| Dislocación Mixta      | Lineal        |                   |                            |                    |
+| Límite de grano        | Superficial   |                   |                            |                    |
+| Macla                  | Superficial   |                   |                            |                    |
+| Falla de apilamiento   | Superficial   |                   |                            |                    |
