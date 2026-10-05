@@ -20,4 +20,5 @@ $$
 	- Las sondas dispersadas llegan en fase 
 	- Sus amplitudes se suman y se refuerzan, no producen un máximo de difracción 
 - Fuck, ya se de donde el doc saco el apunte 
+- Todas las operaciones se van a terminar haciendo en radianes, entonces se tiene que convertir a esa madre 
 - 
