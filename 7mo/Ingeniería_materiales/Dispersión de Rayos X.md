@@ -19,4 +19,5 @@ $$
 - Interferencia constructiva: 
 	- Las sondas dispersadas llegan en fase 
 	- Sus amplitudes se suman y se refuerzan, no producen un máximo de difracción 
+- Fuck, ya se de donde el doc saco el apunte 
 - 
