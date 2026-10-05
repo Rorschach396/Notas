@@ -107,9 +107,12 @@ investigar que es la ley de brag y como se llega a la misma
 - Defecto Frenkel (o par de Frenkel): Un par de vacancia intersticial que se forma cuando un ion salta de un punto normal de la red a un sitio intersticial y deja atrás una vacancia. 
 - Defecto Schottky: Cuando dos iones de carga opuesta faltan en un cristal iónico, se crea una divacante aniónica -catiónica que se conoce como defecto de Schottky. 
 
-# Defectos Lineales 
+# Defectos Superficiales?
 
 - Dislocación de borde: Imperfección lineal en la que un semiplano extra de átomos termina dentro del cristal provocando una desalineación local de la red. 
 	- Las tensiones generadas por las dislocaciones de borde pueden afectar la anchura de los picos 
 - Dislocación helicoidal: La imperfección lineal en la que los planos atómicos se apilan en espiral alrededor de la línea de dislocación. 
-- 
+- Límites de grano: Límites o planos que se separan un material en regiones, cada región tiene la misma estructura cristalina pero en distinta orientación 
+	- Maclas: Región cristal que es imagen especular de la otra a través de un plano de macla 
+	- Fallas de apilamiento: Interrupción en la secuencia normal de apilamiento de planos atómicos 
+
