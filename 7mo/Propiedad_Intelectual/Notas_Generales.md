@@ -150,3 +150,5 @@ Segundo lugar en el kahoot
 - Nunca poner el primero de enero 
 - No poner días inhábiles 
 - Marca igual o semejante 
+- Si no se declara su uso entonces vales verga 
+- 
