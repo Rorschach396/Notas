@@ -145,4 +145,6 @@ Segundo lugar en el kahoot
 	- Dilución de la marca: Cuando se vuelve el nombre del producto 
 - 10 años después de pedir la marca hay 6 meses antes y 6 meses después puedes pedir la renovación con el impi 
 - Se tiene que mostrar que has usado tu marca en los últimos 3 años  
+- La marca sea idéntica o semejante en grado de confusión 
+- Si alguien demuestra que utilizaba la marca antes de que la registraras entonces te la pueden quitar 
 - 
