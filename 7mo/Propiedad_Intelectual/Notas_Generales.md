@@ -160,3 +160,7 @@ Segundo lugar en el kahoot
 	- Lista de productos y servicios
 	- Se tiene que clasificar los productos y servicios para poder registrar la marca 
 	- -
+
+|     |     |
+| --- | --- |
+|     |     |
