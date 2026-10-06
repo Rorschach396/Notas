@@ -142,4 +142,7 @@ Segundo lugar en el kahoot
 - No se registra como marca: 
 	- Nombres técnicos o de uso común 
 	- lenguaje corriente o en las prácticas comerciales se haya convertido en elementos usuales o genéricos de los mismos  
-	- Dilución de la marca 
+	- Dilución de la marca: Cuando se vuelve el nombre del producto 
+- 10 años después de pedir la marca hay 6 meses antes y 6 meses después puedes pedir la renovación con el impi 
+- Se tiene que mostrar que has usado tu marca en los últimos 3 años  
+- 
