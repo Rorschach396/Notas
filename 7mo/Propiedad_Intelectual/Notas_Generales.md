@@ -139,4 +139,7 @@ Segundo lugar en el kahoot
 - Test es el grado de confusión 
 - Marcas notoriamente conocidas 
 - Marcas famosas 
-- 
+- No se registra como marca: 
+	- Nombres técnicos o de uso común 
+	- lenguaje corriente o en las prácticas comerciales se haya convertido en elementos usuales o genéricos de los mismos  
+	- Dilución de la marca 
