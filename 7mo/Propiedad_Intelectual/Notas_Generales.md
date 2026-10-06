@@ -153,4 +153,4 @@ Segundo lugar en el kahoot
 - Si no se declara su uso entonces vales verga 
 - Clasificación de nisa, se tiene que especificar para que se va a utilizar 
 - A los 3 años se tiene que mandar que la estas usando 
-- 
+- sistema de registro en México, en estados unidos es sistema de uso, 
