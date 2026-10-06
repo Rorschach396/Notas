@@ -153,4 +153,6 @@ Segundo lugar en el kahoot
 - Si no se declara su uso entonces vales verga 
 - Clasificación de nisa, se tiene que especificar para que se va a utilizar 
 - A los 3 años se tiene que mandar que la estas usando 
-- sistema de registro en México, en estados unidos es sistema de uso, 
+- sistema de registro en México, en estados unidos es sistema de uso
+- Se tiene que hacer uso de la marca de forma continua, para los mismos o similares, productos y servicios. 
+- 
