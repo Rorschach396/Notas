@@ -159,4 +159,4 @@ Segundo lugar en el kahoot
 - Clasificación de niza: 
 	- Lista de productos y servicios
 	- Se tiene que clasificar los productos y servicios para poder registrar la marca 
-	- 
+	- -
