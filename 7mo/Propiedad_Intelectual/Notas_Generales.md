@@ -151,4 +151,5 @@ Segundo lugar en el kahoot
 - No poner días inhábiles 
 - Marca igual o semejante 
 - Si no se declara su uso entonces vales verga 
+- Clasificación de nisa, se tiene que especificar para que se va a utilizar 
 - 
