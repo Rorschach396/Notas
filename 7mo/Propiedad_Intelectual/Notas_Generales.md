@@ -147,4 +147,6 @@ Segundo lugar en el kahoot
 - Se tiene que mostrar que has usado tu marca en los últimos 3 años  
 - La marca sea idéntica o semejante en grado de confusión 
 - Si alguien demuestra que utilizaba la marca antes de que la registraras entonces te la pueden quitar 
-- 
+- Nunca poner el primero de enero 
+- No poner días inhábiles 
+- Marca igual o semejante 
