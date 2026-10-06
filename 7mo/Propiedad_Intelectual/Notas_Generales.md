@@ -155,4 +155,8 @@ Segundo lugar en el kahoot
 - A los 3 años se tiene que mandar que la estas usando 
 - sistema de registro en México, en estados unidos es sistema de uso
 - Se tiene que hacer uso de la marca de forma continua, para los mismos o similares, productos y servicios. 
-- 
+- El derecho se obtiene registrando la marca (en México)
+- Clasificación de niza: 
+	- Lista de productos y servicios
+	- Se tiene que clasificar los productos y servicios para poder registrar la marca 
+	- 
