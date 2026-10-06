@@ -134,4 +134,9 @@ Segundo lugar en el kahoot
 	- Marcas nominativas que identifican un producto o servicio 
 - Nuevo: Que no esté registrado o en trámite en un grado de confusión 
 - Notorio o famoso sin registro: Cuando ya se conoce la marca en el mercado donde se consume 
+# 06/10/2026
+
+- Test es el grado de confusión 
+- Marcas notoriamente conocidas 
+- Marcas famosas 
 - 
