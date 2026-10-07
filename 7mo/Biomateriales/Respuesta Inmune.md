@@ -30,6 +30,10 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Células dendríticas: Vigilancia de patógenos e inicio de una respuesta inmunitaria, células presentadoras de antígenos (APC) captan, procesan y presentan antígenos para inducir respuestas inmunitarias. 
 	- Sistema del complemento: Conjunto de proteínas que se encuentran en forma inactiva en condiciones normales, al activarse, experimentan una cascada de escisiones proteolíticas (mochado de proteínas) que dan lugar a diversas respuestas inmunitarias. 
 	- Citocinas: Proteínas pequeñas que participan en la señalización celular. 
-	- 
+		- regulan las respuestas inmunitarias e inflamatorias 
+			- Promueven o inhiben la proliferación y diferenciación de diversos tipos celulares
+			- Modulan el equilibrio entre las respuestas inmunitarias humorales y celulares (inmunidad adaptativa)
+			- Coordinar la migración de células hacia los sitios de infección o lesión. 
+		- La desregulación afecciones patológicas (ejferkedades autoinmunitarias, )
 - Sistemas del complemento 
 - Citocinas 
