@@ -44,4 +44,6 @@ $$
 2) Calcular la distancia 
 3) Relacionar D con la estructura cristalina 
 4) Asignar los índices 
+- Los patrones de difracción cuentan como una patente. 
+- Mayor calidad es mejor 
 - 
