@@ -82,3 +82,11 @@ $$
 - Se mide el FWHM 
 - Se mide el FWHM del equipo
 - Se obtiene el corregido restando ambos 
+
+Quitado todo el error instrumental se puede utilizar la siguiente ecuación para poder calcular el tamaño de un cristalito 
+
+$$
+D = \frac{K\lambda}{\beta_{\text{muestra}}\cos \theta}
+$$
+K = 0.9 = factor de forma 
+
