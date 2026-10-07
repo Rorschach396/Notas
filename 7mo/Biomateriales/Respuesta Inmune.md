@@ -27,6 +27,6 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Monocitos : Se origina a partir de células troncales hematopoyéticas en la médula ósea, los monocitos pueden permanecer en circulación (horas o días), pueden cruzar células endoteliales y entrar a tejidos y órganos, daruan hasta convertirse en macrófagos. Expresan una variedad de moléculas de superficie, secretan diversas citocinas. 
 	- Macrófagos: Fagocitan, digieren y eliminan antígenos, fagocita y elimina células senescentes, moribundas o transformadas, manteniendo así la homeóstasis inmunitaria, Células presentadoras de antígenos pueden captar, procesar y presentar antígenos. 
 	- Células asesinas naturales: Se diferencian a partir de células troncales hematopoyéticas, migran a diversos tejidos (hígado, brazo, pulmones y ganglios linfáticos), capacidad para atacar y destruir células infectadas por virus y células malignas sin necesidad de sensibilización previa. Pueden activarse rápidamente al unirse a antígenos específicos en la superficie de las células diana. Citotoxicidad celular dependiente de los anticuerpos, pueden inducir la lisis de la célula diana mediante la liberación de perforinas y granzimas, elimina selectivamente células anómalas o enfermas sin dañar el tejido normal. 
-	- 
+	- Células dendríticas: Vigilancia de patógenos e inicio de una respuesta inmunitaria, células presentadoras de antígenos (APC) captan, procesan y presentan antígenos para inducir respuestas inmunitarias. 
 - Sistemas del complemento 
 - Citocinas 
