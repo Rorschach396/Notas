@@ -66,10 +66,11 @@ $$
 	- Absorción de rayos X 
 	- Composición química 
 	- Defectos y desorden estructural 
-- 
 - Factores instrumentales
 	- intensidad 
 	- Longitud de onda 
 	- tiempo de conteo 
 	- tipo y eficiencia del detector
-	- Alineación del equípo 
+	- Alineación del equipo 
+- Normalmente se tiene que extraer el error del equipo, esto se hace con un patrón de referencia 
+- 
