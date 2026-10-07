@@ -73,4 +73,5 @@ $$
 	- tipo y eficiencia del detector
 	- Alineación del equipo 
 - Normalmente se tiene que extraer el error del equipo, esto se hace con un patrón de referencia 
+- El error del equipo se mide dando un barrido muy lento a una muestra altamente cristalina 
 - 
