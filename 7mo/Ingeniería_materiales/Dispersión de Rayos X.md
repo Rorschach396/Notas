@@ -74,4 +74,11 @@ $$
 	- Alineación del equipo 
 - Normalmente se tiene que extraer el error del equipo, esto se hace con un patrón de referencia 
 - El error del equipo se mide dando un barrido muy lento a una muestra altamente cristalina 
-- 
+
+$$
+FWHM = \sqrt{ U\tan{^2} \theta + V\tan \theta +W }
+$$
+
+- Se mide el FWHM 
+- Se mide el FWHM del equipo
+- Se obtiene el corregido restando ambos 
