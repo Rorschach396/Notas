@@ -50,3 +50,5 @@ $$
 $$
 a = \frac{\lambda(h{^2}+k{^2}+l{^2})^{\frac{{1}}{2}}}{2\sin \theta}
 $$
+- Picos muy estrechos quiere decir un tamaño de cristal muy grande 
+- 
