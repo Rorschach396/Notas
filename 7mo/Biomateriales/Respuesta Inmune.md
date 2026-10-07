@@ -34,6 +34,34 @@ Los principales componentes de la respuesta inmunitaria innata son:
 			- Promueven o inhiben la proliferación y diferenciación de diversos tipos celulares
 			- Modulan el equilibrio entre las respuestas inmunitarias humorales y celulares (inmunidad adaptativa)
 			- Coordinar la migración de células hacia los sitios de infección o lesión. 
-		- La desregulación afecciones patológicas 
-- Sistemas del complemento 
+		- La desregulación afecciones patológicas (enfermedades autoinmunitarias, inflamatorias crónicas y cancer)
+		- Son secretadas por diversas células 
+			- Macrófagos
+			- Linfocitos B y T 
+			- Mastocitos 
+		- Estas se pueden dividir en los siguientes factores
+
+| Clasificación                  | Ejemplos         | Funciones                                                                                                                  |
+| ------------------------------ | ---------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Interleucinas                  | IL-1             | participan en la regulación inmunitaria, hematopoyesis y procesos inflamatorios                                            |
+| Quimiocinas                    | CXC, CC, CX3C, C | Quimiotaxis de neutrófilos, monocitos, células NK células T y macrófagos                                                   |
+| Interferones                   | INF-$\alpha$     | Participan en la inmunidad antiviral, antriproliferativa, antitumoral y en inmunoconducción                                |
+| Factor de necrosis tumoral     | TNF-$\alpha$     | Participan en la destrucción de células dianas, regulación inmunitaria, respuestas inflamatorias e inducción de apoptosis. |
+| Factor estimulante de colonias | G-CSF            | Estimulan la proliferación y diferenciación de células troncales hematopoyeticas progenitoras                              |
+| Factores de crecimiento        | TGF              | Promueven el crecimiento y diferenciación de las células                                                                   |
+
+- Sistemas del complemento: Proteínas que se encuentran en la sangre y que, al momento que entran en contacto con algún patógeno se da un corte de las mismas para poder desencadenar una respuesta inmune. Se puede activar de formas diferentes y cada una de estas vías se puede dar por diferentes motivos, las proteínas del complemento se suelen enumerar con la letra c (C2, C1, C4, C9) con componentes centrales de C3 y C5 su respuesta es: 
+	- lisis de patógenos 
+	- promoción de la fagocitosis de patógenos 
+	- Reclutamiento y activación de las células inflamatorias. 
 - Citocinas 
+
+
+## Reconocimiento de patógenos
+- Patrones moleculares asociados a patógenos 
+	- Estructuras moleculares comunes en la superficie de patógenos en la superficie de las células infectadas 
+	- Liposacáridos, ARN viral y componentes de la pared celular fúngica 
+- Patrones moleculares asociados al daño (DAMPS)
+	- Macromoléculas liberadas al medio extracelular o expuestas en la superficie de las células dañadas/muertas 
+	- ATP, ADN y ARN liberados tras el daño o estrés celular componentes de la matriz extracelular expuestos durante la lesión tisular. 
+- Receptores de reconocimiento de patrones (PRR): Cada PRR reconoce un DAMP o un PAMP común en muchas células dañadas o patógenos distintivos. 
