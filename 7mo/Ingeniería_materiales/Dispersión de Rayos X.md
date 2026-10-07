@@ -51,4 +51,25 @@ $$
 a = \frac{\lambda(h{^2}+k{^2}+l{^2})^{\frac{{1}}{2}}}{2\sin \theta}
 $$
 - Picos muy estrechos quiere decir un tamaño de cristal muy grande 
+
+# Factores que afectan la intensiidad de los picos 
+
+- Factores estructurales 
+	- Factor de estructura 
+	- Factor de dispersión 
+	- Multiplicidad del plano 
+	- Simetría cristalina 
+- Factores de la muestra 
+	- Orientación preferencial 
+	- Fracción de fase 
+	- grado de cristalinidad 
+	- Absorción de rayos X 
+	- Composición química 
+	- Defectos y desorden estructural 
 - 
+- Factores instrumentales
+	- intensidad 
+	- Longitud de onda 
+	- tiempo de conteo 
+	- tipo y eficiencia del detector
+	- Alineación del equípo 
