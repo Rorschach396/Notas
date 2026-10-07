@@ -94,3 +94,5 @@ Lo que cambia el ancho del pico principalmente es el tamaño del cristal (más p
 - Tamaño de cristal 
 - Efecto instrumental 
 - Tensiones de red 
+- Si se aplica Scherrer se tiene que expresar el tamaño en radianes 
+- 
