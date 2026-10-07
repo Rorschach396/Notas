@@ -46,4 +46,7 @@ $$
 4) Asignar los índices 
 - Los patrones de difracción cuentan como una patente. 
 - Mayor calidad es mejor 
-- 
+
+$$
+a = \frac{\lambda(h{^2}+k{^2}+l{^2})^{\frac{{1}}{2}}}{2\sin \theta}
+$$
