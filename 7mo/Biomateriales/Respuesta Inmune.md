@@ -34,6 +34,6 @@ Los principales componentes de la respuesta inmunitaria innata son:
 			- Promueven o inhiben la proliferación y diferenciación de diversos tipos celulares
 			- Modulan el equilibrio entre las respuestas inmunitarias humorales y celulares (inmunidad adaptativa)
 			- Coordinar la migración de células hacia los sitios de infección o lesión. 
-		- La desregulación afecciones patológicas (ejferkedades autoinmunitarias, )
+		- La desregulación afecciones patológicas 
 - Sistemas del complemento 
 - Citocinas 
