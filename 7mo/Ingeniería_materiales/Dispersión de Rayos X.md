@@ -90,3 +90,7 @@ D = \frac{K\lambda}{\beta_{\text{muestra}}\cos \theta}
 $$
 K = 0.9 = factor de forma 
 
+Lo que cambia el ancho del pico principalmente es el tamaño del cristal (más pequeño es más ancho), efectos instrumentales, tensiones no uniformes (deslazamiento de los átomos de sus posiciones ideales), defectos: Dislocaciones y defectos puntuales. 
+- Tamaño de cristal 
+- Efecto instrumental 
+- Tensiones de red 
