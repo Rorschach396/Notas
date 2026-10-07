@@ -22,5 +22,8 @@ Los principales componentes de la respuesta inmunitaria innata son:
 - Células endocíticas, fagocíticas y NK: 
 	- Granulocitos: Se origina a partir de células troncales hematopoyéticas en la médula ósea, poseen una gran cantidad de lisosomas en su citoplasma, de acuerdo con sus propiedades de tinción, se suelen clasificar en neutrófilos, eosinófilos y basófilos 
 	- Neutrófilos: Muchos componentes granulares, digieren bacterias y partículas extrañas, constituyen la primera línea de defensa contra microorganismos, son guiados por moléculas de adhesión y factores quimiotácticos (guiar con moléculas), primeras células inmunitarias en llegar a los sitios de inflamación. 
+	- Eosinófilos: Gránulos grandes y densamente agrupados, defensa contra parásitos, se adhiere a superficies de los parásitos a través de los receptores y del complemento liberando el contenido de los gránulos para eliminarlos, capacidad fagocítica, participan en la inflamación secretando citocinas. 
+	- Basófilos; Gránulos de forma irregular y tamaño variable en su citoplasma (histamina, heparina y enzimas proteolíticas), pueden expresar receptores de IgE en su superficie, pueden liberar mediadores inflamatorios tras la acción de los anticuerpos IgE (respuestas inmunitarias alérgicas). 
+	- Monocitos y macrófagos: Se origina a partir de células troncales hematopoyéticas en la médula ósea, los monocitos pueden permanecer en circulación (horas o días), pueden cruzar células endoteliales y entrar a tejidos y órganos,, daruan hasta convertirse en macrófagos. Expresan una variedad de moléculas de superficie, secretan diversas citocinas. 
 - Sistemas del complemento 
 - Citocinas 
