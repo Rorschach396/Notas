@@ -161,6 +161,13 @@ Segundo lugar en el kahoot
 	- Se tiene que clasificar los productos y servicios para poder registrar la marca 
 	- -
 
-|     |     |
-| --- | --- |
-|     |     |
+# 08/10/2026
+
+- Nombre comercial: Nombre del changarro que puse 
+- Principales diferencias: 
+
+| Marca             | Nombre comercial    |
+| ----------------- | ------------------- |
+| Registro          | No es necesario/uso |
+| Nacional (México) | Regional/Publicidad |
+|                   |                     |
