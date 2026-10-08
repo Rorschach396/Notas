@@ -183,6 +183,8 @@ Segundo lugar en el kahoot
 	- No tiene que ser nuevo, puede ser algo que ya existe pero que sea famoso de un determinado lugar 
 	- Vinculo con el lugar de origen 
 	- El dueño de la denominación de origen es el estado
+	- Normalmente lo saca el gobiernos para que el gobierno lo cuide 
+	- Debes de cumplir con determinadas características para que puedas hacer uso de 
 
 | Denominación de origen | Indicación de geográfica |
 | ---------------------- | ------------------------ |
