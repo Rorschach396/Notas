@@ -6,5 +6,9 @@ Fuerza impulsora se disminuye cuando crece la barrera
 Si todo el proceso está mediado por la difusión, entre más se difunde menos fuerza tiene 
 Gradiente de difusión pierde fuerza con la distancia y la concentración 
 
+$$
+f = 1 - e^{-kt{^n}}
+$$
+
 
 
