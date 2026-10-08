@@ -67,3 +67,10 @@ $$
 1.5 \rightarrow 0.197888691 g \rightarrow 197.888691 mg 
 \end{gather}
 $$
+
+$$
+\begin{gather}
+\text{Considerando que la masa molecular de } NH_{4}HF_{2} \text{ es: } 57.044 \frac{g}{mol} \\
+17.81(0.2 \times 10^{-3}mol)\left( 57.044 \frac{g}{mol} \right)(6) = 1.219144368 g
+\end{gather}
+$$
