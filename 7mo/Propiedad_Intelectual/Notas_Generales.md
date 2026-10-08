@@ -179,4 +179,8 @@ Segundo lugar en el kahoot
 	- No pueden ser muy largos por que entra en derechos de autor 
 - Denominaciones de origen 
 	- Nombre de una región de un país para poder nombrar un producto específico por sus características inconfundibles 
-	- Indicación geográfica: Utiliza para identificar productos cuyas características son otorgadas para identificar productos cuyas características son otorgadas por las cualidades naturales del medio geográfico y son identificados como originarios de la zona, con determinada calidad, reputación u otra catacterística 
+	- Indicación geográfica: Utiliza para identificar productos cuyas características son otorgadas para identificar productos cuyas características son otorgadas por las cualidades naturales del medio geográfico y son identificados como originarios de la zona, con determinada calidad, reputación u otra característica 
+
+| Denominación de origen | Indicación de geográfica |
+| ---------------------- | ------------------------ |
+|                        |                          |
