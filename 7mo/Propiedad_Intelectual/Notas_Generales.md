@@ -171,4 +171,6 @@ Segundo lugar en el kahoot
 | Registro              | No es necesario/uso          |
 | Nacional (México)     | Regional/Publicidad          |
 | Clasificación de Niza | No usa la clasificación Niza |
-- Se tiene que ir con un notario para que el levante algo llamado "Fe de hechos" con lo que se acredita el uso de un nombre para 
+- Se tiene que ir con un notario para que el levante algo llamado "Fe de hechos" con lo que se acredita el uso de un nombre para que se pueda publicar para que se pueda usar "de buena fe"
+- Pinches notarios no chambean 
+- 
