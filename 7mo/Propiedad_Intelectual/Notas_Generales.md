@@ -166,8 +166,9 @@ Segundo lugar en el kahoot
 - Nombre comercial: Nombre del changarro que puse 
 - Principales diferencias: 
 
-| Marca             | Nombre comercial    |
-| ----------------- | ------------------- |
-| Registro          | No es necesario/uso |
-| Nacional (México) | Regional/Publicidad |
-|                   |                     |
+| Marca                 | Nombre comercial             |
+| --------------------- | ---------------------------- |
+| Registro              | No es necesario/uso          |
+| Nacional (México)     | Regional/Publicidad          |
+| Clasificación de Niza | No usa la clasificación Niza |
+- Se tiene que ir con un notario para que el levante algo llamado "Fe de hechos" con lo que se acredita el uso de un nombre para 
