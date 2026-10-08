@@ -166,11 +166,17 @@ Segundo lugar en el kahoot
 - Nombre comercial: Nombre del changarro que puse 
 - Principales diferencias: 
 
-| Marca                 | Nombre comercial             |
-| --------------------- | ---------------------------- |
-| Registro              | No es necesario/uso          |
-| Nacional (México)     | Regional/Publicidad          |
-| Clasificación de Niza | No usa la clasificación Niza |
+| Marca                 | Nombre comercial             | Aviso comercial       |
+| --------------------- | ---------------------------- | --------------------- |
+| Registro              | No es necesario/uso          | Registro              |
+| Nacional (México)     | Regional/Publicidad          | Nacional              |
+| Clasificación de Niza | No usa la clasificación Niza | Clasificación de Niza |
 - Se tiene que ir con un notario para que el levante algo llamado "Fe de hechos" con lo que se acredita el uso de un nombre para que se pueda publicar para que se pueda usar "de buena fe"
 - Pinches notarios no chambean 
-- 
+- Avisos comerciales 
+	- Son los slogans 
+	- Requieren ser inscritos para que tengan protección de la ley 
+	- No pueden ser muy largos por que entra en derechos de autor 
+- Denominaciones de origen 
+	- Nombre de una región de un país para poder nombrar un producto específico por sus características inconfundibles 
+	- Indicación geográfica: Utiliza para identificar productos cuyas características son otorgadas para identificar productos cuyas características son otorgadas por las cualidades naturales del medio geográfico y son identificados como originarios de la zona, con determinada calidad, reputación u otra catacterística 
