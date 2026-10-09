@@ -163,4 +163,5 @@ Presentación de Wuji Bifan
 
 # 09/10/2026
 Presentación de modelo de negocios que dan en Inglaterra 
-- 
+- ¿Qué es la innovación?
+	- 
