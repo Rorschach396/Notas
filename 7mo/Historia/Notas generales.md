@@ -203,7 +203,7 @@ Presentación de modelo de negocios que dan en Inglaterra
 		- Mejoría incremental 
 		- Corto plazo 
 	- Antes de tener una buena idea es necesario tener buenos insumos 
-		- Insumos: Investigación y desarrollo, prioridades nacionales o sectoriales, personal de la empresa, personas que forman parte de la red de conocimiento de la empresa. 
+		- Insumos: Investigación y desarrollo, prioridades nacionales o sectoriales, personal de la empresa (escuchar a todos los que están en la empresa, más a algunos pero en general a todos, hacer cocteles para poder pistear y platicar) , personas que forman parte de la red de conocimiento de la empresa. 
 		- Análisis, evaluación organismos de insumo 
 		- Incubadoras: Generación de ideas 
 		- Desarrollo e implementación 
