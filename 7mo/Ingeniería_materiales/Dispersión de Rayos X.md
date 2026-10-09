@@ -96,3 +96,11 @@ Lo que cambia el ancho del pico principalmente es el tamaño del cristal (más p
 - Tensiones de red 
 - Si se aplica Scherrer se tiene que expresar el tamaño en radianes 
 
+Ecuación de Williamson-Hall 
+
+$$
+\begin{gather}
+D = \frac{k\lambda}{\beta \cos \theta} \\
+\epsilon = \frac{B}{4 \tan \theta}
+\end{gather}
+$$
