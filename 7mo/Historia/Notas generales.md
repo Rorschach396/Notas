@@ -172,4 +172,6 @@ Presentación de modelo de negocios que dan en Inglaterra
 	- Hacer las cosas con calidad no es innovación 
 	- Innovaciones incrementales: Consisten en la mejora de producto, servicio, proceso o una tecnología existente en las ideas de clientes o empleados. 
 	- Innovaciones disruptivas o radicales: Representan un cambio total de los productos, servicios, procesos o tecnologías existentes. 
+	- Es más fácil que si estás en un país innovador sea más fácil poder innovar con una empresa XD 
+	- Uno de los pedos es que no se suele divulgar el conocimiento, por lo que se termina estancando %pinche madre, entre más pendejos mejor XD% 
 	- 
