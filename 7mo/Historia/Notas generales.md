@@ -164,4 +164,7 @@ Presentación de Wuji Bifan
 # 09/10/2026
 Presentación de modelo de negocios que dan en Inglaterra 
 - ¿Qué es la innovación?
+	- Invenciones ==aceptadas por el mercado==
+	- Si no hay nadie dispuesto a pagar por esa madre, se va a olvidar de forma durísima 
+	- Herramienta principal de los emprendedores, esto significa que ellos ven el cambio como una oportunidad para diferentes negocios o servicios 
 	- 
