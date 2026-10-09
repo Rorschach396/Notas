@@ -174,4 +174,5 @@ Presentación de modelo de negocios que dan en Inglaterra
 	- Innovaciones disruptivas o radicales: Representan un cambio total de los productos, servicios, procesos o tecnologías existentes. 
 	- Es más fácil que si estás en un país innovador sea más fácil poder innovar con una empresa XD 
 	- Uno de los pedos es que no se suele divulgar el conocimiento, por lo que se termina estancando %pinche madre, entre más pendejos mejor XD% 
+	- Empresa innovadora: Inteligente en la organización, Flexible en la producción, Ágil en la comercialización 
 	- 
