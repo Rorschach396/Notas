@@ -173,6 +173,20 @@ Presentación de modelo de negocios que dan en Inglaterra
 	- Innovaciones incrementales: Consisten en la mejora de producto, servicio, proceso o una tecnología existente en las ideas de clientes o empleados. 
 	- Innovaciones disruptivas o radicales: Representan un cambio total de los productos, servicios, procesos o tecnologías existentes. 
 	- Es más fácil que si estás en un país innovador sea más fácil poder innovar con una empresa XD 
-	- Uno de los pedos es que no se suele divulgar el conocimiento, por lo que se termina estancando %pinche madre, entre más pendejos mejor XD% 
+	- Uno de los pedos es que no se suele divulgar el conocimiento, por lo que se termina estancando %%pinche madre, entre más pendejos mejor XD%%
 	- Empresa innovadora: Inteligente en la organización, Flexible en la producción, Ágil en la comercialización 
+	- %%Xd por que sacan más a los de negocios%% No piensan en el pan los extranjeros, están en cosas más sofisticadas 
+	- Localización estratégica 
+	- Siempre vas a tener competencia, en algunos casos global, en otros más local, pero siempre se va a tener competencia
+	- Pinches cosas geopolíticas 
+	- 9 Características de economía de conocimiento : 
+		- Aceleración de la producción, distribución y uso de conocimientos 
+		- La expansión del capital tangible 
+		- La innovación como actividad dominante 
+		- La revolución de los instrumentos del saber 
+		- Surgimiento de una economía basada en el conocimiento 
+		- El aprendizaje como medio de acumulación y difusión de conocimientos 
+		- Redes, alianzas y fusiones entre actores sociales 
+		- Organización empresarial flexible 
+		- Capital de riesgo y financiamiento a la innovación 
 	- 
