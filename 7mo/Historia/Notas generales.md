@@ -162,5 +162,5 @@ Presentación de Wuji Bifan
 - Comercialización de plataformas 
 
 # 09/10/2026
-
+Presentación de modelo de negocios que dan en Inglaterra 
 - 
