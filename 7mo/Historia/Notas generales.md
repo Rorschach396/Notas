@@ -170,4 +170,5 @@ Presentación de modelo de negocios que dan en Inglaterra
 	- Ni la creatividad ni la invención son innovación
 	- Ni la investigación y desarrollo no es innovación 
 	- Hacer las cosas con calidad no es innovación 
-	- 
+	- Innovaciones incrementales: Consisten en la mejora de producto, servicio, proceso o una tecnología existente en las ideas de clientes o empleados. 
+	- Innovaciones disruptivas o radicales: Representan un cambio total de los productos, servicios, procesos o tecnologías 
