@@ -189,4 +189,4 @@ Presentación de modelo de negocios que dan en Inglaterra
 		- Redes, alianzas y fusiones entre actores sociales 
 		- Organización empresarial flexible 
 		- Capital de riesgo y financiamiento a la innovación 
-	- 
+	- Pinches gringos racistas 
