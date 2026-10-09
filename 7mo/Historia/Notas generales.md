@@ -202,4 +202,10 @@ Presentación de modelo de negocios que dan en Inglaterra
 		- Efectos de retorno más claro 
 		- Mejoría incremental 
 		- Corto plazo 
-	- 
+	- Antes de tener una buena idea es necesario tener buenos insumos 
+		- Insumos: Investigación y desarrollo, prioridades nacionales o sectoriales, personal de la empresa, personas que forman parte de la red de conocimiento de la empresa. 
+		- Análisis, evaluación organismos de insumo 
+		- Incubadoras: Generación de ideas 
+		- Desarrollo e implementación 
+		- Pruebas de mercado 
+		- Pruebas finales: Comercialización y Aprender del mercado 
