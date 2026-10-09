@@ -109,3 +109,9 @@ $$
 B \cos \theta = \frac{k\lambda}{d} + 4\epsilon sen\theta
 $$
 
+
+$$
+\begin{gather}
+B \cos \theta = \frac{k\lambda}{d} +4 
+\end{gather}
+$$
