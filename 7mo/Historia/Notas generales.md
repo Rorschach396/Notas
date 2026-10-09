@@ -167,4 +167,7 @@ Presentación de modelo de negocios que dan en Inglaterra
 	- Invenciones ==aceptadas por el mercado==
 	- Si no hay nadie dispuesto a pagar por esa madre, se va a olvidar de forma durísima 
 	- Herramienta principal de los emprendedores, esto significa que ellos ven el cambio como una oportunidad para diferentes negocios o servicios 
+	- Ni la creatividad ni la invención son innovación
+	- Ni la investigación y desarrollo no es innovación 
+	- Hacer las cosas con calidad no es innovación 
 	- 
