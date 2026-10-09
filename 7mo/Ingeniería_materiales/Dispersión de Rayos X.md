@@ -104,4 +104,8 @@ D = \frac{k\lambda}{\beta \cos \theta} \\
 \epsilon = \frac{B}{4 \tan \theta}
 \end{gather}
 $$
-En ambos casos 
+En ambos casos se multiplica por coseno y queda 
+$$
+B \cos \theta = \frac{k\lambda}{d} + 4\epsilon sen\theta
+$$
+
