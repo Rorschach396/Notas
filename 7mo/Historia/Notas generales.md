@@ -190,4 +190,16 @@ Presentación de modelo de negocios que dan en Inglaterra
 		- Organización empresarial flexible 
 		- Capital de riesgo y financiamiento a la innovación 
 	- Pinches gringos racistas 
+	- Exploración: Nueva tecnología
+		- Genera nuevo conocimiento
+		- Permite llegar primero 
+		- Más incertidumbre 
+		- Discontinuidad tecnológica 
+		- Largo plazo 
+	- Explotación: Vieja tecnología 
+		- Usa lo aprendido y lo mejora 
+		- Permite mejorar eficiencia 
+		- Efectos de retorno más claro 
+		- Mejoría incremental 
+		- Corto plazo 
 	- 
