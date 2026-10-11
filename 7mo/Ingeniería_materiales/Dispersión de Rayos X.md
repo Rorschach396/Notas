@@ -130,4 +130,4 @@ En este ejercicio se analizó un difractograma de una muestra de $SrTiO_{3}$ que
 En el primer análisis se puede considerar que se tienen los datos presentes en la tabla \ref{tab:Datos_iniciales};a partir de estos datos se puede realizar el cálculo de la corrección instrumental ($\beta$) haciendo uso de la ecuación \ref{eq:correccion_inst}, a partir de esta ecuación se pudo encontrar los datos presentes en la tabla \ref{tab:Datos_correg}; cuando se tuvo la corrección del ancho, se decidió utilizar la ecuación \ref{eq:Scherrer} para poder obtener el tamaño de grano; gracias a esta información se logró determinar que el tamaño de cristal promedio es de 8.67315177633129 nm. 
 
 
-Para realizar el segundo método se tiene que considerar que 
+Para realizar el segundo método se tiene que considerar la ecuación \ref{eq:W-H}, donde a partir del análisis propuesto en 
