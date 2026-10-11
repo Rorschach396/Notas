@@ -118,4 +118,4 @@ $$
 
 En el primer ejercicio se tuvieron los siguientes valores iniciales: 
 
-Con estos datos se pudo identificar que se tiene que 
+Con estos datos se pudo identificar que se tiene que utilizar la ley de Bragg para poder encontrar el tamaño del cristal presente, para esto se utilizó la ecuación 
