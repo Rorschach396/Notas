@@ -117,3 +117,5 @@ B \cos \theta = \frac{k\lambda}{d} +4
 $$
 
 En el primer ejercicio se tuvieron los siguientes valores iniciales: 
+
+Con estos datos se pudo identificar que se tiene que 
