@@ -211,3 +211,7 @@ Presentación de modelo de negocios que dan en Inglaterra
 		- Pruebas finales: Comercialización y Aprender del mercado 
 	- Juntar lo técnicamente posible con lo socialmente deseable para poder obtener la innovación 
 	- Como organizar la información para poder descartar lo que no se necesita
+
+# 12/10/2026
+Presentación del DRK
+- 
