@@ -124,4 +124,8 @@ En el caso de los picos presentes en un difractograma de rayos X, estos se puede
 
 Principales aplicaciones del DRX 
 - Identificación de fases cristalinas 
+- Tamaño de cristal y tensiones de red 
+- Cuantificación de información estructural 
+- Alguna chingadera que medio borro de fases 
+- Determinación de diagramas de fases 
 - 
