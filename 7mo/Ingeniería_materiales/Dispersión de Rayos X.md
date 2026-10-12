@@ -122,3 +122,6 @@ En el caso de los picos presentes en un difractograma de rayos X, estos se puede
 - Microdeformación no uniforme: Distribución de tensiones, variaciones locales en las distancias interplanares. 
 	- Presenta un ensanchamiento del pico. 
 
+Principales aplicaciones del DRX 
+- Identificación de fases cristalinas 
+- 
