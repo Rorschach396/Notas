@@ -216,3 +216,4 @@ Presentación de modelo de negocios que dan en Inglaterra
 Presentación del DRK
 - Emancipación:  Darte cuenta de que eres para poder hacer algo que tu quieres ser 
 - Liberación: No sabes en que te vas a convertir, aun no sabes que vas a hacer después, te tienes que autoconstruir 
+- 
