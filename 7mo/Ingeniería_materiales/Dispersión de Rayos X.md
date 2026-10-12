@@ -128,4 +128,4 @@ Principales aplicaciones del DRX
 - Cuantificación de información estructural 
 - Alguna chingadera que medio borro de fases 
 - Determinación de diagramas de fases 
-- 
+
