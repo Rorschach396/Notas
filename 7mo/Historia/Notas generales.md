@@ -214,5 +214,5 @@ Presentación de modelo de negocios que dan en Inglaterra
 
 # 12/10/2026
 Presentación del DRK
-- Emancipación 
+- Emancipación:  
 - Liberación 
