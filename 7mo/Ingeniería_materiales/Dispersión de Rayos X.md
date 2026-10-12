@@ -114,4 +114,11 @@ Para sacar la proporción que hay de cada fase basta con realizar la integral de
 $$
 \% \text{Fase}_{i} = \frac{A_{i}}{\sum A_{i}} \times 100
 $$
+En el caso de los picos presentes en un difractograma de rayos X, estos se pueden modificar debido a lo siguiente: 
+
+- Microdeformación uniforme: Tensión o compresión isotrópica
+	- Tensión: el pico se desplaza a la izquierda 
+	- Compresión: El pico se desplaza a la derecha 
+- Microdeformación no uniforme: Distribución de tensiones, variaciones locales en las distancias interplanares. 
+	- Presenta un ensanchamiento del pico. 
 
