@@ -47,3 +47,11 @@ Modelos in vitro complejos: Son modelos que integra un entorno multicelular y un
 - Modelos de barreros epiteliales (piel, pulmones, intestinal)
 - Andamios 
 
+Las principales cosas que determinan como interacciona una partícula con el cuerpo son: 
+- Carga 
+- Forma 
+- Tamaño 
+- Química superficial 
+- Composición química 
+- Funcionalización 
+	- 
