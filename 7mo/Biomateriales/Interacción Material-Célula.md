@@ -54,4 +54,5 @@ Las principales cosas que determinan como interacciona una partícula con el cue
 - Química superficial 
 - Composición química 
 - Funcionalización 
-	- 
+
+Si en algún momento se trata de hacer un biomaterial 
