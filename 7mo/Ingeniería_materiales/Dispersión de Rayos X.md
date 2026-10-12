@@ -109,25 +109,9 @@ $$
 B \cos \theta = \frac{k\lambda}{d} + 4\epsilon sen\theta
 $$
 
+Para sacar la proporción que hay de cada fase basta con realizar la integral de cada pico (se tiene que dividir entre los picos más grandes y los picos más bajos) se realiza la sumatoria de los picos más grandes y los picos más pequeños para después dividirlo entre la suma total y multiplicarlo por 100% 
 
 $$
-\begin{gather}
-B \cos \theta = \frac{k\lambda}{d} +4 
-\end{gather}
+\% \text{Fase}_{i} = \frac{A_{i}}{\sum A_{i}} \times 100
 $$
 
-En el primer ejercicio se tuvieron los siguientes valores iniciales: 
-
-Con estos datos se pudo identificar que se tiene que utilizar la ley de Bragg para poder encontrar el tamaño del cristal presente, para esto se utilizó la ecuación 
-
-Tarea W-H 
-
-
-Planteamiento del problema: 
-
-En este ejercicio se analizó un difractograma de una muestra de $SrTiO_{3}$ que fue sintetizada a través de una reacción de sol-gel. Para este caso se pueden utilizar dos métodos diferentes, el primero implica el uso de la ecuación presente en \ref{eq:Scherrer} y el segundo implica el uso de la ecuación \ref{eq:W-H}; se van a utilizar ambos métodos para poder encontrar encontrar el tamaño del cristal. 
-
-En el primer análisis se puede considerar que se tienen los datos presentes en la tabla \ref{tab:Datos_iniciales};a partir de estos datos se puede realizar el cálculo de la corrección instrumental ($\beta$) y el cálculo del tamaño de cristal con la ecuación \ref{eq:Scherrer} haciendo uso de la ecuación \ref{eq:correccion_inst} y \ref{eq:correccion_inst} , a partir de los resultados obtenidos con estas ecuaciones se pueden obtener los datos presentes en la tabla \ref{tab:Datos_Scherrer}; cuando se tuvo la corrección del ancho, se decidió utilizar la ecuación \ref{eq:Scherrer} para poder obtener el tamaño de grano; gracias a esta información se logró determinar que el tamaño de cristal promedio es de 8.67315177633129 nm. 
-
-
-Para realizar el segundo método se tiene que considerar la ecuación \ref{eq:W-H}, donde a partir del análisis propuesto en la tabla \ref{tab:Datos_Scherrer} se puede calcular X y Y para realizar una regresión lineal haciendo uso de las formulas \label{eq:X} y \label{eq:Y}. Los datos considerados para la regresión lineal se encuentran en la tabla \ref{tab:X_Y}. La gráfica resultante de se encuentra en la figura \ref{fig:regrecion}, esta presentó la ecuación presente en \ref{eq:Regresion}, lo que nos permite realizar el procedimiento para encontrar la deformación que se presenta en \ref{eq:epsilon} y el tamaño de cristal presente en \ref{eq:D}. La deformación que se obtuvo con el método de Williamson-Hall es de 0.00412454 y el tamaño de cristal fue de 15.58121947 nm. 
