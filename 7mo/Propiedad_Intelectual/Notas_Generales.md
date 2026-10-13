@@ -24,7 +24,7 @@
 - Hay dos exámenes para las patentes: 
 	- Examen de forma 
 		- Solo pueden formular dos requerimientos 
-		- el primero debe emitirse dentro de los res meses posteriores a la presentación de la solicitud y de no formularse dentro de dicho plaso, 
+		- el primero debe emitirse dentro de los tres meses posteriores a la presentación de la solicitud y de no formularse dentro de dicho plaso, 
 		- Sirve para poder iniciar el proceso y que se cheque que todo esté en regla, si no está en regla se le notificará al que esté aplicando para poder colocar todo en regla, si no lo hace entonces vale verga todo 
 		- Solo se hace dos veces 
 		- Si pasan más de 3 meses sin respuesta entonces se considera como rechazada 
