@@ -16,3 +16,4 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- No permite ver cosas muy pequeñas (nanómetros)
 	- Requiere preparación metalográfica 
 	- Da información cualitativa 
+- 
