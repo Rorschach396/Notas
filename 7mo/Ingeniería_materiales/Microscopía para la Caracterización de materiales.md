@@ -16,4 +16,6 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- No permite ver cosas muy pequeñas (nanómetros)
 	- Requiere preparación metalográfica 
 	- Da información cualitativa 
+- Spot más pequeño mayor resolución 
+- Baja convergencia punto grande, alta convergencia punto pequeño 
 - 
