@@ -68,4 +68,18 @@ Los principales componentes de la respuesta inmunitaria innata son:
 
 # Sistema de complemento
 
+- Existen 3 vías principales por las que se activa el sistema de complemento: 
+	- Via clásica: Se activa mediante complejos antigeno-anticuerpo.
+	- Via de lectinas: Se inicia por el reconocimiento de PRR o PAMPs. 
+	- Via alternativa: Puede activarse de forma continua a niveles bajos (mecanismos de vigilancia) se activa de forma random. 
+- Todas las proteínas del sistema de complemento convergen con las proteínas C3 y C5 
+- Opsonización: Proceso que consiste en marcar el sustrato diana con moléculas específicas del complemento (opsoninas), lo que facilita su captación y eliminación por parte de las células fagocíticas 
+	- Opsoninas: 
+		- C3b y sus productos de degradación iC3b y C3dg 
+		- C1q 
+		- C4b 
+	- Neutrófilos, macrófagos y microglía, linfocitos T y B poseen receptores del complemento (CR). CR1, CR2, CR3  y CR4 
+	- Los CR reconocen las opsoninas
+	- Esta interacción potencia la capacidad de los fagocitos para unirse al material 
+	- Células apoptóticas 
 - 
