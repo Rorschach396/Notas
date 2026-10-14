@@ -65,3 +65,7 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Macromoléculas liberadas al medio extracelular o expuestas en la superficie de las células dañadas/muertas 
 	- ATP, ADN y ARN liberados tras el daño o estrés celular componentes de la matriz extracelular expuestos durante la lesión tisular. 
 - Receptores de reconocimiento de patrones (PRR): Cada PRR reconoce un DAMP o un PAMP común en muchas células dañadas o patógenos distintivos. 
+
+# Sistema de complemento
+
+- 
