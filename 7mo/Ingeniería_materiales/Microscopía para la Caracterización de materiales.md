@@ -4,4 +4,15 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- Resolución: Capacidad de ver dos puntos cercanos como entidades separadas, mayor resolución, mayor detalle observable 
 	- Aumento: Capacidad para ampliar la imagen de un objeto respecto a su tamaño real 
 		- Aumento objetivo + aumento ocular  = aumento total
-- 
+- Ventajas 
+	- Bajo costo 
+	- Preparación "rápida"
+	- Ver la microestructura real 
+	- Identifica fases, tamaño de grano 
+	- Distintos modos de iluminación 
+	- Herramienta fundamental 
+- Limitaciones 
+	- Resolución limitada 
+	- No permite ver cosas muy pequeñas (nanómetros)
+	- Requiere preparación metalográfica 
+	- Da información cualitativa 
