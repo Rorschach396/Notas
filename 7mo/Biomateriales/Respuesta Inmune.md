@@ -94,3 +94,8 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Promueve la desgranulación, la formación de trampas extracelulares de neutrófilos y la activación moléculas de adhesión y provoca la producción de citocinas y quimiocinas, lo que a su vez fomenta la inflamación 
 	- Efectos antiinflamatorios, dependiendo del tipo celular y del contexto 
 - La liberación de las proteínas anafilatosinas $\rightarrow$ pseudoalergia relacionada con la activación del complemento
+- Complejo de ataque a la membrana (MAC): 
+	- Se forma tras la generación del fragmento C5b 
+	- Este fragmento se une a C6, C7, C8 y a múltiples moléculas de C9 para construir un canal transmembrana 
+	- Este poro del MAC altera la membrana celular del patógeno, lo que provoca la lisis celular y, en última instancia, la destrucción de la célula 
+	- 
