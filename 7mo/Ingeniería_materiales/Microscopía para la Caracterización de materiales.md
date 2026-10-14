@@ -18,4 +18,4 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- Da información cualitativa 
 - Spot más pequeño mayor resolución 
 - Baja convergencia punto grande, alta convergencia punto pequeño 
-- 
+- Electrones retrodispersados permiten ver contrastes, características topográficas, físicas y químicas de la muestra. 
