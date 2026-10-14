@@ -82,4 +82,15 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Los CR reconocen las opsoninas
 	- Esta interacción potencia la capacidad de los fagocitos para unirse al material 
 	- Células apoptóticas 
-- 
+- C3a y C5a: Péptidos del complemento (75 aminoácidos)
+- C3a: 
+	- Respuestas inflamatorias alérgicas 
+	- Estimulan la migración de eosinófilos 
+	- Reparación y regeneración tisular 
+	- Potencia la activación y proliferación de los linfocitos B y su interacción con los linfocitos T (producción de anticuerpos)
+- C5a: 
+	- Péptidos proinflamatorios más potente del sistema del complemento 
+	- Potente quimioatrayente que dirige a células inmunitarias hacia los sitios de infección o inflamación 
+	- Promueve la desgranulación, la formación de trampas extracelulares de neutrófilos y la activación moléculas de adhesión y provoca la producción de citocinas y quimiocinas, lo que a su vez fomenta la inflamación 
+	- Efectos antiinflamatorios, dependiendo del tipo celular y del contexto 
+- La liberación de las proteínas anafilatosinas $\rightarrow$ pseudoalergia relacionada con la activación del complemento
