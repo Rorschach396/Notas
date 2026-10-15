@@ -1,0 +1,1 @@
+Una aleación de aluminio al 4% con cobre se solubiliza a $T_{q}$ = 540°C (813K) y se templa rapidamente en agua a temperatura ambiente 
