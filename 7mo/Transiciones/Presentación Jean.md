@@ -9,4 +9,5 @@ Difusión
 	- Por medio de temperatura se empiezan a romper lentamente los enlaces entre los átomos de silicio y oxígeno, esto requiere una gran cantidad de energía 
 	- Esta transformación es extremadamente lenta. 
 	- En cuanto empieza a cambiar se queda estático en una determinada fase y debido a esto se pueden tener todas las estructuras del óxido de silicio a temperatura ambiente 
-	- 
+- Sinterización en cerámicos: Se suministra energía térmica a la pieza en sólido, esto genera que los átomos migren por vacancias hacia puntos de contacto con partículas cercanas, la migración forma puentes o cuellos de unión que unen las partículas 
+- 
