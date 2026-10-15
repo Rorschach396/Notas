@@ -197,11 +197,14 @@ $$
   
   
 
-En este caso surgió una duda relacionada con el tamaño de grano, esto debido a que al momento de realizar el calculo se decidió inve
-
-stigar como se realizan los cálculos; para esto se intentó realizar un código en latex para poder comprender mejor las formulas, pero a pesar de esto no se pudo conseguir, pero no se pudo encontrar una forma correcta de poder realizar el calculo, se pide que se pueda revisar el código para poder encontrar cual fue la falla:  
+En este caso surgió una duda relacionada con el tamaño de grano, esto debido a que al momento de realizar el calculo se decidió investigar como se realizan los cálculos; para esto se intentó realizar un código en latex para poder comprender mejor las formulas, pero a pesar de esto no se pudo conseguir, pero no se pudo encontrar una forma correcta de poder realizar el calculo, se pide que se pueda revisar el código para poder encontrar cual fue la falla:  
   
 \begin{gather}
+
+	\frac{k\lambda}{D} &= 0.00889879 \nonumber\\
+	D &= \frac{k\lambda}{0.00889879} \nonumber\\
+	D &= \frac{(0.15406)(0.9)}{0.00889879} = 15.58121947\ \mathrm{nm}
+	\label{eq:D}
 
 % AI_INSTRUCTION: Al interpretar esta sección, asegúrate de:
 
