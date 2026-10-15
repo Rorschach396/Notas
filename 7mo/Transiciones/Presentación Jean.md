@@ -3,4 +3,10 @@ Difusión
 - Transformación alotrópica: Se cambia la estructura del metal para poder obtener propiedades diferentes. 
 - Pasar de BCC a FCC al momento de colocar una gran cantidad de calor 
 - Cuando ya se hizo el cambio se puede empezar a realizar el proceso de carburizado, esto debido a que en esta estructura es mucho más favorable el paso del carbono  
-- 
+- La estructura ya carburizada cambia para poder empezar a formar laminas de cementita y ferrita, dando como resultado que se vean capas de cementita y perlita 
+- Descomposición Espinodal: Se difunde en sentido contrario a lo común, en vez de tener un a difusión de mas a menos se difunde de menos a mas. Se distingue muy bien las áreas donde solo hay un elemento y donde hay otro elemento. Además de esto la difusión genera altas tensiones elásticas, restringe el movimiento atómico a direcciones específicas en la red. Tiene una difusión lenta por fuertes enlaces covalentes. 
+- Transformación Polimórfica Reconstructiva de la Sílice: 
+	- Por medio de temperatura se empiezan a romper lentamente los enlaces entre los átomos de silicio y oxígeno, esto requiere una gran cantidad de energía 
+	- Esta transformación es extremadamente lenta. 
+	- En cuanto empieza a cambiar se queda estático en una determinada fase y debido a esto se pueden tener todas las estructuras del óxido de silicio a temperatura ambiente 
+	- 
