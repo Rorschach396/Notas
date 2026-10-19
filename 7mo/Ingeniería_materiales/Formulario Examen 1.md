@@ -30,6 +30,9 @@ $$
 r = \frac{S_{xy}}{S_{x}S_{y}} \rightarrow \text{Coeficiente de Pearson} \\
 S_{xy} = \frac{\sum(x-\bar{x})(y-\bar{y})}{N} \\
 S_{x} = \sqrt{ \frac{\sum(x-\bar{x})^{2}}{N}} \\
-S_{y} = \sqrt{ \frac{\sum(y-\bar{y})^{2}}{N}}
+S_{y} = \sqrt{ \frac{\sum(y-\bar{y})^{2}}{N}} \\
+y^* = a +bx \\
+b = \frac{S_{xy}}{S_{x}^{2}} \quad a = \bar{y} - b \bar{x} \\
+\text{Considerando Y dependiente y X independiente}
 \end{gather}
 $$
