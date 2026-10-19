@@ -1,4 +1,5 @@
 - El carbono es susceptible a la absorción de substancias químicas 
 - SPION son de las pocas nanopartículas utilizadas para el sector de salud 
 - Es muy complicado hacer un blanco para caracterizar un material 
-- Es fetal por que 
+- Es fetal por que es la forma más simple de sistema inmunológico, por lo que es una estandarización 
+- 
