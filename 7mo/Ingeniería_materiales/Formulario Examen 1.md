@@ -13,7 +13,9 @@ a = d\sqrt{ h^{2} + k^{2}+l^{2} } \\
 V = a^{3} \\
 \text{Secci\'on tres, Tama\~no de cristalita Scherrer:}  \\
 \beta = \sqrt{ \beta_{med}^{2} - \beta_{inst}^{2} } \\
-\beta(rad) = \beta(^\circ) \times \frac{\pi}{180}
+\beta(rad) = \beta(^\circ) \times \frac{\pi}{180} \\
+D = \frac{k\lambda}{\beta \cos \theta} \\
+\text{}
 
 \end{gather}
 $$
