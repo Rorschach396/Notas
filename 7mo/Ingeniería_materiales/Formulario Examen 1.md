@@ -15,7 +15,11 @@ V = a^{3} \\
 \beta = \sqrt{ \beta_{med}^{2} - \beta_{inst}^{2} } \\
 \beta(rad) = \beta(^\circ) \times \frac{\pi}{180} \\
 D = \frac{k\lambda}{\beta \cos \theta} \\
-\text{}
+\text{Secci\'on cuatro, an\'alisis Williamson-Hall:} \\
+\beta \cos \theta = \frac{k\lambda}{D} + 4 \varepsilon \sin \theta \\
+x = 4\sin \theta \quad y = \beta \cos \theta \\
+y = \varepsilon x + \frac{k\lambda}{D} \\
+\varepsilon = \text{pendiente} \quad D = \frac{k\lambda}{\text{intersecci\'on}}
 
 \end{gather}
 $$
