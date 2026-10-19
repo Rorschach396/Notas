@@ -36,11 +36,3 @@ b = \frac{S_{xy}}{S_{x}^{2}} \quad a = \bar{y} - b \bar{x} \\
 \text{Considerando Y dependiente y X independiente}
 \end{gather}
 $$
-
-
-Chingadera yamil 
-
-$$
-D = \frac{k\lambda}{\beta \cos \theta - 4\varepsilon \sin \theta}
-$$
-
