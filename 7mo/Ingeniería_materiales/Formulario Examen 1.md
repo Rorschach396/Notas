@@ -23,3 +23,13 @@ y = \varepsilon x + \frac{k\lambda}{D} \\
 
 \end{gather}
 $$
+# Regresión Lineal 
+
+$$
+\begin{gather}
+r = \frac{S_{xy}}{S_{x}S_{y}} \rightarrow \text{Coeficiente de Pearson} \\
+S_{xy} = \frac{\sum(x-\bar{x})(y-\bar{y})}{N} \\
+S_{x} = \sqrt{ \frac{\sum(x-\bar{x})^{2}}{N}} \\
+S_{y} = \sqrt{ \frac{\sum(y-\bar{y})^{2}}{N}}
+\end{gather}
+$$
