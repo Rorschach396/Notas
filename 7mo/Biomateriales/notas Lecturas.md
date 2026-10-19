@@ -1,2 +1,3 @@
 - El carbono es susceptible a la absorción de substancias químicas 
+- SPION son de las pocas nanopartíoculas utilizadas para el sector de salud 
 - 
