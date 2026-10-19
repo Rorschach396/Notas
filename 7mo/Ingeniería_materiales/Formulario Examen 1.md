@@ -8,7 +8,10 @@ _{1}} \\
 N = h^{2} + k^{2}+l^{2} \\
 \text{Segunda secci\'on, distancia interplanar, par\'ametro de red y volumen de celda:} \\
 n\lambda = 2d\sin \theta \rightarrow d = \frac{\lambda}{2\sin \theta}, \text{con n=1} \\
-\frac{1}{d^{2}} = \frac{h^{2} + k^{2}+l^{2}}{}
+\frac{1}{d^{2}} = \frac{h^{2} + k^{2}+l^{2}}{a^{2}} \\
+a = d\sqrt{ h^{2} + k^{2}+l^{2} } \\
+V = a^{3} \\
+
 
 \end{gather}
 $$
