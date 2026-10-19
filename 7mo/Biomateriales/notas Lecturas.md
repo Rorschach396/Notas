@@ -1,0 +1,2 @@
+- El carbono es susceptible a la absorción de substancias químicas 
+- 
