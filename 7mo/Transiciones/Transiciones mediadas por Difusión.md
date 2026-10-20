@@ -7,9 +7,9 @@ La descomposición espinodal ocurre espontáneamente sin barrera de nucleación.
 - Se da por pequeñas fluctuaciones en las concentraciones presentes, lo que da el crecimiento 
 
 
-| Sistema/material              | Componentes Clave                | Comportamiento en la descomposición                                                   |
-| ----------------------------- | -------------------------------- | ------------------------------------------------------------------------------------- |
-| Vidrios de borosilicato       | Óxido de silicio y óxido de boro | Al enfriarse, se dividen uniformemente en una fase rica en boro y otra rica en sílice |
-| Aleaciones metálicas Binarias | hierro- cromo o Manganeso- cobre |                                                                                       |
-|                               |                                  |                                                                                       |
-|                               |                                  |                                                                                       |
+| Sistema/material                | Componentes Clave                  | Comportamiento en la descomposición                                                                                                            |
+| ------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vidrios de borosilicato         | Óxido de silicio y óxido de boro   | Al enfriarse, se dividen uniformemente en una fase rica en boro y otra rica en sílice                                                          |
+| Aleaciones metálicas Binarias   | hierro- cromo o Manganeso- cobre   | El sistema se separa de forma natural en islas ricas en un metal dentro de una matriz rica en el otro, alterando sus propiedades estructurales |
+| Aleaciones con memoria de forma | Cobre-Aluminio-Manganeso           | El envejecido térmico induce precipitados que alteran y controlan de forma directa la transfomración martensítica del metal                    |
+| Soluciones Poliméricas          | Mezclas de polímeros incorpatibles | Experimentan una separación rápida                                                                                                             |
