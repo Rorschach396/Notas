@@ -45,3 +45,7 @@ $$
 $$
 Con $E' = \frac{E}{1-v}$ donde v es la razón de Poisson y Vm es el volumen molar 
 
+$$
+-\frac{d{^2}}{dX{^2}} > \frac{2K}{\lambda{^2}}+2\eta{^2}E'V_{m}
+$$
+
