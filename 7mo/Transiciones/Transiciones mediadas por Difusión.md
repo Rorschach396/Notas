@@ -14,3 +14,5 @@ La descomposición espinodal ocurre espontáneamente sin barrera de nucleación.
 | Aleaciones con memoria de forma | Cobre-Aluminio-Manganeso           | El envejecido térmico induce precipitados que alteran y controlan de forma directa la transfomración martensítica del metal                    |
 | Soluciones Poliméricas          | Mezclas de polímeros incorpatibles | Experimentan una separación rápida debido a fluctuaciones infinitesimales de densidad y composición química                                    |
 
+# Condición Termodinámica para la descomposición espinoidal 
+
