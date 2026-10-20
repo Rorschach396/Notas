@@ -194,4 +194,5 @@ Segundo lugar en el kahoot
 	- Derecho a divulgar: tiene el derecho a mantenerla privada o hacerla publica por primera vez. 
 	- Puede elegir de que forma puede divulgarla o mantenerla inédita 
 	- Derecho al reconocimiento del creador intelectual sobre su obra
+	- Derecho de poder modificar, retractar o incluso retirar del mercado tu obra si ya no te complace 
 	- 
