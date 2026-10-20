@@ -16,3 +16,10 @@ La descomposición espinodal ocurre espontáneamente sin barrera de nucleación.
 
 # Condición Termodinámica para la descomposición espinoidal 
 
+La condición fundamental es: 
+
+$$
+\frac{d^{2}G}{dX^{2}} <0
+$$
+
+Esto define que la región entre dos puntos de la inflexión de la curva G(x) 
