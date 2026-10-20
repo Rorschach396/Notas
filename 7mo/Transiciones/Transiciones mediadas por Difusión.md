@@ -49,3 +49,4 @@ $$
 -\frac{d{^2}}{dX{^2}} > \frac{2K}{\lambda{^2}}+2\eta{^2}E'V_{m}
 $$
 
+Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es 
