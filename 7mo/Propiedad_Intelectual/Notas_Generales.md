@@ -197,4 +197,5 @@ Segundo lugar en el kahoot
 	- Derecho de poder modificar, retractar o incluso retirar del mercado tu obra si ya no te complace 
 		- Las que ya salieron no las puedes retirar, puedes evitar que se hagan más reimpresiones 
 	- Derecho a deslindarte de una obra para evitar que te perjudique
+	- Derecho a que se mantenga la escancia de la obra, dando como resultado que se pueda evitar el uso de una obra que pueda modificar la forma en la que el autor no la apruebe
 	- 
