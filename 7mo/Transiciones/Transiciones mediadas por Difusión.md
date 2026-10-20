@@ -29,3 +29,9 @@ $$
 \tau = -\frac{\lambda{^2}}{2\pi{^2}D}
 $$
 
+Energía libre química de la fluctuación de composición 
+
+Expresión matemática: 
+$$
+\Delta G_{c} = \frac{1}{2} \frac{d{^{2}}G}{dX{^2}}(\Delta X){^2}
+$$
