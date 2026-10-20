@@ -24,3 +24,8 @@ $$
 
 Esto define que la región entre dos puntos de la inflexión de la curva G(x). 
 Las fluctuaciones en el gradiente de concentración generan un cambio 
+
+$$
+\tau = -\frac{\lambda{^2}}{2\pi{^2}D}
+$$
+
