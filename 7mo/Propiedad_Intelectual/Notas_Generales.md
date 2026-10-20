@@ -195,4 +195,5 @@ Segundo lugar en el kahoot
 	- Puede elegir de que forma puede divulgarla o mantenerla inédita 
 	- Derecho al reconocimiento del creador intelectual sobre su obra
 	- Derecho de poder modificar, retractar o incluso retirar del mercado tu obra si ya no te complace 
-	- 
+		- Las que ya salieron no las puedes retirar, puedes evitar que se hagan más reimpresiones 
+		- 
