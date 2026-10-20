@@ -35,3 +35,13 @@ Expresión matemática:
 $$
 \Delta G_{c} = \frac{1}{2} \frac{d{^{2}}G}{dX{^2}}(\Delta X){^2}
 $$
+Si los átomos A y B tienen tamaños diferentes, las diferencias de composición generan defromaciones de coherencia. La energía de deformación elastica es la siguiente: 
+$$
+\Delta G_{s} = \eta{^2}(\Delta X){^2}E'V_{m}
+$$
+Donde el parámetro de desajuste reticular es: 
+$$
+\eta = \frac{1}{a} \left( \frac{da}{dX} \right)
+$$
+Con $E' = \frac{E}{1-v}$ donde v es la razón de Poisson y Vm es el volumen molar 
+
