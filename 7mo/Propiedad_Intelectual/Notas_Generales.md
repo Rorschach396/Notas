@@ -186,6 +186,12 @@ Segundo lugar en el kahoot
 	- Normalmente lo saca el gobiernos para que el gobierno lo cuide 
 	- Debes de cumplir con determinadas características para que puedas hacer uso de 
 
-| Denominación de origen | Indicación de geográfica |
-| ---------------------- | ------------------------ |
-|                        |                          |
+
+# 20/10/2026
+
+- Derechos morales: Parten de la personalidad misma de los sujetos de derechos y obligaciones, como atributo a su persona, por el simple hecho de serla y tienen el carácter de invaluables, inalienables, imprescriptibles, intransferibles en vida 
+- El autor es el único primigenio dueño de la obra 
+	- Derecho a divulgar: tiene el derecho a mantenerla privada o hacerla publica por primera vez. 
+	- Puede elegir de que forma puede divulgarla o mantenerla inédita 
+	- Derecho al reconocimiento del creador intelectual sobre su obra
+	- 
