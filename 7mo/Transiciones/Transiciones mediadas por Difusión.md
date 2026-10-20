@@ -6,3 +6,10 @@ La descomposición espinodal ocurre espontáneamente sin barrera de nucleación.
 - Relevancia práctica: Formación de microestructuras moduladas en aleaciones de alta resistencia 
 - Se da por pequeñas fluctuaciones en las concentraciones presentes, lo que da el crecimiento 
 
+
+| Sistema/material              | Componentes Clave                | Comportamiento en la descomposición                                                   |
+| ----------------------------- | -------------------------------- | ------------------------------------------------------------------------------------- |
+| Vidrios de borosilicato       | Óxido de silicio y óxido de boro | Al enfriarse, se dividen uniformemente en una fase rica en boro y otra rica en sílice |
+| Aleaciones metálicas Binarias | hierro- cromo o Manganeso- cobre |                                                                                       |
+|                               |                                  |                                                                                       |
+|                               |                                  |                                                                                       |
