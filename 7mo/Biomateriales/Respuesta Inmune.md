@@ -137,4 +137,7 @@ Inmunidad adaptativa es dependiente y específica de un antígeno. Requiere de u
 
 Receptores de antígenos: Receptores que reconocen estructuras moleculares únicas presentes en los patógenos (antígenos). 
 
-- 
+- Reconocimiento específico 
+- Respuesta retrasada: Las células proliferan y aumentan su población tras la interacción con el receptor 
+- Posee memoria: Algunas de estas células adquieren una larga vida, lo que incrementa la velocidad y la intensidad de la respuesta adaptativa ante exposición posterior al mismo patógeno. 
+
