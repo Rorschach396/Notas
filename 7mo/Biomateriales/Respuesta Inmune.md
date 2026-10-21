@@ -98,4 +98,3 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Se forma tras la generación del fragmento C5b 
 	- Este fragmento se une a C6, C7, C8 y a múltiples moléculas de C9 para construir un canal transmembrana 
 	- Este poro del MAC altera la membrana celular del patógeno, lo que provoca la lisis celular y, en última instancia, la destrucción de la célula 
-	- 
