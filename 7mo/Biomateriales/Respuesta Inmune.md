@@ -130,3 +130,4 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 	- Los NMs pueden tener aplicaciones 
 		- Acarreadores: Lleva la molécula que detecta el sistema inmune 
 		- Adyuvante: Aditivo que potencia la respuesta inmune para que se pueda generar memoria
+	- 
