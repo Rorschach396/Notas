@@ -44,4 +44,13 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- Electrones absorbidos: Parte de la energía del haz se depositan en la muestra (calor y excitaciones)
 	- Catodoluminiscencia (CL):  Emisión de luz por recombinación de electrones y huecos 
 	- Análisis químico (rayos X): Emisión de rayos X característicos del material (EDS/WDS)
-	- 
+![[Pasted image 20261021095520.png|311]]
+
+- Dispersión elástica: La trayectoria del electrón dentro de la muestra cambia, pero su energía cinética mantiene esencialmente constante 
+- Dispersión inelástica: La trayectoria del electrón incidente se perturba y parte de su energía se transfiere a la muestra, esto genera diferentes señales
+	- Excitación de fonones 
+	- Catodoluminiscencia 
+	- Radiación continua 
+	- Rayos X característicos 
+	- Electrones secundarios 
+	- Electrones Auger
