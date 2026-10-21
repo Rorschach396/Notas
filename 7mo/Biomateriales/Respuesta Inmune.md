@@ -113,4 +113,10 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 			- IgE: Un sitio en específico
 			- IgD: Un sitio pero con otras características 
 - Los liposomas pueden activar la vía de activación clásica, si una nanopartícula tiene un recubrimiento de carbohidratos, las nanopartículas sólidas pueden activar el sistema alternativo. Las nanopartículas poliméricas pueden activar todos los sistemas. 
-- 
+- Si se activa el sistema de complemento, esto puede activar respuestas inflamatorias, además de que no se llevaría la nanopartícula 
+- Se puede activar una producción de anticuerpos anti-PEG, esto está posiblemente relacionado con la corona de proteínas (cochinero)
+- Métodos para prevenir
+	- Inmovilización de factor I y factor H en liposomas o nanopartículas para evitar la fagocitosis
+		- Estos factores son reguladores negativos del complemento- degradación de C3b 
+	- Recubrir los materiales con proteínas endógenas, como la albúmina sérica humana, que no provoca la activación del complemento 
+	- PEGilación: En décadas pasadas, el PEG se utiliza para evitar el reconocimiento por parte del complemento, ahora se sabe que el PEG activa el sistema del complemento. Estos enfoques deben evaluarse 
