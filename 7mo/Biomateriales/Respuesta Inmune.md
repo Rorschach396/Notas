@@ -154,3 +154,10 @@ Para el estudio de la inmunidad adaptativa se ha dividido en 2:
 
 Las células dendríticas o vaso linfático transportan antígenos hacia los ganglios linfáticos, mediante la recreación de citocinas, las CD (células dendríticas) atraen a los linfocitos T "naive" (linfocitos que no han tenido contacto con el antígeno), se presenta ell antígeno y el linfocito T se activa y se genera algo llamado "expansión clonal" (se dividen y se generan muchos).
 
+Con los linfocitos B no se necesita una célula dendrítica que le presente los antígenos para poder activarse, estos tienen receptores BCR que reconoce proteínas completas e intactas. El linfocito B le puede presentar al linfocito T y viceversa. Pueden hacerce dos tipos de linfocitos B: 
+- Células productoras de anticuerpos de vida corta 
+- Se van a centros germinales y los linfocitos B experimentan un proceso llamado hipermutación somática: 
+	- Se exponen reiteradamente al antígeno para poder hacer un mejor receptor y así sean mucho mejores los linfocitos B y se generan así los linfocitos B de memoria 
+
+Los linfocitos T no generan anticuerpos, los linfocitos B si. 
+
