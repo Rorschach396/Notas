@@ -130,4 +130,9 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 	- Los NMs pueden tener aplicaciones 
 		- Acarreadores: Lleva la molécula que detecta el sistema inmune 
 		- Adyuvante: Aditivo que potencia la respuesta inmune para que se pueda generar memoria
-	- 
+
+# Respuesta Adaptativa 
+
+Inmunidad adaptativa es dependiente y específica de un antígeno. Requiere de un periodo de latencia entre la exposición al antígeno y la respuesta máxima. 
+
+Receptores de antíge
