@@ -192,3 +192,12 @@ Proteínas solubles presentes en el plasma sanguíneo
 
 Participan en la agregación plaquetaria durante una lesión, median la adhesión de plaquetas a los materiales, estas proteínas pueden unirse a receptores de la membrana celular de las plaquetas a traves de integrinas, esta unión induce la adhesión, activación y agregación plaquetaria y la formación de trombos. 
 
+Coagulación de plasma sanguíneo: 
+- La adhesión de proteínas -> activación de cascada de coagulación sanguínea -> formación de trombos 
+- La coagulación implica una serie de conversiones de zimógenos (enzimas inactivas) en enzimas
+- Vías intrínseca y extrínseca 
+	- Vía extrínseca: Control homeostático y de la respuesta ante una lesión 
+	- Vía intrínseca: Exposición de colágeno intravascular, activación plaquetaria
+		- Escasa relevancia fisiológica en condiciones normales 
+		- Se activa cuando la sangre entra en contacto con materiales artificiales -> hemocompatibilidad de los materiales 
+
