@@ -33,4 +33,8 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 	- Distancia de trabajo 
 	- Distancia de trabajo 
 	- Identificación de la muestra/archivo 
+- A menor distancia de trabajo presentas mayor resolución, pero se tiene una menor profundidad de campo 
+- Resolución: Es la distancia mínima a la que dos objetos pueden distinguirse y reconocerse como objetos individuales; en otras palabras es la distancia a la que ya puedes ver de forma completa dos partículas sin que se vean mal. 
+- Dependiendo de la interacción que tenga la muestra se va a poder obtener una mejor resolución o si queda medio chato 
+- Mayor tamaño de punto: Menor resolución. Menor tamaño de punto mayor resolución 
 - 
