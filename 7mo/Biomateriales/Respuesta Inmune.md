@@ -98,3 +98,18 @@ Los principales componentes de la respuesta inmunitaria innata son:
 	- Se forma tras la generación del fragmento C5b 
 	- Este fragmento se une a C6, C7, C8 y a múltiples moléculas de C9 para construir un canal transmembrana 
 	- Este poro del MAC altera la membrana celular del patógeno, lo que provoca la lisis celular y, en última instancia, la destrucción de la célula 
+
+# Nanomateriales-Sistema del complemento 
+
+Pueden activar masivamente el sistema de complemento debido a que tienen tamaños similares al de los virus y tienen naturaleza ajena al organismo. 
+- Los NMs pueden inducir lo siguiente 
+	- Respuesta proinflamatorias, inflamación 
+	- Crisis anafiláctica de leves a graves 
+	- Pseudoalergia asociada a la activación del complemento (CARPA)-relación de hipersensibilidad aguda y no mediada por anticuerpos IgE
+		- Hay 5 tipos de Ig 
+			- IgM: Chingo de sitios para reaccionar
+			- IgG : Nomás un sitio 
+			- IgA: Un sitio
+			- IgE: Un sitio en específico
+			- IgD: Un sitio pero con otras características 
+	- 
