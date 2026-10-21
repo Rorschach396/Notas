@@ -112,4 +112,5 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 			- IgA: Un sitio
 			- IgE: Un sitio en específico
 			- IgD: Un sitio pero con otras características 
-	- 
+- Los liposomas pueden activar la vía de activación clásica, si una nanopartícula tiene un recubrimiento de carbohidratos, las nanopartículas sólidas pueden activar el sistema alternativo. Las nanopartículas poliméricas pueden activar todos los sistemas. 
+- 
