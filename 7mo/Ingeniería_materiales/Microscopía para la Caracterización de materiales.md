@@ -37,4 +37,11 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Resolución: Es la distancia mínima a la que dos objetos pueden distinguirse y reconocerse como objetos individuales; en otras palabras es la distancia a la que ya puedes ver de forma completa dos partículas sin que se vean mal. 
 - Dependiendo de la interacción que tenga la muestra se va a poder obtener una mejor resolución o si queda medio chato 
 - Mayor tamaño de punto: Menor resolución. Menor tamaño de punto mayor resolución 
-- 
+- Hay muchas interacciones entre los electrones y la materia: 
+	- Electrones retrodispersados: Provienen de colisiones elásticas con núcleos atómicos. Proporcionan contraste composicional 
+	- Electrones secundarios: Provienen de colisiones inelásticas con electrones de la muestra. Proporcionan contraste topográfico de la superficie 
+	- Electrones Transmitidos: Los electrones que atraviesan la muestra (normalmente utilizados en TEM), atraviesan toda la muestra 
+	- Electrones absorbidos: Parte de la energía del haz se depositan en la muestra (calor y excitaciones)
+	- Catodoluminiscencia (CL):  Emisión de luz por recombinación de electrones y huecos 
+	- Análisis químico (rayos X): Emisión de rayos X característicos del material (EDS/WDS)
+	- 
