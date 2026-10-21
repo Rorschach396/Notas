@@ -120,3 +120,13 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 		- Estos factores son reguladores negativos del complemento- degradación de C3b 
 	- Recubrir los materiales con proteínas endógenas, como la albúmina sérica humana, que no provoca la activación del complemento 
 	- PEGilación: En décadas pasadas, el PEG se utiliza para evitar el reconocimiento por parte del complemento, ahora se sabe que el PEG activa el sistema del complemento. Estos enfoques deben evaluarse 
+- Si se activa el sistema de complemento, se puede utilizar esto para el desarrollo de vacunas
+	- En el desarrollo de vacunas se desea que 
+		- Se active de forma controlada el sistema inmune 
+		- Se tenga respuesta lo suficientemente grande para generar memoria 
+	- Cuando se activa el sistema de complemento
+		- Se genera transporte a los ganglios linfáticos 
+		- Captación y presentación del antígeno 
+	- Los NMs pueden tener aplicaciones 
+		- Acarreadores: Lleva la molécula que detecta el sistema inmune 
+		- Adyuvante: Aditivo que potencia la respuesta inmune para que se pueda generar memoria
