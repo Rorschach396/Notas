@@ -161,3 +161,24 @@ Con los linfocitos B no se necesita una célula dendrítica que le presente los 
 
 Los linfocitos T no generan anticuerpos, los linfocitos B si. 
 
+Existen dos respuestas inmunes a biomateriales: 
+- Aguda: 
+	- Minutos-horas después de la implantación 
+	- Remite en unos pocos días 
+	- Principalmente mecanismos de inespecíficos 
+	- Atracción de células inmunitarias 
+- Crónica 
+	- Semanas o meses después de la implantación 
+	- Mecanismos inespecíficos y específicos 
+	- Activación de macrófagos y células T 
+	- Encapsulación del implante y problemas a largo plazo 
+	- Daño tisular y fallo del implante
+
+Respuesta inespecífica: 
+- La adsorción de proteínas en la superficie del biomaterial 
+- Las proteínas adsorbidas pueden catalizar mediar o moderar las respuestas biológicas 
+- Trombosis inducida por superficies: Obstáculo para dispositivos destinados a un contacto prolongado con la sangre 
+- Formación de trombos en la superficie de dispositivos: 
+	- Reacciones mediadas por plaquetas (adhesión y agregación plaquetaria)
+	- Coagulación del plasma sanguíneo 
+
