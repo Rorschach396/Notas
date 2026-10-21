@@ -135,4 +135,6 @@ Pueden activar masivamente el sistema de complemento debido a que tienen tamaño
 
 Inmunidad adaptativa es dependiente y específica de un antígeno. Requiere de un periodo de latencia entre la exposición al antígeno y la respuesta máxima. 
 
-Receptores de antíge
+Receptores de antígenos: Receptores que reconocen estructuras moleculares únicas presentes en los patógenos (antígenos). 
+
+- 
