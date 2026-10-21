@@ -141,3 +141,9 @@ Receptores de antígenos: Receptores que reconocen estructuras moleculares únic
 - Respuesta retrasada: Las células proliferan y aumentan su población tras la interacción con el receptor 
 - Posee memoria: Algunas de estas células adquieren una larga vida, lo que incrementa la velocidad y la intensidad de la respuesta adaptativa ante exposición posterior al mismo patógeno. 
 
+Células del sistema inmunitario adaptativo 
+- Linfocitos T: Maduran en el timo
+- Linfocitos B: Productores de anticuerpos, se originan en la médula ósea. 
+	- Se desarrollan en los órganos linfoides primarios (timo y médula ósea)
+	- Migración hacia los órganos linfoides secundarios (ganglios linfáticos y bazo), cuya función es captar antígenos circulantes presentes en la linfa y la sangre, respectivamente 
+	- Los linfocitos que salen del bazo y de los ganglios linfáticos pueden desplazarse posteriormente a diversas martes del organismo 
