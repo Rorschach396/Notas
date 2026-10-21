@@ -149,4 +149,7 @@ Células del sistema inmunitario adaptativo
 	- Los linfocitos que salen del bazo y de los ganglios linfáticos pueden desplazarse posteriormente a diversas martes del organismo 
 
 Para el estudio de la inmunidad adaptativa se ha dividido en 2: 
-- Inmunidad Humoral: Está mediada 
+- Inmunidad Humoral: Está mediada por linfocitos B 
+- Inmunidad mediada por células: Mediado por linfocitos T helper y linfocitos T citotóxicos 
+
+Las células dendríticas o vaso linfático transportan antígenos hacia los ganglios linfáticos, mediante la recreación de citocinas, las CD (células dendríticas) atraen a los linfocitos T "naive", se presenta ell antígeno y el linfocito T se activa y se genera algo llamado "expansión clonal" (se dividen y se generan muchos).
