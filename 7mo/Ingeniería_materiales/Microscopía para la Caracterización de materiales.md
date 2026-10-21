@@ -23,4 +23,14 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Magnificación puede ir de 10 a $10{^5}$x
 - Alta profundidad de campo 
 - Magnificación: Aumento del tamaño de la imagen en comparación con la vida real 
+	- Al aumentar la magnificación disminuye el área analizada pero aumenta el nivel de detalle 
+- La micrografía normalmente va a tener las siguientes cosas (aunque esto no siempre se cumple): 
+	- Magnificación 
+	- Resolución de la imagen 
+	- Barra de escala 
+	- Señal/detector 
+	- Voltaje de aceleración 
+	- Distancia de trabajo 
+	- Distancia de trabajo 
+	- Identificación de la muestra/archivo 
 - 
