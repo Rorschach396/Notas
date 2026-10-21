@@ -20,4 +20,7 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Baja convergencia punto grande, alta convergencia punto pequeño 
 - Electrones retro dispersados permiten ver contrastes, características topográficas, físicas y químicas de la muestra. 
 - Aplica para todas las chingaderas la resolución (chingaderas = microscopio electrónico de barrido y el microscopio óptico)
+- Magnificación puede ir de 10 a $10{^5}$x
+- Alta profundidad de campo 
+- Magnificación: Aumento del tamaño de la imagen en comparación con la vida real 
 - 
