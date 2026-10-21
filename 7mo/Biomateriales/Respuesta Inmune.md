@@ -147,3 +147,6 @@ Células del sistema inmunitario adaptativo
 	- Se desarrollan en los órganos linfoides primarios (timo y médula ósea)
 	- Migración hacia los órganos linfoides secundarios (ganglios linfáticos y bazo), cuya función es captar antígenos circulantes presentes en la linfa y la sangre, respectivamente 
 	- Los linfocitos que salen del bazo y de los ganglios linfáticos pueden desplazarse posteriormente a diversas martes del organismo 
+
+Para el estudio de la inmunidad adaptativa se ha dividido en 2: 
+- Inmunidad Humoral: Está mediada 
