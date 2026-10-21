@@ -182,3 +182,13 @@ Respuesta inespecífica:
 	- Reacciones mediadas por plaquetas (adhesión y agregación plaquetaria)
 	- Coagulación del plasma sanguíneo 
 
+Agregación plaquetaria 
+
+Proteínas solubles presentes en el plasma sanguíneo
+- Fibrinógeno 
+- Fibronectina 
+- Vitronectina 
+- Factor de von Willebrand 
+
+Participan en la agregación plaquetaria durante una lesión, median la adhesión de plaquetas a los materiales, estas proteínas pueden unirse a receptores de la membrana celular de las plaquetas a traves de integrinas, esta unión induce la adhesión, activación y agregación plaquetaria y la formación de trombos. 
+
