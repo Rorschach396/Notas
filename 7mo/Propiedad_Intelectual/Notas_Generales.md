@@ -211,4 +211,6 @@ Segundo lugar en el kahoot
 - Transmisión pública o radiodifusión: Se hace del conocimiento del público a través de instrumentos tecnológicos por medio del especto de radio eléctrico, las microondas y las ondas de satélite. Incluye Cable, hilo o fibra óptica, satélite, microondas y todo tipo de formas de mandarlo 
 - Derecho a distribuir la obra incluyendo las formas de transmitir la propiedad de los soportes materiales que la compongan 
 - Cuando ya compraste el disco lo puedes revender, no te lo pueden impedir 
-- 
+- Derecho de tranformaciones
+	- Se tiene derecho a cobrar por esas obras derivadas 
+	- 
