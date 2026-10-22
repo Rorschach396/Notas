@@ -205,3 +205,8 @@ Segundo lugar en el kahoot
 - Según el art 27 se puede prohibir 
 	- Cualquier reproducción de la obra o modificación de la misma 
 - Tiene vigencia de 100 AÑOS desde que se muere el autor 
+- Una cosa es que seas dueño del disco y otra de la película que se encuentra en el disco 
+- Comunicación directa: Es realizada por medio de la actuación de interpretes o ejecutantes en vivo 
+- Comunicación indirecta: Se da cuando se efectúa por otros medios que se transponen la obra sin quedar fijada para que el público acceda a esta. 
+- Transmisión pública o radiodifusión: Se hace del conocimiento del público a través de instrumentos tecnológicos por medio del especto de radio eléctrico, las microondas y las ondas de satélite. Incluye Cable, hilo o fibra óptica, satélite, microondas y todo tipo de formas de mandarlo 
+- Derecho a distribuir la obra incluyendo las formas de transmitir la propiedad de los soportes materiales que la compongan 
