@@ -198,4 +198,10 @@ Segundo lugar en el kahoot
 		- Las que ya salieron no las puedes retirar, puedes evitar que se hagan más reimpresiones 
 	- Derecho a deslindarte de una obra para evitar que te perjudique
 	- Derecho a que se mantenga la escancia de la obra, dando como resultado que se pueda evitar el uso de una obra que pueda modificar la forma en la que el autor no la apruebe
-	- 
+
+# 22/10/2026
+
+- Los derechos morales si son transferibles, en la legislación autoral mexicana
+- Según el art 27 se puede prohibir 
+	- Cualquier reproducción de la obra o modificación de la misma 
+- Tiene vigencia de 100 AÑOS desde que se muere el autor 
