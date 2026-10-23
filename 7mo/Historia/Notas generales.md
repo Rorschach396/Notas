@@ -222,4 +222,5 @@ Notas exposiciones de negocios compañeros
 - Cualquier persona tiene que entender la presentación 
 - Especificar que tan difícil de conseguir son nuestros precursores 
 - ¿Como se tiene que utilizar el producto? 
+- Especificar de forma completa el proceso del producto, forma en la que se va a utilizar y se va a tener que desechar 
 - 
