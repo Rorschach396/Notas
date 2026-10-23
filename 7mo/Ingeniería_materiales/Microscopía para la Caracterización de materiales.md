@@ -57,4 +57,4 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 
 - Dependiendo del número atómico se va a ver un diferente color, si es un número atómico muy pequeño entonces será más oscuro 
 - Se podría ver un estado cristalino dependiendo del ordenamiento atómico 
-- 
+- En los electrones secundarios se alcanza a ver la forma, en los retro dispersados se alcanzan a ver más detalles 
