@@ -221,4 +221,5 @@ Presentación del DRK
 Notas exposiciones de negocios compañeros 
 - Cualquier persona tiene que entender la presentación 
 - Especificar que tan difícil de conseguir son nuestros precursores 
+- ¿Como se tiene que utilizar el producto? 
 - 
