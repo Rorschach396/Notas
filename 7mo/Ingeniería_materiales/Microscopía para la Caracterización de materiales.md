@@ -81,3 +81,9 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Enfoque y alineación: Imágenes nítidas 
 - Ángulo de muestra 
 - Espécimen de carga 
+
+Si no se realizan lavados se puede chingar el microscopio a largo plazo 
+
+Distancia de trabajo: 
+- Distancia entre donde salen los electrones y la muestra 
+- 
