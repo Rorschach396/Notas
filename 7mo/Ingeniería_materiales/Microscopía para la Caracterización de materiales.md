@@ -99,4 +99,15 @@ Voltaje de aceleración
 	- Más cargas aislantes 
 	- Mayor riesgo de daño 
 Tamaño del spot 
+- A spot pequeño
+	- Haz más fino 
+	- Mayor resolución 
+	- Menor corriente de haz 
+	- Menor señal 
+	- Más ruido 
+- A spot más grande 
+	- Haz más ancho 
+	- Menor resolución 
+	- Mayor corriente de haz 
+	- Mayor señal 
 - 
