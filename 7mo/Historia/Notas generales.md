@@ -219,4 +219,6 @@ Presentación del DRK
 
 # 23/10/2026
 Notas exposiciones de negocios compañeros 
+- Cualquier persona tiene que entender la presentación 
+- Especificar que tan difícil de conseguir son nuestros precursores 
 - 
