@@ -66,4 +66,8 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - El Dy tiene un vergomadral de picos de energía 
 - El mapa elemental permite identificar la posible "posición" de cada uno de los átomos presentes en el material 
 - Se recomienda utilizar los colorsitos para la ubicación espacial. 
+- El EDS puede ser puntual o de área 
+- Secundarios: Características superficiales 
+- Retrodispersados: Composición, permite diferenciar la composición 
+- Retrodispersados topográficos: Sensibles a la orientación e inclinación y permite identificar orientación y relieve 
 - 
