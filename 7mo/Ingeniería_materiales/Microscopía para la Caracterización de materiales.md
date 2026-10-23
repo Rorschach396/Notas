@@ -63,4 +63,7 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Si la síntesis se realizó en un mugrero entonces se tendrá un mugrero XD 
 - WDS: Complementario al EDS, mide la señal de un solo elemento, es relativamente más preciso solo que al mismo tiempo es más lento. 
 - Los equipos pueden tener una base de datos para poder realizar un cotejamiento de los elementos, la energía que se mide es la energía que se desprende, esto permite realizar la identificación del elemento. 
+- El Dy tiene un vergomadral de picos de energía 
+- El mapa elemental permite identificar la posible "posición" de cada uno de los átomos presentes en el material 
+- Se recomienda utilizar los colorsitos para la ubicación espacial. 
 - 
