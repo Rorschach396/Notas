@@ -219,4 +219,3 @@ Presentación del DRK
 
 # 23/10/2026
 Notas exposiciones de negocios compañeros 
-- 
