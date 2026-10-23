@@ -60,4 +60,7 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - En los electrones secundarios se alcanza a ver la forma, en los retro dispersados se alcanzan a ver más detalles 
 - En algunas reacciones se tiene que cotejar con el EDS para poder encontrar la proporción de átomos. 
 - El EDS es una técnica cuantitativa, se tiene que utilizar una técnica complementaria para poder corroborarlo 
+- Si la síntesis se realizó en un mugrero entonces se tendrá un mugrero XD 
+- WDS: Complementario al EDS, mide la señal de un solo elemento, es relativamente más preciso solo que al mismo tiempo es más lento. 
+- Los equipos pueden tener una base de datos para poder realizar un cotejamiento de los elementos, la energía que se mide es la energía que se desprende, esto permite realizar la identificación del elemento. 
 - 
