@@ -98,4 +98,5 @@ Voltaje de aceleración
 	- Mayor volumen de interacción 
 	- Más cargas aislantes 
 	- Mayor riesgo de daño 
+Tamaño del spot 
 - 
