@@ -110,5 +110,13 @@ Tamaño del spot
 	- Menor resolución 
 	- Mayor corriente de haz 
 	- Mayor señal 
-Enfoque y alineación 
-- 
+Carga de la muestra
+- La carga se produce por la acumulación de electrones en la muestra y su descarga no controlada, lo que puede generar artefactos no deseados, especialmente en imágenes de electrones secundarios 
+- Efectos: 
+	- Bandas o líneas brillantes
+	- Zonas saturadas 
+	- Perdida de detalle y contraste 
+	- Desplazamiento o distorsión de la imagen 
+	- Variación del brillo con el tiempo 
+Contaminación relacionada con el haz de electrones: La muestra se daña debido a los electrones, se tiene que evitar dejar el haz por mucho tiempo en un lugar 
+
