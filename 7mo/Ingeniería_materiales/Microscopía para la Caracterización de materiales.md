@@ -70,4 +70,14 @@ aproximadamente los microscopios ópticos normalmente alcanzan a 0.2 $\mu m$
 - Secundarios: Características superficiales 
 - Retrodispersados: Composición, permite diferenciar la composición 
 - Retrodispersados topográficos: Sensibles a la orientación e inclinación y permite identificar orientación y relieve 
-- 
+- DAMN. 
+- Existe el CVD para poder determinar la dirección 
+
+# Factores que influyen en la imagen 
+
+- Distancia de trabajo: Menor da mejor resolución, mayor da mayor profundidad de campo
+- Voltaje de aceleración: Bajo mayor sensibilidad a la topografía, alto mayor señal de BSE y mayor penetración 
+- Tamaño de punto: Pequeño mayor resolución, Grande mejor señal
+- Enfoque y alineación: Imágenes nítidas 
+- Ángulo de muestra 
+- Espécimen de carga 
