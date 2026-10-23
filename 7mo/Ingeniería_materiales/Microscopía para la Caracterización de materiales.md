@@ -86,4 +86,5 @@ Si no se realizan lavados se puede chingar el microscopio a largo plazo
 
 Distancia de trabajo: 
 - Distancia entre donde salen los electrones y la muestra 
+- Se tiene que tener mucho cuidado por que se puede chingar el microscopio 
 - 
