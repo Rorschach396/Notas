@@ -87,4 +87,15 @@ Si no se realizan lavados se puede chingar el microscopio a largo plazo
 Distancia de trabajo: 
 - Distancia entre donde salen los electrones y la muestra 
 - Se tiene que tener mucho cuidado por que se puede chingar el microscopio 
+Voltaje de aceleración
+- A bajo voltaje 
+	- Mayor información superficial 
+	- Menor daño 
+	- Menor acumulación de carga 
+	- Menor efecto de borde 
+- A alto voltaje 
+	- Mayor penetración 
+	- Mayor volumen de interacción 
+	- Más cargas aislantes 
+	- Mayor riesgo de daño 
 - 
