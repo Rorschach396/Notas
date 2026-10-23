@@ -110,4 +110,5 @@ Tamaño del spot
 	- Menor resolución 
 	- Mayor corriente de haz 
 	- Mayor señal 
+Enfoque y alineación 
 - 
