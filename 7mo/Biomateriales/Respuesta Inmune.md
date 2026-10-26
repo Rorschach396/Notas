@@ -223,6 +223,10 @@ Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado l
 Cuando un material tiene presenta una respuesta inmunitaria innata esto genera inflamación, si la respuesta infamatoria inicial suele ser limitada, pero puede volverse crónica. 
 - Altera la homeostasis tisular, limita integración del material.
 - Formación de tejido fibroso (reacción a cuerpo extraño), puede comprometer el funcionamiento de los dispositivos implantados.
-- 
+
+Reacción del sistema ante un objeto extraño: 
+- La implantación de un objeto extraño activa cascadas de señalización que conducen a la encapsulación biológica del implante 
+- La intensidad y la cronología depende de la magnitud de la lesión así como de las características del implante y del huesped. 
+- Normalmente están compuestos de fibroblastos, neutrófilos, colágeno y células gigantes de cuerpo extraño
 
 
