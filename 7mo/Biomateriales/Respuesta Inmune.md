@@ -201,3 +201,21 @@ Coagulación de plasma sanguíneo:
 		- Escasa relevancia fisiológica en condiciones normales 
 		- Se activa cuando la sangre entra en contacto con materiales artificiales -> hemocompatibilidad de los materiales 
 
+Respuesta de Neutrófilos
+- Son las primeras células inmunitarias en ser reclutadas y llegan primerio al biomaterial o a donde se tenga un problema 
+- Tienen efectos proinflamatorios 
+	- Liberan citocinas 
+	- Desgranulación 
+	- Producción de redes (Trampas extracelulares de neutrófilos)
+
+La netosis es la forma en la que los neutrófilos producen las redes, esta puede ser de la siguiente forma: 
+- NETosis suicida: 
+	- Forma principal de netosis
+	- Conlleva la muerte de los neutrofilos 
+	- Cambios morfológicos: Desintegración de la membrana nuclear, descondensación cromática, desaparición de la membrana plasmática y la liberación de las NET 
+- NETosis vital: 
+	- Los neutrofilos permanecen vivos 
+	- Liberan fragmentos de su ADN nuclear o mitocondrial 
+Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado la formación de tromboinflamación
+
+
