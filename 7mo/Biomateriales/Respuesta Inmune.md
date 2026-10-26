@@ -247,6 +247,8 @@ A las mujeres u hombres que hayan tenido implantes mamarios se ha reportado tras
 - Dolor articular y muscular 
 - Caída del cabello 
 - Cambios de peso 
-- Anside
+- Ansiedad y depresión 
+
+Ya hay doctores especializados en retirar los implantes. 
 
 
