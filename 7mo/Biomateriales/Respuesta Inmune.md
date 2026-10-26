@@ -235,7 +235,7 @@ Reacción del sistema ante un objeto extraño:
 	- Inflamación aguda: Se caracteriza por la presencia de neutrófilos, proteasas y los radicales libres de oxígeno generan una degradación del material, remite rápidamente (en una semana)
 	- Los neutrófilos desaparecen entre 24 a 48 horas.
 - Inflamación crónica: Caracterizada por la presencia de células monocitos y y linfocitos, los monocitos se diferencian en macrófagos. Los macrófagos liberan mediadores de la inflamación y se adhieren a la superficie del material en intentan fagocitarlo, como son incapaces de fagocitar el material entonces terminan frustrados y se empiezan a unir dando como resultado células gigantes de cuerpo extraño, estas células envían señales para atraer fibroblastos.
-- Desarrollo del tejido granular 
+- Desarrollo del tejido granular: Tejido de granulación se caracteriza por la presencia de fibroblastos y nuevos vasos sanguíneos. Forma parte de la inflamación crónica. Fibroblastos y células endoteliales llegan al lugar del implante, esto genera procesos de cicatrización. Los fibroblastos empiezan a generar colágeno tratando de "encapsular" el implante del resto del organismo. La capsula fibrosa que envuelve el implante se denomina fibrosis. 
 - Desarrollo de la cápsula fibrosa 
 
 
