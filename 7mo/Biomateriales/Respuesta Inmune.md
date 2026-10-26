@@ -218,8 +218,7 @@ La netosis es la forma en la que los neutrófilos producen las redes, esta puede
 	- Liberan fragmentos de su ADN nuclear o mitocondrial 
 Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado la formación de tromboinflamación, al reducir la producción de NETs favorece la cicatrización. 
 
-# Respuesta inmune cr+onica 
-
+# Respuesta inmune crÓnica 
 Cuando un material tiene presenta una respuesta inmunitaria innata esto genera inflamación, si la respuesta infamatoria inicial suele ser limitada, pero puede volverse crónica. 
 - Altera la homeostasis tisular, limita integración del material.
 - Formación de tejido fibroso (reacción a cuerpo extraño), puede comprometer el funcionamiento de los dispositivos implantados.
