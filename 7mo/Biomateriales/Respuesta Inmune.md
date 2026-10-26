@@ -216,6 +216,10 @@ La netosis es la forma en la que los neutrófilos producen las redes, esta puede
 - NETosis vital: 
 	- Los neutrofilos permanecen vivos 
 	- Liberan fragmentos de su ADN nuclear o mitocondrial 
-Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado la formación de tromboinflamación
+Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado la formación de tromboinflamación, al reducir la producción de NETs favorece la cicatrización. 
+
+# Respuesta inmune cr+onica 
+
+Cuando un material tiene 
 
 
