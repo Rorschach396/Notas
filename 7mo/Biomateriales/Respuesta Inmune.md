@@ -220,6 +220,9 @@ Casi no se sabe de este fenómeno, pero se conoce que puede dar como resultado l
 
 # Respuesta inmune cr+onica 
 
-Cuando un material tiene 
+Cuando un material tiene presenta una respuesta inmunitaria innata esto genera inflamación, si la respuesta infamatoria inicial suele ser limitada, pero puede volverse crónica. 
+- Altera la homeostasis tisular, limita integración del material.
+- Formación de tejido fibroso (reacción a cuerpo extraño), puede comprometer el funcionamiento de los dispositivos implantados.
+- 
 
 
