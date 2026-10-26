@@ -238,4 +238,15 @@ Reacción del sistema ante un objeto extraño:
 - Desarrollo del tejido granular: Tejido de granulación se caracteriza por la presencia de fibroblastos y nuevos vasos sanguíneos. Forma parte de la inflamación crónica. Fibroblastos y células endoteliales llegan al lugar del implante, esto genera procesos de cicatrización. Los fibroblastos empiezan a generar colágeno tratando de "encapsular" el implante del resto del organismo. La capsula fibrosa que envuelve el implante se denomina fibrosis. 
 - Desarrollo de la cápsula fibrosa 
 
+Enfermedad por implantes mamarios 
+
+A las mujeres u hombres que hayan tenido implantes mamarios se ha reportado tras una reconstrucción o aumento mamario con implantes se tienen síntomas similares a los de una enfermedad autoinmune. 
+
+- Fatiga 
+- Problemas de memoria ("Niebla mental")
+- Dolor articular y muscular 
+- Caída del cabello 
+- Cambios de peso 
+- Anside
+
 
