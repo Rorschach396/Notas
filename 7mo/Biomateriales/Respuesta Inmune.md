@@ -226,7 +226,16 @@ Cuando un material tiene presenta una respuesta inmunitaria innata esto genera i
 
 Reacción del sistema ante un objeto extraño: 
 - La implantación de un objeto extraño activa cascadas de señalización que conducen a la encapsulación biológica del implante 
-- La intensidad y la cronología depende de la magnitud de la lesión así como de las características del implante y del huesped. 
+- La intensidad y la cronología depende de la magnitud de la lesión así como de las características del implante y del huésped. 
 - Normalmente están compuestos de fibroblastos, neutrófilos, colágeno y células gigantes de cuerpo extraño
+
+- Lesión: Activa una respuesta inflamatoria, busca aislar o contener el agente lesivo y conducir a la reparación del tejido 
+- Interacción sangre-material: Deposición de proteínas sanguíneas en la superficie del biomaterial 
+- Matriz provisional: Formación de una matriz provisional transitoria que puede dar como resultado un coágulo 
+	- Inflamación aguda: Se caracteriza por la presencia de neutrófilos, proteasas y los radicales libres de oxígeno generan una degradación del material, remite rápidamente (en una semana)
+	- Los neutrófilos desaparecen entre 24 a 48 horas.
+- Inflamación crónica: Caracterizada por la presencia de células monocitos y y linfocitos, los monocitos se diferencian en macrófagos. Los macrófagos liberan mediadores de la inflamación y se adhieren a la superficie del material en intentan fagocitarlo, como son incapaces de fagocitar el material entonces terminan frustrados y se empiezan a unir dando como resultado células gigantes de cuerpo extraño, estas células envían señales para atraer fibroblastos.
+- Desarrollo del tejido granular 
+- Desarrollo de la cápsula fibrosa 
 
 
