@@ -226,3 +226,5 @@ Segundo lugar en el kahoot
 | ------- | ----------------------------------------------------------------- |
 | Autores | Vida + 100                                                        |
 | Conexos | Editores 50<br>fonogramas 75<br>videograma 50<br>radiodifusión 50 |
+- Los conexos se encuentran ligados a la obra pero como tal no son propietarios de la obra 
+- 
