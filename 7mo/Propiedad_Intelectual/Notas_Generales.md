@@ -222,7 +222,7 @@ Segundo lugar en el kahoot
 # 27/10/2026
 
 
-| Morales  | Patrimoniales |
-| -------- | ------------- |
-| Autores  |               |
-| Conexos  |               |
+| Morales | Patrimoniales |
+| ------- | ------------- |
+| Autores |               |
+| Conexos |               |
