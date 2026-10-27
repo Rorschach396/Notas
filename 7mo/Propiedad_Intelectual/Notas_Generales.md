@@ -218,4 +218,11 @@ Segundo lugar en el kahoot
 	- Esto nomás aplica a artes plásticas
 		- Obras fotográficas 
 		- manuscritos 
-- 
+
+# 27/10/2026
+
+
+| Morales  | Patrimoniales |
+| -------- | ------------- |
+| Autores  |               |
+| Conexos  |               |
