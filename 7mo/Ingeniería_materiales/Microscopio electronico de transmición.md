@@ -4,4 +4,5 @@
 	- Se puede obtener el tamaño, la forma y la disposición de las partículas que forman el espécimen, así como su relación entre si en la escala de nanómetros. 
 	- Permite obtener información cristalográfica relacionada con la disposición de los átomos en la muestra y su grado de orden, así como la detección de defectos a escala atómica en áreas de unos pocos nanómetros de diámetro. 
 	- Los elementos y compuestos de los que se compone la muestra y sus relaciones relativas en áreas de unos pocos nanómetros de diámetro, aunque para poder obtener este resultado es necesario tener un aditamento equipado. 
+- Se pueden llegar a observar los planos cristalográficos de una determinada muestra 
 - 
