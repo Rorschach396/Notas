@@ -51,4 +51,11 @@
 - Las trayectorias de haz de los diferentes modos se muestra en el diagrama: 
 	- Apertura del objetivo: Se utiliza para aumentar el contraste y se introduce en la columna para obtener imágenes de campo claro y campo oscuro
 	- Imágenes de campo oscuro: Se logran bloquear el haz no dispersado y solo permitiendo que electrones dispersados formen la imagen 
-	- La obtención de imágene sde campo se logra permitiendo pasar el haz no dispersados 
+	- La obtención de imágenes de campo se logra permitiendo pasar el haz no dispersados y bloqueando los electrones dispersos para formar la imagen 
+	- Modo de difracción: Se logra al introducir la abertura de difracción del área seleccionada en la camara o algo que incia con la letra C por que el doc no dejó ver. 
+- En el caso de los policristalinos se ven anillos con puntos específicos
+- En los cristalinos se obtienen puntos brillantes
+- Amorfo se ve un pinche anillote todo difuso. 
+- ![[Pasted image 20261028091040.png|401]]
+- Por debajo de los 10 nm ya se considera una chingadera aparte que mencionó el doc pero que no me pude acordar para poder anotar 
+- Permite poder ver los defectos cristalinos 
