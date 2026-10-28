@@ -5,4 +5,13 @@
 	- Permite obtener información cristalográfica relacionada con la disposición de los átomos en la muestra y su grado de orden, así como la detección de defectos a escala atómica en áreas de unos pocos nanómetros de diámetro. 
 	- Los elementos y compuestos de los que se compone la muestra y sus relaciones relativas en áreas de unos pocos nanómetros de diámetro, aunque para poder obtener este resultado es necesario tener un aditamento equipado. 
 - Se pueden llegar a observar los planos cristalográficos de una determinada muestra 
-- 
+- Lente condensadora 1:
+	- Controla el tamaño del punto del haz 
+	- Reduce el diámetro del haz de electrones 
+	- Determina el área iluminada sobre la muestra y contribuye a la coherencia del haz 
+- Lente condensadora 2: 
+	- Controla la intensidad o brillo del haz 
+	- Ajusta la corriente de electrones que llega a la muestra 
+	- Permite optimizar el contraste y la dosis electrónica 
+- Apertura condensadora: Agujeros circulares en tiras de metal que normalmente están hechas de platino y molibdeno, esta controla la fracción del haz emitido por la fuente que permite alcanzar la muestra 
+- La apertura se utiliza para seleccionar o excluir electrones
