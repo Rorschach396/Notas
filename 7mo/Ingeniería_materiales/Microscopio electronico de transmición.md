@@ -59,3 +59,15 @@
 - ![[Pasted image 20261028091040.png|401]]
 - Por debajo de los 10 nm ya se considera una chingadera aparte que mencionó el doc pero que no me pude acordar para poder anotar 
 - Permite poder ver los defectos cristalinos 
+- Campo oscuro 
+	- Solo las regiones que cumplen la condición de difracción del plano seleccionado 
+	- información sobre la orientación cristalina 
+	- Contraste de difracción (resalta cristales específicos)
+	- Útil para identificar fases y dominios cristalinos 
+- Campo claro 
+	- Morfología general 
+	- Distribución de partículas 
+	- Contraste por espesor, densidad y difracción 
+	- Defectos de bordes 
+	- Toda la muestra contribuye a la imagen 
+- 
