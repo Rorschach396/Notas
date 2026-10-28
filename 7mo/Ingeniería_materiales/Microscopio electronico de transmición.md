@@ -21,4 +21,23 @@
 - Objetivo SAD:( Apertura del área seleccionada, permite al usuario examinar la difracción periódica de los electrones mediante arreglos ordenados de átomos en la muestra, selecciona una región de la muestra. 
 - Lentes intermedias: La lente intermedia magnifica la imagen inicial que está formada por la lente objetivo, forma la imagen intermedia real, lente intermedia 1 tiene menor aumento a comparación de la lente intermedia 2, permite ajustar el aumento antes de la proyección final. 
 - Lentes proyectoras; La magnicación en el microscopio electrónico puede variar de cientos a varios cientos de miles de veces. Esto se hace variando la fuerza del proyector y las lentes intermedias. No todas las lentes se utilizarán necesariamente con aumentos más bajos. Amplifican la imagen intermedia formada por las lentes intermedias, determina el aumento final y el tamaño de la imagen en la pantalla o cámara, el aumento final depende de la combinación de las lentes intermedias y proyectoras.
-- 
+- Donde le anda moviendo el técnico: 
+	- Panel principal 
+	- Panel operacional 
+	- Control de parámetros 
+	- Panel de funciones adicionales 
+	- Consola completa 
+	- Mandos de la platina 
+- Cámara CCD 
+- Tiene 3 tipos de detectores: 
+	- Electrones transmitidos 
+		- Imagen 
+		- Difracción 
+		- EELS 
+	- Electrones dispersados 
+		- EELS 
+		- Difracción 
+		- STEM 
+	- Rayos X 
+		- EDS (composición química)
+- Requiere del uso de nitrógeno para poder enfriar el equipo 
