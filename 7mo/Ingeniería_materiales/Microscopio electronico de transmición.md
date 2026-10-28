@@ -41,4 +41,14 @@
 	- Rayos X 
 		- EDS (composición química)
 - Requiere del uso de nitrógeno para poder enfriar el equipo 
-- 
+- Las imágenes de TEM son formadas en dos etapas
+	- Etapa A: Es la dispersión de un haz de electrones incidentes por un espécimen.
+	- Etapa B: No tengo idea no dejó copiar 
+- Existen Diferentes modos de imagen: 
+	- Campo claro: Pasa el haz no dispersado y se bloquean los electrones dispersos 
+	- Campo oscuro: Se introduce la abertura de difracción del área seleccionada
+	- Área seleccionada de difracción: Se bloquea el haz no dispersado y sólo los electrones dispersos forman la imagen 
+- Las trayectorias de haz de los diferentes modos se muestra en el diagrama: 
+	- Apertura del objetivo: Se utiliza para aumentar el contraste y se introduce en la columna para obtener imágenes de campo claro y campo oscuro
+	- Imágenes de campo oscuro: Se logran bloquear el haz no dispersado y solo permitiendo que electrones dispersados formen la imagen 
+	- La obtención de imágene sde campo se logra permitiendo pasar el haz no dispersados 
