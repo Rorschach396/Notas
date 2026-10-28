@@ -15,4 +15,4 @@
 	- Permite optimizar el contraste y la dosis electrónica 
 - Apertura condensadora: Agujeros circulares en tiras de metal que normalmente están hechas de platino y molibdeno, esta controla la fracción del haz emitido por la fuente que permite alcanzar la muestra 
 - La apertura se utiliza para seleccionar o excluir electrones
-- Portamuestras: Es un dispositivo que permite introducir la muestra en el microscopio electrónico de transmisión, sostiene la rejjilla o el espécimen en una posición estable dentro de la columna y permite sin
+- Portamuestras: Es un dispositivo que permite introducir la muestra en el microscopio electrónico de transmisión, sostiene la rejilla o el espécimen en una posición estable dentro de la columna y permite sin
