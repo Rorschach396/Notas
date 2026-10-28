@@ -250,4 +250,6 @@ A las mujeres u hombres que hayan tenido implantes mamarios se ha reportado tras
 
 Ya hay doctores especializados en retirar los implantes. 
 
+28/10/2026: Se ve cells at work y
+![[Pasted image 20261028104610.png|111]]
 
