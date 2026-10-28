@@ -41,3 +41,4 @@
 	- Rayos X 
 		- EDS (composición química)
 - Requiere del uso de nitrógeno para poder enfriar el equipo 
+- 
