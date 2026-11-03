@@ -91,4 +91,5 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 	- Control por interfaz: Si la relación en interfaz es más lenta que la difusión 
 - Se pueden optimizar los 3 factores presentes en [[Transiciones mediadas por Difusión#^20a8c3]] 
 	- Mejorar las fases coherentes con otros átomos 
-	- Disminuir la solubilidad agregando partículas muy estables 
+	- Disminuir la solubilidad agregando partículas muy estables (dispersión de óxidos)
+	- 
