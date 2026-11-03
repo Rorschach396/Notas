@@ -263,4 +263,6 @@ Segundo lugar en el kahoot
 		- Características gráficas 
 		- Leyendas, tradiciones 
 		- Nombres de personas 
-		- 
+	- Solo dura un año esta madre XD 
+	- 5 años en casos precisos 
+	- 
