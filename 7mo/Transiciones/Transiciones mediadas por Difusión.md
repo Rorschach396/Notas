@@ -70,4 +70,6 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 - $k\propto D\gamma X_{e}$
 - Donde 
 	- D: Coeficiente de difusión del soluto en la matriz 
-	- $\gamma$: Energía inter
+	- $\gamma$: Energía interfacial precipitado matriz 
+	- $X_{e}$: Solubilidad de equilibrio en partículas de radio muy grande 
+- 
