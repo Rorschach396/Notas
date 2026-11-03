@@ -79,3 +79,11 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 	- A medida que las partículas crecen la tasa de engrosamiento disminuye progresivamente
 	- Una vez que las partículas son grandes, el engrosamiento se vuelve muy lento, la microestructura se estabiliza 
 	- Tiene implicaciones para el diseño de tratamientos térmicos de estabilización 
+- Estas formulas también tienen una dependencia en la temperatura
+	- $D\propto \exp\left( -\frac{Q}{RT} \right), \quad X_{e}\propto \exp\left( -\frac{\Delta H}{RT} \right)$
+	- Esto tiene las siguientes consecuencias: 
+		- Materiales para alta temperatura deben de minimizar el producto de $D\gamma X_{e}$
+		- El engrosamiento es el mecanismo dominante de degradación de propiedades en servicio prolongado 
+		- La temperatura del servicio determina qué precipitados son estables a largo plazo 
+		- Pequeños aumentos de temperatura generan grandes aumentos en la taza de engrosamiento 
+	- 
