@@ -61,3 +61,10 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 - Las nanopartículas pequeñas se disuelven, las grandes crecen 
 - Resultado neto: Disminución del número total de partículas y aumento del radio medio $\bar{r}$. 
 - Síntesis por alicuotas, se agarran de pocos átomos para poder evitar la aglomeración 
+- Ley de lifshitz-Slyozov-Wagner: Asumiendo que la difusión volumétrica como factor controlante se puede encontrar que se obtiene una línea recta: 
+- $(\bar{r}){^3}-r_{0}{^3} = kt$
+- Donde 
+	- $\bar{r}$: Radio medio en el tiempo t
+	- $r_{0}$: Radio medio en el tiempo 0
+	- k: Constante de engrosamiento 
+- $k$
