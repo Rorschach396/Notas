@@ -53,3 +53,8 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 
 ![[Pasted image 20261020113457.png]]
 
+
+# Efecto Gibbs-thompson: Motor del engrosamiento 
+
+- Se generan gradientes de concentración en la matriz entre las partículas de diferente tamaño 
+- El soluto difunde desde las partículas 
