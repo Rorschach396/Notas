@@ -227,4 +227,21 @@ Segundo lugar en el kahoot
 | Autores | Vida + 100                                                        |
 | Conexos | Editores 50<br>fonogramas 75<br>videograma 50<br>radiodifusión 50 |
 - Los conexos se encuentran ligados a la obra pero como tal no son propietarios de la obra 
-- 
+
+# 03/11/2026
+
+- Las reservas de derecho son nomás mexicanas, como tal no existen en otros países 
+- No entra en la doctrina de derechos de autor, esto es netamente mexicano 
+- Reserva de derechos 
+	- No son derechos de autor propiamente 
+	- Requieren el registrar y obtener el título por parte del INDAUTOR para tener derechos exclusivos de los mismos 
+	- Para obtener exclusividad sobre esto se tiene que obtener un registro 
+	- El titular puede ser una persona física o moral
+	- Pueden ser las siguientes cosas 
+		- Publicaciones periódicas 
+		- Difusiones periódicas 
+		- Personajes humanos de caracterización, ficticios o simbólicos 
+		- Personas o grupos dedicados a actividades artísticas 
+		- Eventos artísticos y culturales, como festivales, concursos, ferias o cualquier otro de similar naturaleza 
+		- Nombre de bandas 
+		- 
