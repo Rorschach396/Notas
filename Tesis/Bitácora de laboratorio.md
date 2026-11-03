@@ -25,6 +25,8 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 - BaAC: 204.32 mg 
 - $Y^{3+}$: 396.66 mg
 - $NH_{4}F$: 131.925 mg
+- $Yb{^{3+}}$: 46.5 mg 
+- $Er{{^{3+}}}$: 4.58 mg 
 
 ### Procedimiento de disoluciones 
 
