@@ -92,4 +92,4 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 - Se pueden optimizar los 3 factores presentes en [[Transiciones mediadas por Difusión#^20a8c3]] 
 	- Mejorar las fases coherentes con otros átomos 
 	- Disminuir la solubilidad agregando partículas muy estables (dispersión de óxidos)
-	- 
+	- También se puede amentar la solubilidad para obtener un crecimiento de grano mucho más rápido (esto )
