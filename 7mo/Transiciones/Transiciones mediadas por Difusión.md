@@ -72,4 +72,10 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 	- D: Coeficiente de difusión del soluto en la matriz 
 	- $\gamma$: Energía interfacial precipitado matriz 
 	- $X_{e}$: Solubilidad de equilibrio en partículas de radio muy grande 
-- 
+- Derivación de la tasa de engrosamiento: $\frac{d\bar{r}}{dt} \propto \frac{k}{\bar{r}{^2}}$
+- Implicaciones prácticas de esto: 
+	- Distribuciones de precipitados pequeños engrosan mucho más rápidamente 
+	- Explica por que los materiales sobre envejecidos pierden propiedades rápidamente al inicio 
+	- A medida que las partículas crecen la tasa de engrosamiento disminuye progresivamente
+	- Una vez que las partículas son grandes, el engrosamiento se vuelve muy lento, la microestructura se estabiliza 
+	- Tiene implicaciones para el diseño de tratamientos térmicos de estabilización 
