@@ -239,8 +239,21 @@ Segundo lugar en el kahoot
 	- El titular puede ser una persona física o moral
 	- Pueden ser las siguientes cosas 
 		- Publicaciones periódicas 
-		- Difusiones periódicas 
+			- Periódicos 
+			- revistas 
+			- gacetas 
+			- boletines 
+			- directorios 
+			- folletos 
+			- suplementos 
+			- guías 
+		- Difusiones periódicas
+			- Programas de radio 
+			- programas de televisión 
+			- Difusiones via red o cómputo
 		- Personajes humanos de caracterización, ficticios o simbólicos 
+			- Humanos de caracterización
+			- Ficticios o simbólicos
 		- Personas o grupos dedicados a actividades artísticas 
 		- Eventos artísticos y culturales, como festivales, concursos, ferias o cualquier otro de similar naturaleza (a partir de este año)
 		- Nombre de bandas 
