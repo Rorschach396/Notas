@@ -258,3 +258,9 @@ Segundo lugar en el kahoot
 		- Eventos artísticos y culturales, como festivales, concursos, ferias o cualquier otro de similar naturaleza (a partir de este año)
 		- Nombre de bandas 
 		- Promociones publicitarias 
+	- No son material de reserva: 
+		- Subtitulos 
+		- Características gráficas 
+		- Leyendas, tradiciones 
+		- Nombres de personas 
+		- 
