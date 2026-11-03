@@ -23,7 +23,6 @@ Esta estequiometría se tomó en consideración debido a los papers de Sobolev, 
 ### Cantidades 
 
 - BaAC: 204.32 mg 
-- BaOH: 
 - $Y^{3+}$: 396.66 mg
 - $NH_{4}F$: 131.925 mg
 
