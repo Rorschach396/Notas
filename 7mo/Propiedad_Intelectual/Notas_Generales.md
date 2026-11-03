@@ -242,6 +242,6 @@ Segundo lugar en el kahoot
 		- Difusiones periódicas 
 		- Personajes humanos de caracterización, ficticios o simbólicos 
 		- Personas o grupos dedicados a actividades artísticas 
-		- Eventos artísticos y culturales, como festivales, concursos, ferias o cualquier otro de similar naturaleza 
+		- Eventos artísticos y culturales, como festivales, concursos, ferias o cualquier otro de similar naturaleza (a partir de este año)
 		- Nombre de bandas 
-		- 
+		- Promociones publicitarias 
