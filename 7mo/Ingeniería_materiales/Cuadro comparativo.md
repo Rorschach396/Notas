@@ -7,3 +7,4 @@
 | Información obtenida      |     |     |     |
 | Preparación de la muestra |     |     |     |
 | Costo                     |     |     |     |
+| Usos                      |     |     |     |
