@@ -259,7 +259,7 @@ Segundo lugar en el kahoot
 		- Nombre de bandas 
 		- Promociones publicitarias 
 	- No son material de reserva: 
-		- Subtitulos 
+		- Subtítulos 
 		- Características gráficas 
 		- Leyendas, tradiciones 
 		- Nombres de personas 
