@@ -67,4 +67,7 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 	- $\bar{r}$: Radio medio en el tiempo t
 	- $r_{0}$: Radio medio en el tiempo 0
 	- k: Constante de engrosamiento 
-- $k$
+- $k\propto D\gamma X_{e}$
+- Donde 
+	- D: Coeficiente de difusión del soluto en la matriz 
+	- $\gamma$: Energía inter
