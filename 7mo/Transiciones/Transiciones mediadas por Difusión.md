@@ -87,5 +87,5 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 		- La temperatura del servicio determina qué precipitados son estables a largo plazo 
 		- Pequeños aumentos de temperatura generan grandes aumentos en la taza de engrosamiento 
 - Principales causas de desviaciones
-	- Cortos circuitos de difusión: Dislocaciones y fronteras de grano, aceleran el transporte de soluto. El coeficiente no varía 
+	- Cortos circuitos de difusión: Dislocaciones y fronteras de grano, aceleran el transporte de soluto. El coeficiente no varía, pero debido a ciertos defectos en el material se altera la 
 	- Control por interfaz: Si la relación en interfaz es más lenta que la difusión 
