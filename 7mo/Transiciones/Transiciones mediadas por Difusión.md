@@ -57,4 +57,7 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 # Efecto Gibbs-thompson: Motor del engrosamiento 
 
 - Se generan gradientes de concentración en la matriz entre las partículas de diferente tamaño 
-- El soluto difunde desde las partículas 
+- El soluto difunde desde las partículas pequeñas (alta concentración adyacente) hacia las grandes 
+- Las nanopartículas pequeñas se disuelven, las grandes crecen 
+- Resultado neto: Disminución del número total de partículas y aumento del radio medio $\bar{r}$. 
+- Síntesis por alicuotas, se agarran de pocos átomos para poder evitar la aglomeración 
