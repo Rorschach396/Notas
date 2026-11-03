@@ -7,7 +7,7 @@
 La estequiometria a utilizar para este material es la siguiente: 
 $$
 \begin{gather}
-Ba_{4}Y_{3.27}F_{17.81} \rightarrow Ba_{3.85}Y_{3.15}F_{17.15}
+ Ba_{3.85}Y_{3.15}F_{17.15} \rightarrow Ba_{4}Y_{3.27}F_{17.81}
 \end{gather}
 $$
 Esta estequiometría se tomó en consideración debido a los papers de Sobolev, donde se pudo encontrar que utilizando las proporciones del lado derecho se podía tener mejores resultados. Se realzó una regla de tres para poder obtener las proporciones estequiométricas para realizar el experimento. 
