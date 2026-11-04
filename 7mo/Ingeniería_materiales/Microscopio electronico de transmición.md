@@ -70,4 +70,4 @@
 	- Contraste por espesor, densidad y difracción 
 	- Defectos de bordes 
 	- Toda la muestra contribuye a la imagen 
-- 
+
