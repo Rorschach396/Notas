@@ -76,4 +76,8 @@
 - No se limita a los materiales conductores, sino que también se aplica a películas sólidas delgadas aislantes así como a capas de polímeros o materia biológica 
 - Se encuentra compuesto de una punta en forma de cantilever que termina en punta, este normalmente está hecho de nitruro de silicio o de silicio
 - La superficie reflectante está hecha de oro o de aluminio 
+- Tiene diferentes modos de operación: 
+	- Contacto: Separación punta superficie menor a 0.5 nm, la punta está en contacto con la superficie, se mide la deflexión del cantilever (debido a fuerzas repulsivas), alta resolución pero mayor desgaste a la punta y a la muestra 
+	- Contacto intermedio (pulsaciones): Separación punta superficie de 0.5 a 2 nm. La punta oscila cerca de la superficie a su frecuencia de resonancia, se detectan cambios en la amplitud y/o fase de la oscilación, reduce el daño sobre la muestra 
+	- No contacto: Separación punta superficie de 0.1 a 1 nm, la punta no toca la superficie, se miden fuerzas atractivas de largo alcance, adecuado para muestras frágiles o blandas. 
 - 
