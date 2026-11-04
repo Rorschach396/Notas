@@ -78,6 +78,11 @@
 - La superficie reflectante está hecha de oro o de aluminio 
 - Tiene diferentes modos de operación: 
 	- Contacto: Separación punta superficie menor a 0.5 nm, la punta está en contacto con la superficie, se mide la deflexión del cantilever (debido a fuerzas repulsivas), alta resolución pero mayor desgaste a la punta y a la muestra 
+		- Ventajas: Escaneo rápido, adecuado para superficies rugosas 
+		- Desventajas: Con el tiempo puede dañar las muestras, presenta un mayor desgaste a la punta y a la muestra. 
 	- Contacto intermedio (pulsaciones): Separación punta superficie de 0.5 a 2 nm. La punta oscila cerca de la superficie a su frecuencia de resonancia, se detectan cambios en la amplitud y/o fase de la oscilación, reduce el daño sobre la muestra 
+		- Ventajas: Alta resolución de muestras que son fácilmente dañadas, adecuadas para muestras biológicas, reduce la fuerza lateral y el daño a la muestra
+		- Desventajas: Más retos para imágenes en líquidos, se requieren bajas velocidades de escaneo, interpretación de la imagen más compleja. 
 	- No contacto: Separación punta superficie de 0.1 a 1 nm, la punta no toca la superficie, se miden fuerzas atractivas de largo alcance, adecuado para muestras frágiles o blandas. 
+		- 
 - 
