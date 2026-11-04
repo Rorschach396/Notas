@@ -84,5 +84,9 @@
 		- Ventajas: Alta resolución de muestras que son fácilmente dañadas, adecuadas para muestras biológicas, reduce la fuerza lateral y el daño a la muestra
 		- Desventajas: Más retos para imágenes en líquidos, se requieren bajas velocidades de escaneo, interpretación de la imagen más compleja. 
 	- No contacto: Separación punta superficie de 0.1 a 1 nm, la punta no toca la superficie, se miden fuerzas atractivas de largo alcance, adecuado para muestras frágiles o blandas. 
-		- 
+- STM: Microscopía de efecto túnel de barrido 
+	- Corriente de túnel 
+	- Corriente de túnel 
+	- Topografía 3D a escala atómica, estructura electrónica 
+	- Superficies conductoras
 - 
