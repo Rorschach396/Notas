@@ -71,3 +71,9 @@
 	- Defectos de bordes 
 	- Toda la muestra contribuye a la imagen 
 
+# Microscopía de Fuerza Atómica 
+
+- No se limita a los materiales conductores, sino que también se aplica a películas sólidas delgadas aislantes así como a capas de polímeros o materia biológica 
+- Se encuentra compuesto de una punta en forma de cantilever que termina en punta, este normalmente está hecho de nitruro de silicio o de silicio
+- La superficie reflectante está hecha de oro o de aluminio 
+- 
