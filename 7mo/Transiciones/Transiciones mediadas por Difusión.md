@@ -98,3 +98,4 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 
 ## Engrosamiento en la microestructura espinodal 
 
+- 
