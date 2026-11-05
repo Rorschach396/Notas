@@ -265,4 +265,9 @@ Segundo lugar en el kahoot
 		- Nombres de personas 
 	- Solo dura un año esta madre XD 
 	- 5 años en casos precisos 
-	- 
+
+# 05/11/2026
+
+- Sociedades de gestión colectiva 
+- Son organizaciones que se encargan de ver si alguien está utilizando tu obra para poder notificarlo y así poder cobrarle 
+- 
