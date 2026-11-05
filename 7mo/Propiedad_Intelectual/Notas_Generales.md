@@ -270,4 +270,5 @@ Segundo lugar en el kahoot
 
 - Sociedades de gestión colectiva 
 - Son organizaciones que se encargan de ver si alguien está utilizando tu obra para poder notificarlo y así poder cobrarle 
+- se tiene que conseguir una licencia para poder explotar la música 
 - 
