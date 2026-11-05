@@ -95,3 +95,6 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 	- También se puede amentar la solubilidad para obtener un crecimiento de grano mucho más rápido
 	- Agregar metales pesados (no de los que causan enfermedades) permite regular la difusión de los metales 
 	- Se pueden agregar nanopartículas metálicas en los compuestos poliméricos para poder regular la difusión 
+
+## Engrosamiento en la microestructura espinodal 
+
