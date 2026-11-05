@@ -98,4 +98,12 @@ Si se despeja la longitud de onda ($\lambda$) se puede encontrar cual es la long
 
 ## Engrosamiento en la microestructura espinodal 
 
+- Si se quiere trabajar en la zona spinodal se puede utilizar las siguientes formulas: 
+
+$$
+\begin{gather}
+(\bar{r}{^3}-\bar{r_{0}{^3}}) = kt  \\
+k = D \gamma X_{e}\lambda
+\end{gather}
+$$
 - 
