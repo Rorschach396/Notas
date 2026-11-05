@@ -106,4 +106,4 @@ $$
 k = D \gamma X_{e}\lambda
 \end{gather}
 $$
-- 
+- Ods dispersión de óxidos. 
