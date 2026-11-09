@@ -13,3 +13,5 @@
 - La piel entre más la jalas más dura se pone 
 - Síntesis en medios acuosos 
 - Concentración micelar crítica, se tienen transformaciones de fase 
+- Plasma frio que se elimina toda la parte orgánica del material 
+- 
