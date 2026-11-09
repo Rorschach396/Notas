@@ -14,4 +14,5 @@
 - Síntesis en medios acuosos 
 - Concentración micelar crítica, se tienen transformaciones de fase 
 - Plasma frio que se elimina toda la parte orgánica del material 
+- Tioles se pegan un huevo al oro 
 - 
