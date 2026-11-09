@@ -1,0 +1,3 @@
+- Ingeniería de tejidos 
+- Poder meter un material sólido dentro del cuerpo 
+- 
