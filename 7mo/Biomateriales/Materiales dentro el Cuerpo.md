@@ -16,4 +16,7 @@
 - Plasma frio que se elimina toda la parte orgánica del material 
 - Tioles se pegan un huevo al oro 
 - Radio de curvatura: radio que tiene la punta del AFM 
-- 
+
+$$
+\frac{Q}{\Delta t} = \frac{kA}{L}\Delta T
+$$
