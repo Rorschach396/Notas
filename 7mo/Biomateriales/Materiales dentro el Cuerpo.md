@@ -11,4 +11,5 @@
 	- Normalmente son semisólidos 
 - Mismo material pero con diferentes espaciamiento entre los anclajes 
 - La piel entre más la jalas más dura se pone 
-- 
+- Síntesis en medios acuosos 
+- Concentración micelar crítica, se tienen transformaciones de fase 
