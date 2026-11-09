@@ -9,4 +9,5 @@
 - Efecto de la dureza 
 - hidrogel: Material que retiene agua dentro de su estructura pero no la integra químicamente. 
 	- Normalmente son semisólidos 
+- Mismo material pero con diferentes espaciamiento entre los anclajes 
 - 
