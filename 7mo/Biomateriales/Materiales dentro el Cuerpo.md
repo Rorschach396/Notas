@@ -2,4 +2,5 @@
 - Poder meter un material sólido dentro del cuerpo 
 - Muy pocas células pueden vivir flotando 
 - Diseño racional de un material 
+- La superficie del material determina como es que se diferencia la célula 
 - 
