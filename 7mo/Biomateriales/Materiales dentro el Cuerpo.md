@@ -15,4 +15,4 @@
 - Concentración micelar crítica, se tienen transformaciones de fase 
 - Plasma frio que se elimina toda la parte orgánica del material 
 - Tioles se pegan un huevo al oro 
-- 
+- Radio de curvatura: radio que tiene la punta del AFM 
