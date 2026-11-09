@@ -7,3 +7,5 @@
 - nanopatrones para poder comprender de forma completa el fenómeno de adhesión de las células 
 - RGD: Son un grupo de aminoácidos que se repiten un chingo en fenómenos de adhesión entre las células y el material base 
 - Efecto de la dureza 
+- hidrogel: Material que retiene agua dentro de su estructura pero no la integra químicamente. 
+- 
