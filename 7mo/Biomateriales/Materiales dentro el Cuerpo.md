@@ -6,4 +6,4 @@
 - Periostio: Capa que recubre los huesos, principalmente el femur
 - nanopatrones para poder comprender de forma completa el fenómeno de adhesión de las células 
 - RGD: Son un grupo de aminoácidos que se repiten un chingo en fenómenos de adhesión entre las células y el material base 
-- 
+- Efecto de la dureza 
