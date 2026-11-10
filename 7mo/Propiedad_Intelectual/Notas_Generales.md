@@ -272,3 +272,7 @@ Segundo lugar en el kahoot
 - Son organizaciones que se encargan de ver si alguien está utilizando tu obra para poder notificarlo y así poder cobrarle 
 - se tiene que conseguir una licencia para poder explotar la música 
 - Los derechos de autor se violan cuando una persona replica una obra sin autorización 
+
+# 10/11/2026
+Se va a empezar a ver un tema nuevo, protección internacional 
+-  

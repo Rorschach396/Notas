@@ -36,6 +36,3 @@
 	- el instrumento para la cración de organismos administrativos 
 	- Un vergo más que no anoté 
 
-# 10/11/2026
-Se va a empezar a ver un tema nuevo, protección internacional 
-- 
