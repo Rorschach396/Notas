@@ -107,6 +107,7 @@ k = D \gamma X_{e}\lambda
 \end{gather}
 $$
 - Ods dispersión de óxidos. 
+- Tiempo crítico: nos da el radio crítico que es el tamaño máximo de grano, 
 
 
 # 
