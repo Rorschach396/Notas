@@ -111,3 +111,5 @@ $$
 
 
 # 
+
+Transformaciones mistas/presentación de trans/combinación de precipitación con cizallamiento/temple con presipitación/
