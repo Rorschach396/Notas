@@ -1,1 +1,10 @@
+- Técnica que se utiliza para medir el tamaño de las partículas dispersas en un líquido (suspensión), especialmente en la escala submicrométrica y nanométrica 
+- Puede emplearse para determinar: 
+	- Tamaño de partícula,
+	- Distribución de tamaño 
+	- Peso molecular 
+	- Procesos de relajación en fluidos complejos 
+- Movimiento browniano: El movimiento aleatorio de partículas debido a la interacción continua con las moléculas del solvente que las rode 
+- DDL: Mide la velocidad de las partículas bajo el movimiento Browniano 
+- Pequeñas partículas difunden rápidamente, partículas grandes difunden más lento
 - 
