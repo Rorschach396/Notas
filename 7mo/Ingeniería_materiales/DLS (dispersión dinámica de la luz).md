@@ -16,4 +16,11 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - eta no tengo idea no me dejó copiar el doc 
 
 - El diámetro hidrodinámico depende de la fuerza iónica, superficie estructural y de la forma de la partícula 
+- En el caso del DLS se tienen las siguientes partes: 
+	- Láser: Fuente de luz monocromática y coherente que ilumina la muestra 
+	- Celda (cubeta): Contiene la muestra en suspensión donde las partículas dispersan la luz 
+	- Detector de fotones (diodo de avalancha): Registra las fluctuaciones de intensidad de la luz dispersada con alta sensibilidad 
+	- Procesador de señal (correlador): Analiza la autocorrelación de señal de intensidad para obtener el coeficiente 
+- En partículas pequeñas la interacción es más parecida al ruido, mientras que las partículas más grandes se genera una curva mucho más "smooth"
+- En este caso también se tiene interferencia constructiva y destructiva. 
 - 
