@@ -28,4 +28,11 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Patrón de speckle: Es la superposición de múltiples interferencias constructivas y destructivas de la luz dispersada por las partículas en movimiento 
 - ![[Pasted image 20261111084813.png|377]]
 - Just pump blod nigga 
+- una suspensión de nanopartículas se analiza por DLS. Para un tiempo de retardo de 200 $\mu s$ se obtiene un G($\tau$)= 1.50. El factor instrumental es beta = 0.80. el Equipo utiliza un laser de 633 nm con un ángulo de dispersion de 90°. La suspensión está en agua a 25°C
+- Tiempo de retardo 200 $\mu s$ 
+- $\theta$ = 90° 
+- n= 1.33
+- $\eta$ = 0.89 x 10 -9 Pa* s
+- k = 1.380649 x 10 -3 j/k
+- Calculo de la constante de decaimiento 
 - 
