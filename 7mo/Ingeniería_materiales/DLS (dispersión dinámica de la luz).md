@@ -27,4 +27,5 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - En este caso también se tiene interferencia constructiva y destructiva. 
 - Patrón de speckle: Es la superposición de múltiples interferencias constructivas y destructivas de la luz dispersada por las partículas en movimiento 
 - ![[Pasted image 20261111084813.png|377]]
+- Just pump blod nigga 
 - 
