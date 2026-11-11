@@ -13,7 +13,9 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Donde dH es el diámetro hidrodinámico 
 - k es la constante de Boltzmann 
 - T es la temperatura 
-- eta no tengo idea no me dejó copiar el doc 
+- eta es la viscosidad del medio a temperatura T 
+- D es el coeficiente de difusión 
+- 
 
 - El diámetro hidrodinámico depende de la fuerza iónica, superficie estructural y de la forma de la partícula 
 - En el caso del DLS se tienen las siguientes partes: 
@@ -23,4 +25,6 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 	- Procesador de señal (correlador): Analiza la autocorrelación de señal de intensidad para obtener el coeficiente 
 - En partículas pequeñas la interacción es más parecida al ruido, mientras que las partículas más grandes se genera una curva mucho más "smooth"
 - En este caso también se tiene interferencia constructiva y destructiva. 
+- Patrón de speckle: Es la superposición de múltiples interferencias constructivas y destructivas de la luz dispersada por las partículas en movimiento 
+- ![[Pasted image 20261111084813.png|377]]
 - 
