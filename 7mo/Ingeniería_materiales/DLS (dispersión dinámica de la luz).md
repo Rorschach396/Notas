@@ -33,6 +33,6 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - $\theta$ = 90° 
 - n= 1.33
 - $\eta$ = 0.89 x 10 -9 Pa* s
-- k = 1.380649 x 10 -3 j/k
+- k = 1.380649 x 10 -23 j/k
 - Calculo de la constante de decaimiento 
 - 
