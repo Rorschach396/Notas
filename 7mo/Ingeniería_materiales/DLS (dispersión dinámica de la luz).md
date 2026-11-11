@@ -35,4 +35,8 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - $\eta$ = 0.89 x 10 -9 Pa* s
 - k = 1.380649 x 10 -23 j/k
 - Calculo de la constante de decaimiento 
-- 
+
+# Modelo de la doble capa eléctrica 
+- La mayoría de las sustancias adquieren una carga eléctrica superficial cuando se ponen en contacto con un medio polar 
+- Esta carga superficial modifica la distribución de los iones cercanos en el medio polar 
+- Los iones de carga opuesta (contraiones) son atraídos hacia la superficie mientras que los iones de carga similar tienden a ser repelidos 
