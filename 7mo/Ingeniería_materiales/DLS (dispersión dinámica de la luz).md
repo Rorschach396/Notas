@@ -43,4 +43,11 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Los posibles mecanismos de carga son la ionización, la adsorción de iones y disolución de iones
 	- Ionización: Las proteínas adquieren su carga principalmente a través de la ionización de grupos carboxilo y aminas para dar COO- y iones NH3
 	- Adsorción de iones: Una carga superficial neta se puede adquirir por la adsorción desigual de iones de carga opuesta. La adsorción de iones puede implicar concentraciones de exceso de superficie positivas o negativas
-	- 
+- Potencial z: Es el potencial electrocinética en el plano de deslizamiento de una partícula dispersa que refleja el potencial eléctrico de la doble capa interfacial y se relaciona con carga superficial y estabilidad coloidal 
+- Doble capa y plano de deslizacimiento:
+	- Capa de stern: Iones fuertemente adsorbidos a la superficie 
+	- Capa difusa: Iones menos asociados con movilidad en la solución 
+	- Plano de desplazamiento: Límite a partir del cual los iones dejan de moverse con la partícula, en este plano se mide el potencial zeta 
+	- Indica la magnitud y signo de la carga efectiva 
+	- Permite predecir la estabilidad de la dispersión coloidal 
+- 
