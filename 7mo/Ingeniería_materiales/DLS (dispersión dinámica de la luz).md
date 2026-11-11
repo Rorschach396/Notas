@@ -42,4 +42,5 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Los iones de carga opuesta (contraiones) son atraídos hacia la superficie mientras que los iones de carga similar tienden a ser repelidos 
 - Los posibles mecanismos de carga son la ionización, la adsorción de iones y disolución de iones
 	- Ionización: Las proteínas adquieren su carga principalmente a través de la ionización de grupos carboxilo y aminas para dar COO- y iones NH3
+	- Adsorción de iones: Una carga superficial neta se puede adquirir por la adsorción desigual de iones de carga opuesta. La adsorción de iones puede implicar concentraciones de exceso de superficie positivas o negativas
 	- 
