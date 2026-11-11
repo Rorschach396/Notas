@@ -26,7 +26,7 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - En partículas pequeñas la interacción es más parecida al ruido, mientras que las partículas más grandes se genera una curva mucho más "smooth"
 - En este caso también se tiene interferencia constructiva y destructiva. 
 - Patrón de speckle: Es la superposición de múltiples interferencias constructivas y destructivas de la luz dispersada por las partículas en movimiento 
-- ![[Pasted image 20261111084813.png|377]]
+- ![[Pasted image 20261111084813.png|880]]
 - Just pump blod nigga 
 - una suspensión de nanopartículas se analiza por DLS. Para un tiempo de retardo de 200 $\mu s$ se obtiene un G($\tau$)= 1.50. El factor instrumental es beta = 0.80. el Equipo utiliza un laser de 633 nm con un ángulo de dispersion de 90°. La suspensión está en agua a 25°C
 - Tiempo de retardo 200 $\mu s$ 
