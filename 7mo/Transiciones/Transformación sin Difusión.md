@@ -24,4 +24,5 @@
 - Cristalografía de la martensita: 
 	- Dentro de un grano, todas las placas crecen en un número limitado de orientaciones. La morfología y las variantes de orientación. 
 	- Movimiento limitado por el tipo de estructura (tetragonal o octagonal, en la de menos es más fácil)
+	- El modelo de Bain nomás funciona en el papel XD 
 	- 
