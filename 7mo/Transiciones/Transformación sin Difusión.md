@@ -7,5 +7,6 @@
 - Aceros Maraging: Martensita endurecida por precipitación. Combina alta resistencia con buena tenasidad 
 - Características: 
 	- La martensita aparece en micrografías como un proceso aparentemente aleatorio, las placas tienen forma de lente y abarcan inicialmente todo el diámetro del grano. La densidad es independiente del tamaño de grano de la austenita. Una placa completamente desarrollada puede formarse en el tiempo mencionado en [[Transformación sin Difusión#^a2f56e]] que es casi la velocidad del sonido 
-	- nunca se va a lograr obtener una eficiencia del 100%, siempre se va a terminar teniendo un remantente (aproxximadamente del 15%) de austenita 
-	- $\alpha elev$
+	- nunca se va a lograr obtener una eficiencia del 100%, siempre se va a terminar teniendo un remanente (aproximadamente del 15%) de austenita, debido a que siempre se tiene la parte de la energía superficial.
+	- La placa de martensita permanece macroscópicamente coherente con la austenita. Las líneas en la superficie pulida se desplazan pero permanecen continuas en todo momento, es decir, se desplaza pero no se pierde 
+	- La fuerza impulsora de este tipo de transformaciones 
