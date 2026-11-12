@@ -10,3 +10,4 @@
 	- nunca se va a lograr obtener una eficiencia del 100%, siempre se va a terminar teniendo un remanente (aproximadamente del 15%) de austenita, debido a que siempre se tiene la parte de la energía superficial.
 	- La placa de martensita permanece macroscópicamente coherente con la austenita. Las líneas en la superficie pulida se desplazan pero permanecen continuas en todo momento, es decir, se desplaza pero no se pierde 
 	- La fuerza impulsora de este tipo de transformaciones 
+- $\alpha$
