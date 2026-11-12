@@ -22,4 +22,6 @@
 	- $a+\cancelto{2y}{xd}$
 - En el caso de la memoria de forma, se tiene una reversibilidad que depende de que la interfaz entre fases coherentes sea de baja energía en cerámicos, el reto adicional es la fragilidad, debido a que si la fractura se lleva a cabo antes de la transformación pues entonces ya no es reversible 
 - Cristalografía de la martensita: 
+	- Dentro de un grano, todas las placas crecen en un número limitado de orientaciones. La morfología y las variantes de orientación. 
+	- Movimiento limitado por el tipo de estructura (tetragonal o octagonal, en la de menos es más fácil)
 	- 
