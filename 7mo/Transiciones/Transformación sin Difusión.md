@@ -3,4 +3,4 @@
 - En principio todos los metales pueden transformarse sin difusión si la velocidad de enfriamiento es suficientemente rápida
 - $k = X_{e}\cancel{D}\gamma$
 - Este proceso no depende del tiempo, se necesita que la transformación sea casi instantánea debe de suceder aproximadamente a $1 \times 10{^{-7}}$ segundos 
-- 
+- Ya está demasiado explorado como tal, este proceso es algo relativamente 
