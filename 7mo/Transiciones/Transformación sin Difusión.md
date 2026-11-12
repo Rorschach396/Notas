@@ -1,0 +1,6 @@
+- Transformación en la que, del inicio al fin, los movimientos atómicos individuales son menores que un espaciado atómico. El producto se denomina martensita. 
+- En general los átomos cambian de posición de forma regimental
+- En principio todos los metales pueden transformarse sin difusión si la velocidad de enfriamiento es suficientemente rápida
+- $k = X_{e}\cancel{D}\gamma$
+- Este proceso no depende del tiempo, se necesita que la transformación sea casi instantánea debe de suceder aproximadamente a $1 \times 10{^{-7}}$ segundos 
+- 
