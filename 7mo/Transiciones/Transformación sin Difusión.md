@@ -4,10 +4,21 @@
 - $k = X_{e}\cancel{D}\gamma$
 - Este proceso no depende del tiempo, se necesita que la transformación sea casi instantánea debe de suceder aproximadamente a $1 \times 10{^{-7}}$ segundos  ^a2f56e
 - Ya está demasiado explorado como tal, este proceso es algo relativamente 
-- Aceros Maraging: Martensita endurecida por precipitación. Combina alta resistencia con buena tenasidad 
+- Aceros Maraging: Martensita endurecida por precipitación. Combina alta resistencia con buena tenacidad 
 - Características: 
 	- La martensita aparece en micrografías como un proceso aparentemente aleatorio, las placas tienen forma de lente y abarcan inicialmente todo el diámetro del grano. La densidad es independiente del tamaño de grano de la austenita. Una placa completamente desarrollada puede formarse en el tiempo mencionado en [[Transformación sin Difusión#^a2f56e]] que es casi la velocidad del sonido 
 	- nunca se va a lograr obtener una eficiencia del 100%, siempre se va a terminar teniendo un remanente (aproximadamente del 15%) de austenita, debido a que siempre se tiene la parte de la energía superficial.
 	- La placa de martensita permanece macroscópicamente coherente con la austenita. Las líneas en la superficie pulida se desplazan pero permanecen continuas en todo momento, es decir, se desplaza pero no se pierde 
 	- La fuerza impulsora de este tipo de transformaciones 
-- La transformación martensítica se puede dar en la zirconia, en este caso 
+- La transformación martensítica se puede dar en la zirconia, %%se puede controlar la difusión a través de la dispersión de óxidos metálicos como en el caso de [[Transiciones mediadas por Difusión]] con la dispersión mediada por difusión%% pasa de tetragonal a monoclínica su estructura 
+- Para la formación de este tipo de materiales se puede estabilizar la zirconia con cerio para poder formar las agujas y así frenar los defectos cristalinos o las grietas 
+- Todo esto se puede detectar por DRX 
+- Problemas
+	- Cuando se llevan a cabo estas transformaciones se tiene una modificación en el volumen y se adquiere un exceso de energía superficial lo que afecta al proceso de envejecimiento del material, esto da huecos en el material (más que nada con los cerámicos). 
+- Se tienen 3 sistemas posibles 
+	- Titanato de plomo: Al momento de doparlo se puede obtener memoria de forma y superelasticidad 
+	- Silicato de sodio: Encontrado en el cemento, presenta cambios de volumen de hasta el 12%, esto es muy relevante en materiales de construcción de alta temperatura. El cemento no se reutiliza por que siempre va a salir más barato sacarlo de la mina que volverlo a procesar debido a que se requiere demasiada energía para poder procesarlo. 
+	- Unificación
+	- $a+\cancelto{2y}{xd}$
+- En el caso de la memoria de forma, se tiene una reversibilidad que depende de que la interfaz entre fases coherentes sea de baja energía en cerámicos, el reto adicional es la fragilidad, debido a que si la fractura se lleva a cabo antes de la transformación pues entonces ya no es reversible 
+- 
