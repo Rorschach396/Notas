@@ -2,7 +2,10 @@
 - En general los átomos cambian de posición de forma regimental
 - En principio todos los metales pueden transformarse sin difusión si la velocidad de enfriamiento es suficientemente rápida
 - $k = X_{e}\cancel{D}\gamma$
-- Este proceso no depende del tiempo, se necesita que la transformación sea casi instantánea debe de suceder aproximadamente a $1 \times 10{^{-7}}$ segundos 
+- Este proceso no depende del tiempo, se necesita que la transformación sea casi instantánea debe de suceder aproximadamente a $1 \times 10{^{-7}}$ segundos  ^a2f56e
 - Ya está demasiado explorado como tal, este proceso es algo relativamente 
 - Aceros Maraging: Martensita endurecida por precipitación. Combina alta resistencia con buena tenasidad 
-- Aceros ausformados: $$
+- Características: 
+	- La martensita aparece en micrografías como un proceso aparentemente aleatorio, las placas tienen forma de lente y abarcan inicialmente todo el diámetro del grano. La densidad es independiente del tamaño de grano de la austenita. Una placa completamente desarrollada puede formarse en el tiempo mencionado en [[Transformación sin Difusión#^a2f56e]] que es casi la velocidad del sonido 
+	- nunca se va a lograr obtener una eficiencia del 100%, siempre se va a terminar teniendo un remantente (aproxximadamente del 15%) de austenita 
+	- $\alpha elev$
