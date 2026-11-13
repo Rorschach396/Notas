@@ -224,4 +224,7 @@ Notas exposiciones de negocios compañeros
 - ¿Como se tiene que utilizar el producto? 
 - Especificar de forma completa el proceso del producto, forma en la que se va a utilizar y se va a tener que desechar 
 - Especificar como se va a vender y como es que se va a dejar y así 
+
+# 13/11/2026
+
 - 
