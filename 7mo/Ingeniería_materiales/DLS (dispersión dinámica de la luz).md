@@ -93,3 +93,6 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Participa el desplazamiento Doppler que se puede obtener de la siguiente ecuación 
 - $\frac{\Delta{}F}{f} \propto \frac{n_{0}v}{c}$
 	- $\Delta{}f$ Desplazamiento de la frecuencia 
+	- f frecuencia 
+	- no me dejó copiar el doc XD 
+- 
