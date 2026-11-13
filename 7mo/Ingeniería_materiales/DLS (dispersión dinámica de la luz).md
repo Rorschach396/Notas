@@ -84,4 +84,11 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - El potencial Z no se puede medir directamente, para poder determinar el potencial z es necesario seguir la velocidad a la que se mueve una partícula cargada en respuesta a un campo eléctrico 
 - Las partículas que poseen un potencial zeta migrarán hacia el electrodo de carga opuesta 
 - ![[Pasted image 20261113093806.png]]
+- La velocidad normalmente se mide usando un anemómetro láser Doppler 
+- la movilidad electrónica está dada por la siguiente ecuación: 
+	- $\mu_{e}=\frac{v}{E}$
+		- $\mu_{e}$ Movilidad electroforética 
+		- V: velocidad de la partícula 
+		- E campo eléctrico aplicado 
+- Participa el desplazamiento Doppler que se puede obtener de la siguiente equación 
 - 
