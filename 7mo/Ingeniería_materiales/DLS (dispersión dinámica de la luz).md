@@ -50,4 +50,29 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 	- Plano de desplazamiento: Límite a partir del cual los iones dejan de moverse con la partícula, en este plano se mide el potencial zeta 
 	- Indica la magnitud y signo de la carga efectiva 
 	- Permite predecir la estabilidad de la dispersión coloidal 
+- Cuando se tiene un alto potencial Z el coloide es estable, mientras que se tiene un bajo potencial Z el coloide es inestable
+- $\zeta \ge 30mV \rightarrow estable$
+
+# Teoría DLVO 
+
+- $V_{t} = V_{a}+V_{r}$
+	- Energía total de interacción Vt 
+	- Energía de atracción Va
+	- Energía de repulsión Vr 
+- Inestable: La atracción domina, no hay barrera energética significativa, las partículas se agregan (coagulación)
+- Metaestable: Existe una barrera energética intermedia, las partículas pueden permanecer dispersas pero con el tiempo se pueden agregar. 
+- Estable: Hay una barrera energética alta, las partículas no superan la barrera y la dispersión se mantiene estable. 
+- Elementos clave: 
+	- Mínimo primario, la atracción es muy fuerte, lo que da como resultado una agregación casi irreversible 
+	- Mínimo secundario: Atracción débil, esta agregación es reversible. 
+- La estabilidad del coloide aumenta entre más grande es la barrera 
+
+| magnitud del potencial | Comportamiento                   |
+| ---------------------- | -------------------------------- |
+| 0 a 5                  | Coagulación o floculación rápida |
+| 10 a 30                | Inestabilidad incipiente         |
+| 30 a 40                | Estabilidad moderada             |
+| 40 a 60                | Buena estabilidad                |
+| más de 60              | Excelente estabilidad            |
+- El potencial Z depende del pH 
 - 
