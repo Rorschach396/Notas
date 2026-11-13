@@ -229,4 +229,4 @@ Notas exposiciones de negocios compañeros
 
 - Cuando nomás usas, cualquier cosa se puede volver desechable 
 - Pura banda que pensaba como mi compa el ted 
-- 
+- Acracia: 
