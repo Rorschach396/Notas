@@ -81,3 +81,7 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Normalmente es el punto más inestable 
 - pH menor a 4 y mayor a 8 es estable 
 - Si el pH está entre 4 y 8 es inestable 
+- El potencial Z no se puede medir directamente, para poder determinar el potencial z es necesario seguir la velocidad a la que se mueve una partícula cargada en respuesta a un campo eléctrico 
+- Las partículas que poseen un potencial zeta migrarán hacia el electrodo de carga opuesta 
+- ![[Pasted image 20261113093806.png]]
+- 
