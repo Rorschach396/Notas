@@ -79,3 +79,5 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 - Puede haber un punto donde la curva pasa por un potencial zeta de cero, esto es conocido como punto isoeléctrico 
 - El punto isoeléctrico es el pH al que un polianfolito tiene carga neta 0
 - Normalmente es el punto más inestable 
+- pH menor a 4 y mayor a 8 es estable 
+- Si el pH está entre 4 y 8 es inestable 
