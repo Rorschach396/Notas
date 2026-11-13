@@ -75,4 +75,7 @@ $d_{H} = \frac{kT}{3\pi \eta D}$
 | 40 a 60                | Buena estabilidad                |
 | más de 60              | Excelente estabilidad            |
 - El potencial Z depende del pH 
-- 
+- En general el potencial z frente a la curva de pH será positivo a pH bajo y menor o negativo a pH alto 
+- Puede haber un punto donde la curva pasa por un potencial zeta de cero, esto es conocido como punto isoeléctrico 
+- El punto isoeléctrico es el pH al que un polianfolito tiene carga neta 0
+- Normalmente es el punto más inestable 
