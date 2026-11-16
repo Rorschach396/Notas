@@ -1,4 +1,4 @@
 # Definiciones
 <mark style="background: #FF5582A6;"> Transiciones de orden mixto</mark>: Son transiciones de fase que muestran propiedades tanto de transiciones de primer orden como de segundo orden. Esto quiere decir que muestran un cambio abrupto en el parámetro de orden al mismo tiempo que muestran una desviación en la correlación de la longitud. 
 
-Transiciones de primer orden: Surge de la clasificación de Ehrenfest, que fue hecha en 1933 por Paul Ehrenfest
+Transiciones de primer orden: Surge de la clasificación de Ehrenfest, que fue hecha en 1933 por Paul Ehrenfest, en el caso de estas transiciones se presenta un cambio o "salto" en la entropía $S=-\left( \frac{\partial{}G}{\partial{}T} \right)_{p}$ o en el volumen $v=\left( \frac{\partial{}G}{\partial{}p} \right)_{T}$ en el punto de transición. 
