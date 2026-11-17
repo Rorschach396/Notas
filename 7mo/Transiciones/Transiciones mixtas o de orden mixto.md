@@ -32,3 +32,7 @@ P(l)\propto \frac{1}{l^{c}}
 \end{gather}
 $$
 En este caso se puede ver que la función tiene ambos comportamientos (tanto el de una transición de primer orden como de segundo orden), esto debido a que cuando c >2 (caso de la ecuación de p nomás con l) el valor promedio del tamaño de los bucles diverge. Además de esto en el caso de la ecuación de P con T y l esta se puede volver infinito cuando la ecuación de zeta tiende a infinito. Esto se puede ver muy similar a lo que sucede con el ==🔴*Condensado de Bose-Einstein*==, donde llegando a una determinada temperatura, se puede considerar que toda la cadena de ADN pasa a ser una sola burbuja. 
+
+$$
+\zeta \propto |T-T_{c}|^{-v}
+$$
