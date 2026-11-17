@@ -279,4 +279,4 @@ Se va a empezar a ver un tema nuevo, protección internacional
 # 17/11/2026
 
 - Patente provisional: Se puede solicitar antes de tener la aplicación de la patente para poder obtener la patente. 
-- 
+- hay nuevos tipos de marcas: De posición, de movimiento, 
