@@ -11,12 +11,12 @@
 10) ~~Redacción preliminar de la práctica de metalografía~~ 
 11) ~~<mark style="background: #ADCCFFA6;">Montaje del molde de inyección </mark>~~
 12) ~~<mark style="background: #FFF3A3A6;">Desmontaje del molde de inyección </mark>~~
-13) ~~<mark style="background: #FFF3A3A6;">Construcción del segundo prototipo de ensayo de tensión </mark>~~
+13) Construcción del segundo prototipo de ensayo de tensión %%quedó para el segundo reporte%% 
 14) ~~Colaboración en la habilitación del molino de quijadas~~ 
 15) ~~<mark style="background: #FF5582A6;">Colaboración en el proceso de molienda manual del yeso </mark>~~
 16) ~~<mark style="background: #FF5582A6;"> Colaboración en el proceso de molienda en el molino de quijadas del yeso</mark>~~
 17) ~~Recolección de yeso en la unidad de órtesis y prótesis~~ 
-18) Tamizado del yeso molido 
+18) ~~Tamizado del yeso molido~~ 
 19) Secado del yeso molido 
 20) <mark style="background: #ADCCFFA6;">Diseño de molde para probeta de yeso </mark>
 21) <mark style="background: #ADCCFFA6;">Fabricación de probetas de yeso </mark>
