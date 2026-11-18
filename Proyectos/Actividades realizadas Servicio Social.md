@@ -8,7 +8,7 @@
 8) ==<mark style="background: #FF5582A6;">Capacitación para poder retirar el molde de inyección </mark>
 9) Construcción del prototipo de la máquina de ensayo de tensión 
 10) Redacción preliminar de la práctica de ensayo de tensión 
-11) Redacción preliminar de la práctica de recristalización 
+11) Realización de la experimentación para la práctica de  recristalización 
 12) Redacción preliminar de la práctica de metalografía 
 13) <mark style="background: #ADCCFFA6;">Montaje del molde de inyección </mark>
 14) <mark style="background: #FFF3A3A6;">Desmontaje del molde de inyección </mark>
