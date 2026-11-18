@@ -39,4 +39,5 @@
 39) Actuación para los videos de cobrizado 
 40) Actuación para los videos de seguridad en el laboratorio 
 41) Actuación para los videos de difusión de la carrera 
-42) 
+42) Participación en la feria de ciencias 
+43) 
