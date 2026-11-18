@@ -21,23 +21,21 @@
 20) <mark style="background: #ADCCFFA6;">Diseño de molde para probeta de yeso </mark>
 21) <mark style="background: #ADCCFFA6;">Fabricación de probetas de yeso </mark>
 22) Mantenimiento del molde de inyección 
-23) <mark style="background: #ADCCFFA6;">Rearmado del molde de inyección </mark>
-24) <mark style="background: #FFF3A3A6;">Desarmado del molde de inyección</mark>
-25) Redacción preliminar de la práctica de termoformado 
-26) <mark style="background: #FFF3A3A6;">Diseño de molde para termoformado </mark>
-27) <mark style="background: #ADCCFFA6;">Fabricación del molde para termoformado</mark>
-28) Colaboración en la digitalización del molde de inyección 
-29) Colaboración en la realización de práctica de metalografía 
-30) Colaboración en la realización en la práctica de diagrama de fases 
-31) Colaboración en la realización de la práctica de ensayo de tensión 
-32) Colaboración en la realización de práctica de cobrizado 
-33) <mark style="background: #ADCCFFA6;">Redacción preliminar de anexo de seguridad </mark>
-34) Actuación para los videos de difusión de tensión 
-35) Actuación para los videos de metalografía 
-36) Actuación para los videos de diagramas de fases 
-37) Actuación para los videos de cobrizado 
-38) Actuación para los videos de seguridad en el laboratorio 
-39) Actuación para los videos de difusión de la carrera 
-40) Participación en la feria de ciencias 
-41) <mark style="background: #FF5582A6;">Participación en las puertas abiertas de la enes </mark>
-42) 
+23) Redacción preliminar de la práctica de termoformado 
+24) <mark style="background: #FFF3A3A6;">Diseño de modelos para termoformado </mark>
+25) <mark style="background: #ADCCFFA6;">Fabricación de modelos para termoformado</mark>
+26) Colaboración en la digitalización del molde de inyección 
+27) Colaboración en la realización de práctica de metalografía 
+28) Colaboración en la realización en la práctica de diagrama de fases 
+29) Colaboración en la realización de la práctica de ensayo de tensión 
+30) Colaboración en la realización de práctica de cobrizado 
+31) <mark style="background: #ADCCFFA6;">Redacción preliminar de anexo de seguridad </mark>
+32) Actuación para los videos de difusión de tensión 
+33) Actuación para los videos de metalografía 
+34) Actuación para los videos de diagramas de fases 
+35) Actuación para los videos de cobrizado 
+36) Actuación para los videos de seguridad en el laboratorio 
+37) Actuación para los videos de difusión de la carrera 
+38) Participación en la feria de ciencias 
+39) <mark style="background: #FF5582A6;">Participación en las puertas abiertas de la enes (Practica de cobrizado) </mark>
+40) 
