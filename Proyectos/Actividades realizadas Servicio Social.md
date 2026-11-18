@@ -1,7 +1,7 @@
 
 1) Limpieza y mantenimiento de la máquina de inyección 
-2) Diseño de práctica de ensayo de tensión en polímeros 
-3) Diseño de práctica de ensayo de tensión en alambres metálicos
+2) <mark style="background: #ADCCFFA6;">Diseño de práctica de ensayo de tensión en polímeros</mark> 
+3) <mark style="background: #FFF3A3A6;">Diseño de práctica de ensayo de tensión en alambres metálicos</mark>
 4) Colaboración en la realización de práctica de metalografía 
 5) <mark style="background: #FF5582A6;">Limpieza general del laboratorio </mark>
 6) ==<mark style="background: #FF5582A6;">Capacitación para poder retirar el molde de inyección </mark>
