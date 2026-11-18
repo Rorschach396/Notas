@@ -43,3 +43,7 @@ En el primer bimestre del Servicio Social se me brindó la oportunidad de trabaj
 
 Además de esto, pude obtener experiencia en el mantenimiento y movimiento de moldes para máquinas de inyección de plásticos, esto es de suma importancia debido a que es un sector de trabajo bastante necesitado en la industria. En el caso del movimiento de moldes de inyección, se pudo aprender de forma práctica cual es la forma segura de poder desarmar el molde de inyección, esto principalmente por que el molde de inyección tiene una gran cantidad de piezas que, de no desarmarlo y armarlo en una forma precisa, se pueden dañar; lo que generaría que el molde quedara inutilizable o que produjera piezas con errores. Al momento de realizar mantenimiento al molde y a la máquina de inyección se aseguró que este material pueda ser utilizado por el alumnado de forma segura y que pueda durar una mayor cantidad de tiempo. 
 
+
+
+
+Durante este bimestre logré obtener una gran cantidad de conocimiento, 
