@@ -38,4 +38,5 @@
 37) Actuación para los videos de difusión de la carrera 
 38) Participación en la feria de ciencias 
 39) <mark style="background: #FF5582A6;">Participación en las puertas abiertas de la enes (Practica de cobrizado) </mark>
-40) 
+
+En el primer bimestre del Servicio Social se me brindó la oportunidad de trabajar en el Laboratorio de Procesamiento de Plásticos, principalmente en la elaboración y asistencia en la realización de prácticas de laboratorio para el alumnado; esto me permitió obtener una gran cantidad de experiencia en la redacción de procedimientos de laboratorio y  
