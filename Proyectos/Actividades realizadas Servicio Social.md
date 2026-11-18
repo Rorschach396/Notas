@@ -32,4 +32,11 @@
 32) Colaboración en la realización en la práctica de diagrama de fases 
 33) Colaboración en la realización de la práctica de ensayo de tensión 
 34) Colaboración en la realización de práctica de cobrizado 
-35) 
+35) <mark style="background: #ADCCFFA6;">Redacción preliminar de anexo de seguridad </mark>
+36) Actuación para los videos de difusión de tensión 
+37) Actuación para los videos de metalografía 
+38) Actuación para los videos de diagramas de fases 
+39) Actuación para los videos de cobrizado 
+40) Actuación para los videos de seguridad en el laboratorio 
+41) Actuación para los videos de difusión de la carrera 
+42) 
