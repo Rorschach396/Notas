@@ -27,4 +27,9 @@
 27) Redacción preliminar de la práctica de termoformado 
 28) <mark style="background: #FFF3A3A6;">Diseño de molde para termoformado </mark>
 29) <mark style="background: #ADCCFFA6;">Fabricación del molde para termoformado</mark>
-30) 
+30) Colaboración en la digitalización del molde de inyección 
+31) Colaboración en la realización de práctica de metalografía 
+32) Colaboración en la realización en la práctica de diagrama de fases 
+33) Colaboración en la realización de la práctica de ensayo de tensión 
+34) Colaboración en la realización de práctica de cobrizado 
+35) 
