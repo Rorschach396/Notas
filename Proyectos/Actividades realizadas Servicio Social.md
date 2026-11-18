@@ -46,4 +46,4 @@ Además de esto, pude obtener experiencia en el mantenimiento y movimiento de mo
 
 
 
-Durante este bimestre logré obtener una gran cantidad de conocimiento, 
+Durante este bimestre logré obtener una gran cantidad de conocimiento, tanto de forma teórica como de forma práctica; esto me permitió adquirir herramientas que me van a ser de suma utilidad en mi carrera universitaria y en futuros trabajos. Además de esto logré reforzar ciertas habilidades blandas como la responsabilidad, organización, administración de tiempos y exposición de información. Estas habilidades son sumamente importantes tanto en la universidad como en los trabajos. 
