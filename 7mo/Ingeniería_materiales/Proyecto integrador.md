@@ -18,4 +18,4 @@ En este caso se puede utilizar HR-TEM y SEM para poder determinar las caracterí
 
 ## Situación 4
 
-En este caso se puede utilizar la espectroscopía UV-Vis, esto 
+En este caso se puede utilizar la espectroscopía UV-Vis, esto debido a que permitiría ver de forma directa la atenuación de la luz que atraviesa o refleja la muestra, esto sumado a que permite procesar la muestra de diferentes formas hace que sea la técnica más viable para poder determinar la absorción de luz que tiene el material  y la cantidad de luz que se refleja de la muestra (en el caso del modo de reflectancia difusa para muestras en polvo). A partir de esta información se podría calcular la 
