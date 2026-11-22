@@ -14,4 +14,4 @@ Una técnica adicional que se podría utilizar para poder obtener una mayor cant
 
 ## Situación 3 
 
-En este caso se puede utilizar HR-TEM y SEM para poder determinar las características de las nanopartícula, esto debido a que permitiría observar de forma clara el tamaño y forma de las nanopartículas, además de que permitiría ver si se tiene un cambio en la morfología de las mismas relacionado con la concentración del extracto, esto debido a que 
+En este caso se puede utilizar HR-TEM y SEM para poder determinar las características de las nanopartícula, esto debido a que permitiría observar de forma clara el tamaño y forma de las nanopartículas, además de que permitiría ver si se tiene un cambio en la morfología de las mismas relacionado con la concentración del extracto. Además de esto se puede utilizar a la part la espectroscopía de energía dispersiva de rayos X para poder determinar una 
