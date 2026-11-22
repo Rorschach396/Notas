@@ -18,3 +18,4 @@ En este caso se puede utilizar HR-TEM y SEM para poder determinar las caracterí
 
 ## Situación 4
 
+En este caso se puede utilizar la espectroscopía UV-Vis, esto 
