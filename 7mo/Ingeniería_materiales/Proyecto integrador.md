@@ -10,4 +10,7 @@ Ambas técnicas permiten la identificación de moléculas que contienen carbono,
 
 La técnica principal que se podría utilizar para poder determinar el parámetro de red, volumen de la celda unitaria, tamaño de los dominios cristalinos y una identificación de posibles fases secundarias es la difracción de rayos X. La dispersión de rayos X permitiría obtener información acerca de la microestructura, además de que con el uso correcto de un software se puede obtener información acerca de posibles contaminantes o fases secundarias dentro del material, esto debido a que dependiendo de la morfología del material se puede presentar una modificación en los picos del espectro de rayos X, esto sumado a que normalmente se tienen bases de datos que contienen una gran cantidad de compuestos previamente analizados se podría realizar una comparación entre el compuesto obtenido y compuestos ya probados para poder obtener los parámetros de red y posibles fases secundarias. 
 
-Una técnica adicional que se podría utilizar para poder obtener una mayor cantidad de información sería 
+Una técnica adicional que se podría utilizar para poder obtener una mayor cantidad de información sería FTIR o Raman, esto debido a que, gracias a la composición de las nanopartículas, se tienen modos de vibración característicos que permitirían corroborar la presencia de una fase determinada. 
+
+## Situación 3 
+
