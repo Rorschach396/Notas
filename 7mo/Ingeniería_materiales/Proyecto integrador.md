@@ -14,3 +14,4 @@ Una técnica adicional que se podría utilizar para poder obtener una mayor cant
 
 ## Situación 3 
 
+En este caso se puede utilizar HR-TEM y SEM para poder determinar las características de las nanopartículas, esto debido a que permite 
