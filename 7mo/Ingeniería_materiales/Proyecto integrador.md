@@ -22,4 +22,8 @@ En este caso se puede utilizar la espectroscopía UV-Vis, esto debido a que perm
 
 ## Situación 5 
 
-Para poder analizar la cantidad de superficie del sólido que se encuentra disponible para interactuar con las moléculas es posible utilizar la técnica de BET para poder determinar el área superficial que tiene las moléculas. Esta técnica permite obtener el el area superficial por unidad de peso que tiene la muestra, esto gracias al uso de gas de nitrógeno que se suele utilizar para este tipo de pruebas. 
+Para poder analizar la cantidad de superficie del sólido que se encuentra disponible para interactuar con las moléculas es posible utilizar la técnica de fisisorción de gases apoyada con el análisis matemático BET para poder determinar el área superficial que tiene las moléculas. Esta técnica permite obtener el el area superficial por unidad de peso que tiene la muestra, esto gracias al uso de gas de nitrógeno que se suele utilizar para este tipo de pruebas.  En caso de que el material sea poroso, se podría obtener información adicional acerca de la porosidad que tiene el materia y la distribución que tienen los poros del material. 
+
+## Situación 6 
+
+En este caso se podría utilizar la técnica de DLS combinada con el potencial Z 
