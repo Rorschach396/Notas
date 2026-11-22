@@ -22,4 +22,4 @@ En este caso se puede utilizar la espectroscopía UV-Vis, esto debido a que perm
 
 ## Situación 5 
 
-Para poder analizar la cantidad de superficie del sólido que se encuentra disponible para interactuar con las moléculas es posible utilizar la técnica de BET para poder determinar el área superficial que tiene las moléculas 
+Para poder analizar la cantidad de superficie del sólido que se encuentra disponible para interactuar con las moléculas es posible utilizar la técnica de BET para poder determinar el área superficial que tiene las moléculas. Esta técnica permite obtener el el area superficial por unidad de peso que tiene la muestra, esto gracias al uso de gas de nitrógeno que se suele utilizar para este tipo de pruebas. 
