@@ -45,6 +45,14 @@ En el caso de la morfología de la partícula presente en las micrografías HR-T
 En el caso del patrón SAED se puede obtener los siguientes planos en cada una de las muestras, estos picos coinciden parcialmente con los picos obtenidos en patrón de difracción de rayos X, la comparación que se hizo entre los picos obtenidos se pueden ver en la siguiente tabla 
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| ZF0.010 |     | ZF0.020 |     | ZF0.030 |     |
+| ------- | --- | ------- | --- | ------- | --- |
+| 111     | 111 | 111     | 111 | 111     | 111 |
+| 220     | 200 | 220     | 200 | 220     | 200 |
+| 400     | 220 | 400     | 220 | 400     | 220 |
+| 422     | 311 | 422     | 311 | 422     | 311 |
+| 511     | 222 | 511     | 222 | 511     | 222 |
+| 440     | 400 | 440     | 400 | 440     | 400 |
+| 533     | 331 | 533     | 331 | 533     | 331 |
+| 444     | 420 | 444     | 420 | 444     | 420 |
+|         | 422 |         | 422 |         | 422 |
