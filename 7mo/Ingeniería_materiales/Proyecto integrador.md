@@ -1,4 +1,6 @@
 # Selección de técnicas de caracterización 
+
+# Parte 1
 ## Situación 1 
 
 Para poder identificar la posible presencia de contaminantes orgánicos en las muestras se pueden utilizar dos técnicas principalmente: Espectroscopía Raman y FTIR. En el caso de la espectroscopía Raman, esta permitiría identificar los grupos funcionales de las moléculas orgánicas, esto debido a que permite analizar las vibraciones intermoleculares e intramoleculares; esto permitiría identificar de forma clara si se tiene una molécula y los enlaces que esta presenta. En el caso de la espectroscopía FTIR funciona principalmente por la absorción de radiación infrarroja, esta técnica también permitiría poder identificar los grupos funcionales presentes en las moléculas orgánicas presentes en forma de contaminantes en las nanopartículas. La combinación de estas dos técnicas permitiría la identificación de posibles contaminantes orgánicos, esto debido a que son técnicas complementarias. 
@@ -26,4 +28,9 @@ Para poder analizar la cantidad de superficie del sólido que se encuentra dispo
 
 ## Situación 6 
 
-En este caso se podría utilizar la técnica de DLS combinada con el potencial Z 
+En este caso se podría utilizar la técnica de DLS combinada con el potencial Z, esto debido a que la técnica de DLS permitiría obtener el tamaño aparente de las partículas en un determinado medio, dependiendo del medio que sea utilizado podría cambiar de forma considerable el tamaño de la partícula debido a las cargas superficiales; además de esto el software del DLS permite obtener una distribución de tamaños, lo que permitiría determinar si existen diferentes poblaciones de tamaños. El potencial zeta permite determinar la carga superficial de las partículas dependiendo del medio en el que se encuentran dispersas y que tan fuerte es la carga superficial de las partículas; además de esto permitiría obtener la estabilidad de la suspensión dependiendo del valor que se obtenga. 
+
+# Parte 2 
+
+## análisis por FTIR 
+
