@@ -38,4 +38,3 @@ En el caso del espectro FITR presentado de las nanopartículas, se puede ver que
 
 En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a diversos motivos, entre los cuales se puede incluir la diminución de la cristalinidad presente en la nanopartícula, esto puede ser atribuido al cambio de la concentración del extracto orgánico, pero no se puede afirmar solo haciendo uso de la información proporcionada por este análisis, para poder corroborarlo de forma total es necesario analizar a mayor profundidad las nanopartículas para poder obtener información más precisa. 
 
-¿nk
