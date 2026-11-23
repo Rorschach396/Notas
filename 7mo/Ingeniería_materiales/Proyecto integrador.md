@@ -34,3 +34,4 @@ En este caso se podría utilizar la técnica de DLS combinada con el potencial Z
 
 ## análisis por FTIR 
 
+En el caso del espectro FITR presentado de las nanopartículas, se puede ver que se tienen 2 bandas principales de absorción, las cuales se encuentran a 414 $cm^{-1}$ y 534 $cm^{-1}$, estas bandas son atribuidas a los enlaces de Fe-O y Zn-O. Debido a que no se encontró ninguna banda por encima de los 600 $cm^{-1}$, se puede decir que el proceso de calcinación que se le dio a las nanopartículas permitió la eliminación de cualquier contaminante orgánico que se pudo haber tenido
