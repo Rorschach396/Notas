@@ -41,3 +41,5 @@ En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a d
 ## Análisis morfológico y elemental 
 
 En el caso de la morfología de la partícula presente en las micrografías HR-TEM, se puede observar una morfología diversa, la cual consta de figuras relativamente regulares, aunque si se percibe un posible cambio en los tamaños de partícula, esto se puede ver mejor en las partículas que se obtuvieron con una mayor cantidad del extracto, esto es más visible en las gráficas de los tamaños, donde a bajas concentraciones del extracto se puede ver que el tamaño de las partículas es mayor a comparación de las partículas que tienen una mayor cantidad de extracto. Otro aspecto que se vio modificado es la aglomeración, ya que al aumentar la cantidad de extracto utilizado en el proceso de síntesis se puede ver un aumento en la aglomeración de las partículas. 
+
+En el caso de los 
