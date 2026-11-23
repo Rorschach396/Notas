@@ -40,3 +40,4 @@ En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a d
 
 ## Análisis morfológico y elemental 
 
+En el caso de la morfología de la partícula presente en las micrografías HR-TEM, se puede observar una morfología diversa, la cual consta de figuras relativamente regulares, 
