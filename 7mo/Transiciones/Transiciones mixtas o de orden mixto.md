@@ -38,3 +38,7 @@ $$
 $$
 
 
+## Transformaciones de fase Mixtas en materiales pero ya por el doc 
+
+- Tienen el proceso difusional o adifusional 
+- 
