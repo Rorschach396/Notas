@@ -68,7 +68,7 @@ Gracias al mapeo elemental se puede ver que se tuvo una reacción homogénea, la
 
 En el caso del análisis de fisisorción de nitrógeno, se puede encontrar que al momento de aumentar la concentración del extracto orgánico se obtiene un aumento en los valores obtenidos a partir del análisis BET, esto se ve claramente en el área superficial obtenida por parte del análisis, donde gracias a este análisis se puede encontrar que la muestra que muestra una mayor superficie es la muestra que contiene una mayor cantidad del extracto, esto se puede deber al tamaño de partícula. Debido a que, como se vio en el punto anterior, se tienen nanopartículas de menor tamaño, se puede encontrar que al momento de reducir el tamaño de las nanopartículas estas aumentan el área superficial de las mismas, dando como resultado que se pueda obtener el resultado presente en el análisis BET. Además de esto se puede ver que la modificación del área superficial está relacionada con la cantidad de extracto utilizada debido a que la variación de las cantidades usadas para el proceso de síntesis presentan un cambio similar en las propiedades finales. 
 
-
+---
 # Segundo intento 
 
 ## Parte 1. Selección de técnicas de caracterización
@@ -107,9 +107,9 @@ Para estudiar el comportamiento de las nanopartículas dispersas en un líquido 
 
 ### Análisis por FTIR
 
-En los espectros FTIR de las nanopartículas se observan dos bandas principales de absorción, localizadas aproximadamente en 414 cm⁻¹ y 534 cm⁻¹, atribuidas a enlaces Fe–O y Zn–O. No se observan bandas claras por encima de 600 cm⁻¹, lo que sugiere que el proceso de calcinación permitió eliminar los residuos orgánicos en cantidades detectables. Sin embargo, para afirmar de manera concluyente la ausencia total de residuos conviene complementar con otras técnicas, como Raman, TGA o análisis elemental.
+En los espectros FTIR de las nanopartículas se observan dos bandas principales de absorción, localizadas aproximadamente en 414 $cm^{-1}$ y 534 $cm^{-1}$, atribuidas a enlaces Fe–O y Zn–O. No se observan bandas claras por encima de 600 $cm^{-1}$, lo que sugiere que el proceso de calcinación permitió eliminar los residuos orgánicos en cantidades detectables. Sin embargo, para afirmar de manera concluyente la ausencia total de residuos conviene complementar con otras técnicas, como Raman, TGA o análisis elemental.
 
-En cuanto a las diferencias entre muestras, se aprecia que a menor concentración del extracto orgánico la banda cercana a 534 cm⁻¹ se vuelve más notoria. Esta variación podría relacionarse con cambios en el entorno de coordinación o en la proporción de fases presentes, pero no puede atribuirse únicamente al FTIR. De manera similar, una posible disminución de la cristalinidad no puede confirmarse solo con esta técnica; para ello sería necesario analizar los patrones de DRX y complementar la interpretación con los resultados morfológicos y estructurales.
+En cuanto a las diferencias entre muestras, se aprecia que a menor concentración del extracto orgánico la banda cercana a 534 $cm^{-1}$ se vuelve más notoria. Esta variación podría relacionarse con cambios en el entorno de coordinación o en la proporción de fases presentes, pero no puede atribuirse únicamente al FTIR. De manera similar, una posible disminución de la cristalinidad no puede confirmarse solo con esta técnica; para ello sería necesario analizar los patrones de DRX y complementar la interpretación con los resultados morfológicos y estructurales.
 
 ### Análisis morfológico y elemental
 
