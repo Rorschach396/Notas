@@ -40,7 +40,7 @@ En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a d
 
 ## Análisis por difracción de rayos X 
 
-
+En el caso del espectro de difracción de rayos X (DRX) se puede realizar un análisis utilizando las formulas presentes en ==especificar que formulas se utilizaron ya en el latex==, gracias a este análisis se puede encontrar que el tamaño promedio de cristalito presente en las muestras, este tamaño está presente en las tabla ==🔴Colocar la referencia de la tabla==. 
 
 ## Análisis morfológico y elemental 
 
