@@ -60,3 +60,4 @@ En este caso se puede ver que las nanopartículas sintetizadas presentan un camb
 
 ### Análisis de la distribución elemental
 
+En el caso del mapeo elemental, se puede observar que en las muestras analizadas se puede encontrar hierro, zinc y oxígeno distribuido de forma homogénea en las partículas, esto permite 
