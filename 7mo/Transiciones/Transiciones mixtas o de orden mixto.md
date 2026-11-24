@@ -36,3 +36,5 @@ En este caso se puede ver que la función tiene ambos comportamientos (tanto el 
 $$
 \zeta \propto |T-T_{c}|^{-v}
 $$
+
+
