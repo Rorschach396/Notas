@@ -41,4 +41,5 @@ $$
 ## Transformaciones de fase Mixtas en materiales pero ya por el doc 
 
 - Tienen el proceso difusional o adifusional 
+- Puede ocurrir una después de la otra o las dos al mismo tiempo 
 - 
