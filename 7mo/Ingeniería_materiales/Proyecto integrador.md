@@ -42,6 +42,12 @@ En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a d
 
 En el caso del espectro de difracción de rayos X (DRX) se puede realizar un análisis utilizando las formulas presentes en ==especificar que formulas se utilizaron ya en el latex==, gracias a este análisis se puede encontrar que el tamaño promedio de cristalito presente en las muestras, este tamaño está presente en las tabla ==🔴Colocar la referencia de la tabla==. 
 
+| ZF0.010   | ZF0.020    | ZF0.030    |
+| --------- | ---------- | ---------- |
+| 9.8538 nm | 11.3384 nm | 12.8720 nm |
+Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta una 
+
+
 ## Análisis morfológico y elemental 
 
 En el caso de la morfología de la partícula presente en las micrografías HR-TEM, se puede observar una morfología diversa, la cual consta de figuras relativamente regulares, aunque si se percibe un posible cambio en los tamaños de partícula, esto se puede ver mejor en las partículas que se obtuvieron con una mayor cantidad del extracto, esto es más visible en las gráficas de los tamaños, donde a bajas concentraciones del extracto se puede ver que el tamaño de las partículas es mayor a comparación de las partículas que tienen una mayor cantidad de extracto. Otro aspecto que se vio modificado es la aglomeración, ya que al aumentar la cantidad de extracto utilizado en el proceso de síntesis se puede ver un aumento en la aglomeración de las partículas. 
