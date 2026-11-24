@@ -67,3 +67,7 @@ Gracias al mapeo elemental se puede ver que se tuvo una reacción homogénea, la
 ### Análisis de área superficial por BET 
 
 En el caso del análisis de fisisorción de nitrógeno, se puede encontrar que al momento de aumentar la concentración del extracto orgánico se obtiene un aumento en los valores obtenidos a partir del análisis BET, esto se ve claramente en el área superficial obtenida por parte del análisis, donde gracias a este análisis se puede encontrar que la muestra que muestra una mayor superficie es la muestra que contiene una mayor cantidad del extracto, esto se puede deber al tamaño de partícula. Debido a que, como se vio en el punto anterior, se tienen nanopartículas de menor tamaño, se puede encontrar que al momento de reducir el tamaño de las nanopartículas estas aumentan el área superficial de las mismas, dando como resultado que se pueda obtener el resultado presente en el análisis BET. Además de esto se puede ver que la modificación del área superficial está relacionada con la cantidad de extracto utilizada debido a que la variación de las cantidades usadas para el proceso de síntesis presentan un cambio similar en las propiedades finales. 
+
+
+# Segundo intento 
+
