@@ -45,3 +45,5 @@ $$
 - Combina aspectos de los mecanismos de difusión y desplazamiento 
 - Presenta una interfaz semicoherente
 - Este proceso requiere de temperatura 
+- La temperatura va de 250°C  y 550°C
+- 
