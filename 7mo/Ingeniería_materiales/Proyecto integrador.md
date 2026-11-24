@@ -71,3 +71,76 @@ En el caso del análisis de fisisorción de nitrógeno, se puede encontrar que a
 
 # Segundo intento 
 
+## Parte 1. Selección de técnicas de caracterización
+
+### Situación 1
+
+Para identificar la posible presencia de contaminantes orgánicos en las muestras se pueden emplear principalmente dos técnicas: espectroscopia Raman y FTIR. La espectroscopia Raman permite obtener información sobre las vibraciones moleculares y los grupos funcionales mediante la dispersión inelástica de la luz; de esta forma, es posible reconocer enlaces característicos como C–H, C–C, C–O y, cuando están presentes, C–N, N–H, S–H o C–S, además de enlaces metal–oxígeno. Cabe señalar que no todas las moléculas orgánicas contienen nitrógeno o azufre, por lo que la interpretación debe hacerse a partir de las señales observadas y no de una suposición general.
+
+Por su parte, la espectroscopia FTIR se basa en la absorción de radiación infrarroja por los enlaces moleculares y también permite identificar grupos funcionales presentes en moléculas orgánicas. La combinación de Raman y FTIR resulta útil porque son técnicas complementarias: permiten detectar residuos orgánicos procedentes del extracto vegetal que no hayan sido eliminados durante la calcinación y, con ello, evaluar la eficiencia del tratamiento térmico.
+
+### Situación 2
+
+La técnica principal para determinar el parámetro de red, el volumen de la celda unitaria, el tamaño de los dominios cristalinos y la posible presencia de fases secundarias es la difracción de rayos X (DRX). A partir de la posición, la intensidad y la anchura de los picos de difracción es posible obtener información sobre la estructura cristalina. Mediante la comparación con bases de datos cristalográficas se pueden identificar las fases presentes y detectar posibles impurezas o fases secundarias. Además, con la ley de Bragg se pueden calcular las distancias interplanares y los parámetros de red, mientras que, a partir del ensanchamiento de los picos y con modelos como Scherrer o Williamson-Hall, se puede estimar el tamaño de cristalito y las microdeformaciones.
+
+Conviene precisar que la morfología no es el factor principal que modifica los picos de DRX; lo que principalmente influye es la fase cristalina, el tamaño de cristalito, la microdeformación y la orientación preferencial. Como técnica adicional para corroborar la identificación del material, se puede emplear FTIR o Raman, ya que permiten identificar modos de vibración característicos, incluidos enlaces metal–oxígeno, y complementar la información estructural.
+
+### Situación 3
+
+Para determinar las características de las nanopartículas se pueden utilizar HR-TEM y SEM. La HR-TEM permite observar el tamaño, la forma, la distribución de tamaños, el grado de aglomeración, las distancias interplanares y los patrones de difracción de electrones de área seleccionada (SAED). La SEM permite complementar la información morfológica y topográfica, así como evaluar la distribución y el grado de aglomeración de las partículas. Adicionalmente, la espectroscopia de energía dispersiva de rayos X (EDS) acoplada al microscopio permite identificar los elementos presentes y conocer su distribución espacial en la muestra.
+
+### Situación 4
+
+Para estudiar la interacción de las muestras con la radiación incidente se recomienda la espectroscopia UV-Vis. Esta técnica permite medir la absorción y/o la reflectancia de la muestra en el intervalo ultravioleta-visible. En el caso de muestras en polvo, se puede emplear el modo de reflectancia difusa. A partir de estos resultados se puede determinar el coeficiente de absorción y, posteriormente, estimar el band gap o brecha de energía del material.
+
+### Situación 5
+
+Para analizar la superficie del sólido disponible para interactuar con las moléculas se puede emplear la fisisorción de gases junto con el método BET. Esta técnica permite determinar el área superficial específica por unidad de masa de la muestra. Comúnmente se utiliza nitrógeno como gas adsorbato, y las mediciones suelen realizarse a 77 K. Si el material presenta porosidad, también se puede obtener información adicional sobre el área de poros y su distribución.
+
+### Situación 6
+
+Para estudiar el comportamiento de las nanopartículas dispersas en un líquido se puede utilizar la dispersión dinámica de luz (DLS) combinada con la medición del potencial zeta. La DLS permite estimar el tamaño hidrodinámico aparente de las partículas en un medio determinado y obtener una distribución de tamaños, lo que ayuda a identificar si existen diferentes poblaciones. El potencial zeta permite evaluar la carga electrocinética superficial y la estabilidad de la suspensión en función del medio dispersante.
+
+---
+
+## Parte 2. Interpretación de resultados
+
+### Análisis por FTIR
+
+En los espectros FTIR de las nanopartículas se observan dos bandas principales de absorción, localizadas aproximadamente en 414 cm⁻¹ y 534 cm⁻¹, atribuidas a enlaces Fe–O y Zn–O. No se observan bandas claras por encima de 600 cm⁻¹, lo que sugiere que el proceso de calcinación permitió eliminar los residuos orgánicos en cantidades detectables. Sin embargo, para afirmar de manera concluyente la ausencia total de residuos conviene complementar con otras técnicas, como Raman, TGA o análisis elemental.
+
+En cuanto a las diferencias entre muestras, se aprecia que a menor concentración del extracto orgánico la banda cercana a 534 cm⁻¹ se vuelve más notoria. Esta variación podría relacionarse con cambios en el entorno de coordinación o en la proporción de fases presentes, pero no puede atribuirse únicamente al FTIR. De manera similar, una posible disminución de la cristalinidad no puede confirmarse solo con esta técnica; para ello sería necesario analizar los patrones de DRX y complementar la interpretación con los resultados morfológicos y estructurales.
+
+### Análisis morfológico y elemental
+
+En las micrografías HR-TEM se observa una morfología diversa, constituida por figuras relativamente regulares, aunque se aprecia un posible cambio en el tamaño de partícula. Este efecto es más visible en las muestras obtenidas con mayor cantidad de extracto: a bajas concentraciones del extracto, el tamaño de partícula es mayor en comparación con las muestras que contienen una mayor cantidad de extracto. Otro aspecto que se modifica es la aglomeración, ya que al aumentar la cantidad de extracto utilizado en la síntesis se observa un aumento en la aglomeración de las partículas.
+
+A partir de los patrones SAED se identificaron los planos cristalográficos de cada muestra. Estos planos coinciden con las reflexiones observadas por DRX cuando se comparan los mismos índices _(hkl)_. La comparación corregida se muestra en la siguiente tabla; se corrige el rótulo ZF0.010 por ZF0.015 y se comparan los mismos planos entre SAED y DRX. Los planos (533) y (444) también aparecen en los patrones SAED, pero no se incluyeron en la tabla de DRX empleada, por lo que se indican con “—”.
+
+
+| ZF0.015 | DRX | ZF0.020 | DRX | ZF0.030 | DRX |
+| ------- | --- | ------- | --- | ------- | --- |
+| 111     | 111 | 111     | 111 | 111     | 111 |
+| 220     | 220 | 220     | 220 | 220     | 220 |
+| 311     | 311 | 311     | 311 | 311     | 311 |
+| 222     | 222 | 222     | 222 | 222     | 222 |
+| 400     | 400 | 400     | 400 | 400     | 400 |
+| 422     | 422 | 422     | 422 | 422     | 422 |
+| 511     | 511 | 511     | 511 | 511     | 511 |
+| 440     | 400 | 440     | 400 | 440     | 400 |
+| 533     | --  | 533     | --  | 533     | --  |
+| 444     | --  | 444     | --  | 444     | --  |
+
+
+En conjunto, las nanopartículas sintetizadas presentan cambios tanto en su aglomeración como en su tamaño, atribuidos a la concentración del extracto orgánico utilizado durante la síntesis. El cambio en las dimensiones puede explicarse porque una mayor cantidad de extracto proporciona más sitios que favorecen la nucleación y la reacción, lo que puede conducir a partículas de menor tamaño en comparación con las síntesis realizadas con menor cantidad de extracto. El aumento de la aglomeración al incrementar la cantidad de extracto podría deberse a una modificación de las propiedades superficiales de las nanopartículas, lo que alteraría la forma en que estas interactúan entre sí.
+
+#### Análisis de la distribución elemental
+
+En los mapeos elementales se observa que las muestras analizadas contienen hierro, zinc y oxígeno distribuidos de forma homogénea en las partículas, lo que es consistente con la formación de nanopartículas de ZnFe₂O₄. Cualitativamente, las tres muestras presentan una distribución similar de los elementos, aunque en la muestra ZF0.015 se aprecia un cambio en el mapeo de hierro; este cambio podría deberse a una rotación accidental de la muestra durante el análisis o a la variación en la concentración del extracto orgánico.
+
+El mapeo elemental indica que la reacción fue homogénea y que se obtuvo una combinación de los elementos utilizados en la síntesis. No obstante, la ausencia de señales evidentes de contaminación no debe interpretarse por sí sola como una eliminación total de residuos orgánicos, ya que el EDS tiene limitaciones para detectar elementos ligeros y trazas. Para confirmar la eliminación de residuos orgánicos sería recomendable complementar con FTIR, Raman o análisis elemental.
+
+#### Análisis de área superficial por BET
+
+En el análisis de fisisorción de nitrógeno se observa que, al aumentar la concentración del extracto orgánico, aumentan los valores obtenidos mediante el método BET. La muestra con mayor cantidad de extracto presenta la mayor área superficial específica. Este resultado es coherente con el menor tamaño de partícula observado por HR-TEM, ya que al reducirse el tamaño de las nanopartículas aumenta el área superficial por unidad de masa. Además, la modificación del área superficial está relacionada con la cantidad de extracto utilizada, pues las variaciones en las condiciones de síntesis producen cambios similares en las propiedades finales del material.
+
