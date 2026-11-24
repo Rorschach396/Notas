@@ -56,3 +56,4 @@ En el caso del patrón SAED se puede obtener los siguientes planos en cada una d
 | 533     | 511 | 533     | 511 | 533     | 511 |
 | 444     | 440 | 444     | 440 | 444     | 440 |
 
+En este caso se puede ver que las nanopartículas sintetizadas 
