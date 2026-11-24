@@ -56,4 +56,4 @@ En el caso del patrón SAED se puede obtener los siguientes planos en cada una d
 | 533     | 511 | 533     | 511 | 533     | 511 |
 | 444     | 440 | 444     | 440 | 444     | 440 |
 
-En este caso se puede ver que las nanopartículas sintetizadas 
+En este caso se puede ver que las nanopartículas sintetizadas presentan un cambio tanto en su aglomeración como en los tamaños, este cambio es atribuido a el cambio de concentración del extracto orgánico utilizado para realizar la síntesis, pero como tal no se tiene una 
