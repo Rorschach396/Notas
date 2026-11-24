@@ -42,4 +42,6 @@ $$
 
 - Tienen el proceso difusional o adifusional 
 - Puede ocurrir una después de la otra o las dos al mismo tiempo 
-- 
+- Combina aspectos de los mecanismos de difusión y desplazamiento 
+- Presenta una interfaz semicoherente
+- Este proceso requiere de temperatura 
