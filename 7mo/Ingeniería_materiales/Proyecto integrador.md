@@ -131,8 +131,6 @@ A partir de los patrones SAED se identificaron los planos cristalográficos de c
 | 533          | --- | 533          | --- | 533          | --- |
 | 444          | --- | 444          | --- | 444          | --- |
 
-
-
 En conjunto, las nanopartículas sintetizadas presentan cambios tanto en su aglomeración como en su tamaño, atribuidos a la concentración del extracto orgánico utilizado durante la síntesis. El cambio en las dimensiones puede explicarse porque una mayor cantidad de extracto proporciona más sitios que favorecen la nucleación y la reacción, lo que puede conducir a partículas de menor tamaño en comparación con las síntesis realizadas con menor cantidad de extracto. El aumento de la aglomeración al incrementar la cantidad de extracto podría deberse a una modificación de las propiedades superficiales de las nanopartículas, lo que alteraría la forma en que estas interactúan entre sí.
 
 #### Análisis de la distribución elemental
