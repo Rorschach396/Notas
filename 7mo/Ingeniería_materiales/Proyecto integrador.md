@@ -58,4 +58,5 @@ En el caso del patrón SAED se puede obtener los siguientes planos en cada una d
 
 En este caso se puede ver que las nanopartículas sintetizadas presentan un cambio tanto en su aglomeración como en los tamaños, este cambio es atribuido a el cambio de concentración del extracto orgánico utilizado para realizar la síntesis; este cambio puede ser causado por diferentes motivos; el principal motivo por el cual se pudo causar el cambio en las dimensiones de las nanopartículas está relacionado con la concentración de extracto que se utilizó, esto debido a que, al aumentar la cantidad de extracto que se utilizó se permitiría obtener una mayor cantidad de sitios que puedan permitir una reacción dando como resultado que se pueda obtener una partícula de menor tamaño a comparación de las reacciones donde se utilizó una menor cantidad de extracto. En el caso de la aglomeración que se presenta al momento de aumentar la cantidad de extracto utilizado, esta puede ser causada por una modificación de las propiedades superficiales de las nanopartículas, lo que generaría un cambio en la forma en la que interactúan las nanopartículas. 
 
-### Análisis de la di
+### Análisis de la distribución elemental
+
