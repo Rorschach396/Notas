@@ -47,3 +47,4 @@ $$
 - Este proceso requiere de temperatura 
 - La temperatura va de 250°C  y 550°C
 - La bainita superior (400-550°C) y la bainita inferior 
+- %%Are you illiterate, nigga?%%
