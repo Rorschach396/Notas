@@ -54,5 +54,5 @@ En el caso del patrón SAED se puede obtener los siguientes planos en cada una d
 | 511     | 400 | 511     | 400 | 511     | 400 |
 | 440     | 422 | 440     | 422 | 440     | 422 |
 | 533     | 511 | 533     | 511 | 533     | 511 |
-| 444     | 400 | 444     | 400 | 444     | 400 |
+| 444     | 440 | 444     | 440 | 444     | 440 |
 
