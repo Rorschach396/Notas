@@ -118,18 +118,18 @@ En las micrografías HR-TEM se observa una morfología diversa, constituida por 
 A partir de los patrones SAED se identificaron los planos cristalográficos de cada muestra. Estos planos coinciden con las reflexiones observadas por DRX cuando se comparan los mismos índices _(hkl)_. La comparación corregida se muestra en la siguiente tabla; se corrige el rótulo ZF0.010 por ZF0.015 y se comparan los mismos planos entre SAED y DRX. Los planos (533) y (444) también aparecen en los patrones SAED, pero no se incluyeron en la tabla de DRX empleada, por lo que se indican con “—”.
 
 
-| ZF0.015 | DRX | ZF0.020 | DRX | ZF0.030 | DRX |
-| ------- | --- | ------- | --- | ------- | --- |
-| 111     | 111 | 111     | 111 | 111     | 111 |
-| 220     | 220 | 220     | 220 | 220     | 220 |
-| 311     | 311 | 311     | 311 | 311     | 311 |
-| 222     | 222 | 222     | 222 | 222     | 222 |
-| 400     | 400 | 400     | 400 | 400     | 400 |
-| 422     | 422 | 422     | 422 | 422     | 422 |
-| 511     | 511 | 511     | 511 | 511     | 511 |
-| 440     | 400 | 440     | 400 | 440     | 400 |
-| 533     | --  | 533     | --  | 533     | --  |
-| 444     | --  | 444     | --  | 444     | --  |
+| ZF0.015 | DRX | ZF0.020 | DRX | ZF0.030 | DRX |     |
+| ------- | --- | ------- | --- | ------- | --- | --- |
+| 111     | 111 | 111     | 111 | 111     | 111 | 111 |
+| 220     | 220 | 220     | 220 | 220     | 220 | 220 |
+| 311     | 311 | 311     | 311 | 311     | 311 | 311 |
+| 222     | 222 | 222     | 222 | 222     | 222 | 400 |
+| 400     | 400 | 400     | 400 | 400     | 400 | 422 |
+| 422     | 422 | 422     | 422 | 422     | 422 | 511 |
+| 511     | 511 | 511     | 511 | 511     | 511 | 440 |
+| 440     | 400 | 440     | 400 | 440     | 400 | 533 |
+| 533     | --  | 533     | --  | 533     | --  | 444 |
+| 444     | --  | 444     | --  | 444     | --  |     |
 
 
 En conjunto, las nanopartículas sintetizadas presentan cambios tanto en su aglomeración como en su tamaño, atribuidos a la concentración del extracto orgánico utilizado durante la síntesis. El cambio en las dimensiones puede explicarse porque una mayor cantidad de extracto proporciona más sitios que favorecen la nucleación y la reacción, lo que puede conducir a partículas de menor tamaño en comparación con las síntesis realizadas con menor cantidad de extracto. El aumento de la aglomeración al incrementar la cantidad de extracto podría deberse a una modificación de las propiedades superficiales de las nanopartículas, lo que alteraría la forma en que estas interactúan entre sí.
