@@ -60,4 +60,6 @@ En este caso se puede ver que las nanopartículas sintetizadas presentan un camb
 
 ### Análisis de la distribución elemental
 
-En el caso del mapeo elemental, se puede observar que en las muestras analizadas se puede encontrar hierro, zinc y oxígeno distribuido de forma homogénea en las partículas, esto permite 
+En el caso del mapeo elemental, se puede observar que en las muestras analizadas se puede encontrar hierro, zinc y oxígeno distribuido de forma homogénea en las partículas, esto comprueba que se obtuvieron nanopartículas de $ZnFe_{3}O_{4}$. De forma cualitativa se puede ver que en las 3 muestras se logró obtener una distribución similar de los átomos, aunque se puede ver que en la muestra ZF0.015 se tiene un cambio en el mapeo de hierro, este cambio puede ser atribuido a una posible rotación accidental de la muestra o puede ser debido a el cambio en la concentración del extracto orgánico. 
+
+En el caso anterior 
