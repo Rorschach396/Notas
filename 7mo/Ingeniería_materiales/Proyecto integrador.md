@@ -62,4 +62,7 @@ En este caso se puede ver que las nanopartículas sintetizadas presentan un camb
 
 En el caso del mapeo elemental, se puede observar que en las muestras analizadas se puede encontrar hierro, zinc y oxígeno distribuido de forma homogénea en las partículas, esto comprueba que se obtuvieron nanopartículas de $ZnFe_{3}O_{4}$. De forma cualitativa se puede ver que en las 3 muestras se logró obtener una distribución similar de los átomos, aunque se puede ver que en la muestra ZF0.015 se tiene un cambio en el mapeo de hierro, este cambio puede ser atribuido a una posible rotación accidental de la muestra o puede ser debido a el cambio en la concentración del extracto orgánico. 
 
-Gracias al mapeo elemental se puede encontrar 
+Gracias al mapeo elemental se puede ver que se tuvo una reacción homogénea, la cual obtuvo una combinación completa de los elementos utilizados para realizar el proceso de síntesis, además de esto se puede comprobar que no se tiene una contaminación por parte del material orgánico utilizado para realizar el proceso de síntesis, por lo que se comprueba que el proceso de calcinación pudo eliminar completamente cualquier reactivo orgánico utilizado durante el proceso de síntesis. 
+
+### Análisis de área superficial por BET 
+
