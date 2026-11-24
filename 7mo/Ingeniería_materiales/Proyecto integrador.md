@@ -38,6 +38,10 @@ En el caso del espectro FITR presentado de las nanopartículas, se puede ver que
 
 En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a diversos motivos, entre los cuales se puede incluir la diminución de la cristalinidad presente en la nanopartícula, esto puede ser atribuido al cambio de la concentración del extracto orgánico, pero no se puede afirmar solo haciendo uso de la información proporcionada por este análisis, para poder corroborarlo de forma total es necesario analizar a mayor profundidad las nanopartículas para poder obtener información más precisa. 
 
+## Análisis por difracción de rayos X 
+
+
+
 ## Análisis morfológico y elemental 
 
 En el caso de la morfología de la partícula presente en las micrografías HR-TEM, se puede observar una morfología diversa, la cual consta de figuras relativamente regulares, aunque si se percibe un posible cambio en los tamaños de partícula, esto se puede ver mejor en las partículas que se obtuvieron con una mayor cantidad del extracto, esto es más visible en las gráficas de los tamaños, donde a bajas concentraciones del extracto se puede ver que el tamaño de las partículas es mayor a comparación de las partículas que tienen una mayor cantidad de extracto. Otro aspecto que se vio modificado es la aglomeración, ya que al aumentar la cantidad de extracto utilizado en el proceso de síntesis se puede ver un aumento en la aglomeración de las partículas. 
