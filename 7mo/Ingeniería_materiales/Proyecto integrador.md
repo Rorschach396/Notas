@@ -45,7 +45,7 @@ En el caso del espectro de difracción de rayos X (DRX) se puede realizar un an�
 | ZF0.010   | ZF0.020    | ZF0.030    |
 | --------- | ---------- | ---------- |
 | 9.8538 nm | 11.3384 nm | 12.8720 nm |
-Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta una 
+Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta un aumento en el tamaño de la cristalita. Debido al cambio de cristalita se puede encontrar que  
 
 
 ## Análisis morfológico y elemental 
