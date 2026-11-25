@@ -45,7 +45,7 @@ En el caso del espectro de difracción de rayos X (DRX) se puede realizar un an�
 | ZF0.010   | ZF0.020    | ZF0.030    |
 | --------- | ---------- | ---------- |
 | 9.8538 nm | 11.3384 nm | 12.8720 nm |
-Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta un aumento en el tamaño de la cristalita. Debido al cambio de cristalita se puede encontrar que  
+Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta un aumento en el tamaño de la cristalita. A pesar de que se tienen estas modificaciones, esto no quiere decir que las partículas no sean puras, esto debido a que el patrón de difracción de rayos X no puede indicar por si solo si se tiene una contaminación; debido a esto se considera que es necesario realizar más análisis para poder determinar si la modificación en el tamaño y los parámetros de red obtenidos por parte del patrón de DRX se debe a un contaminante o solo a un cambio de fase. 
 
 
 ## Análisis morfológico y elemental 
