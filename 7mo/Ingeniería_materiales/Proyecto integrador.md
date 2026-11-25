@@ -40,13 +40,7 @@ En el caso del pico presente en 534 $cm^{-1}$, esta variación puede deberse a d
 
 ## Análisis por difracción de rayos X 
 
-En el caso del espectro de difracción de rayos X (DRX) se puede realizar un análisis utilizando las formulas presentes en ==especificar que formulas se utilizaron ya en el latex==, gracias a este análisis se puede encontrar que el tamaño promedio de cristalito presente en las muestras, este tamaño está presente en las tabla ==🔴Colocar la referencia de la tabla==. 
-
-| ZF0.010   | ZF0.020    | ZF0.030    |
-| --------- | ---------- | ---------- |
-| 9.8538 nm | 11.3384 nm | 12.8720 nm |
-Debido a esto se puede encontrar que al variar la cantidad de extracto orgánico utilizado en el proceso de síntesis, este presenta un aumento en el tamaño de la cristalita. A pesar de que se tienen estas modificaciones, esto no quiere decir que las partículas no sean puras, esto debido a que el patrón de difracción de rayos X no puede indicar por si solo si se tiene una contaminación; debido a esto se considera que es necesario realizar más análisis para poder determinar si la modificación en el tamaño y los parámetros de red obtenidos por parte del patrón de DRX se debe a un contaminante o solo a un cambio de fase. 
-
+En el caso del patrón de difracción de rayos X (DRX), el análisis se realizó utilizando las las expresiones matemáticas presentes en la ecuación ==Especificar la ecuación con el \ref==, en el caso de la ley de Bragg se consideró n = 1, $\lambda$ = 1.54056 $\AA$ y $\theta$ se consideró como el ángulo de difracción. En el caso de la distancia interplanar, esta se calculó con ayuda de la ecuación presente en 
 
 ## Análisis morfológico y elemental 
 
