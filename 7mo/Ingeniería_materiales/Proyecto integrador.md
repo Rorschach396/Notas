@@ -147,7 +147,7 @@ En conjunto, las nanopartículas sintetizadas presentan cambios tanto en su aglo
 
 #### Análisis de la distribución elemental
 
-En los mapeos elementales se observa que las muestras analizadas contienen hierro, zinc y oxígeno distribuidos de forma homogénea en las partículas, lo que es consistente con la formación de nanopartículas de ZnFe₂O₄. Cualitativamente, las tres muestras presentan una distribución similar de los elementos, aunque en la muestra ZF0.015 se aprecia un cambio en el mapeo de hierro; este cambio podría deberse a una rotación accidental de la muestra durante el análisis o a la variación en la concentración del extracto orgánico.
+En los mapeos elementales se observa que las muestras analizadas contienen hierro, zinc y oxígeno distribuidos de forma homogénea en las partículas, lo que es consistente con la formación de nanopartículas de $ZnFe_{2}O_{4}$. Cualitativamente, las tres muestras presentan una distribución similar de los elementos, aunque en la muestra ZF0.015 se aprecia un cambio en el mapeo de hierro; este cambio podría deberse a una rotación accidental de la muestra durante el análisis o a la variación en la concentración del extracto orgánico.
 
 El mapeo elemental indica que la reacción fue homogénea y que se obtuvo una combinación de los elementos utilizados en la síntesis. No obstante, la ausencia de señales evidentes de contaminación no debe interpretarse por sí sola como una eliminación total de residuos orgánicos, ya que el EDS tiene limitaciones para detectar elementos ligeros y trazas. Para confirmar la eliminación de residuos orgánicos sería recomendable complementar con FTIR, Raman o análisis elemental.
 
