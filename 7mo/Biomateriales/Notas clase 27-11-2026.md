@@ -4,4 +4,5 @@
 - Es un sinónimo de material biomédico 
 - Se pueden hacer cosas muy aplicadas o relativamente diversas 
 - Los últimos dos papers están relacionados con procedimientos terapéuticos 
-- Principalmente la ingeniería de 
+- Principalmente la ingeniería de tejidos está enfocada en la replicación de la piel humana y el higado  
+- 
