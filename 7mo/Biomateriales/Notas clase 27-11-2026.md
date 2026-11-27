@@ -15,4 +15,5 @@
 - PG, el catecol es un benceno con dos grupos OH, esta cosa es extremadamente adherente y esto se da por que se pueden apilar las proteínas 
 - Moléculas que tienen una interacción específica con las integrinas 
 - Lo "lógico" es que las células nunca van a estar en contacto directo con el agua 
-- 
+- Las células mesenquimales pueden dar lugar a un vergomadral de cosas 
+- ChiggasMiggasRiggasJiggasPuggas
