@@ -5,4 +5,5 @@
 - Se pueden hacer cosas muy aplicadas o relativamente diversas 
 - Los últimos dos papers están relacionados con procedimientos terapéuticos 
 - Principalmente la ingeniería de tejidos está enfocada en la replicación de la piel humana y el hígado 
-- Como tal no hay cancer en el coraz
+- Como tal no hay cancer en el corazón 
+- 
