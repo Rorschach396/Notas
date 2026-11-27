@@ -13,4 +13,6 @@
 - Estado muy temprano de diferenciación para poder aumentar la vida media del tejido 
 - Ya no solo se busca un andamio, ahora se busca poder obtener un material que pueda evolucionar y mejorar 
 - PG, el catecol es un benceno con dos grupos OH, esta cosa es extremadamente adherente y esto se da por que se pueden apilar las proteínas 
+- Moléculas que tienen una interacción específica con las integrinas 
+- Lo "lógico" es que las células nunca van a estar en contacto directo con el agua 
 - 
