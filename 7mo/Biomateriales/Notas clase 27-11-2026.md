@@ -11,4 +11,5 @@
 - Reparar un sistema que tarda mucho en repararse o reparar un sistema que tarda un vergo en repararse o mejorar un sistema que esta bien 
 - China intentó hacer una edición genética para evitar el VIH (video de la jellyfish)
 - Estado muy temprano de diferenciación para poder aumentar la vida media del tejido 
+- Ya no solo se busca un andamio, ahora se busca poder obtener un material que pueda evolucionar y mejorar 
 - 
