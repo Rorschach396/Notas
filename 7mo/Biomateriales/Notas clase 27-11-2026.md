@@ -6,4 +6,9 @@
 - Los últimos dos papers están relacionados con procedimientos terapéuticos 
 - Principalmente la ingeniería de tejidos está enfocada en la replicación de la piel humana y el hígado 
 - Como tal no hay cancer en el corazón 
+- Dependen de un andamio para que las células puedan vivir en el mismo y puedan proliferar 
+- Depende del cultivo celular para después integrarla en un andamio que después termina en el paciente 
+- Reparar un sistema que tarda mucho en repararse o reparar un sistema que tarda un vergo en repararse o mejorar un sistema que esta bien 
+- China intentó hacer una edición genética para evitar el VIH (video de la jellyfish)
+- Estado muy temprano de diferenciación para poder aumentar la vida media del tejido 
 - 
