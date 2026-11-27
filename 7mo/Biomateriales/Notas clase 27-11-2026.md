@@ -16,4 +16,4 @@
 - Moléculas que tienen una interacción específica con las integrinas 
 - Lo "lógico" es que las células nunca van a estar en contacto directo con el agua 
 - Las células mesenquimales pueden dar lugar a un vergomadral de cosas 
-- ChiggasMiggasRiggasJiggasPuggas
+- Las proteínas se ven afectadas durisimo por la 
