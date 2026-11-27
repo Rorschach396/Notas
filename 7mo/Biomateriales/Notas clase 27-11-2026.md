@@ -31,4 +31,5 @@
 - Nigga check that hoe 
 - brake your self nigga 
 - DAMN. 
+- Retomar de que se trata la clase, ver que tenemos dudas y entonces proponer una presentación para poder preguntar qpdo con todo en todo momento se tiene que ver qpdo con todo y estudiar para poder tener una posible respuesta para las preguntas 
 - 
