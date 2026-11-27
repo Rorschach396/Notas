@@ -17,4 +17,17 @@
 - Lo "lógico" es que las células nunca van a estar en contacto directo con el agua 
 - Las células mesenquimales pueden dar lugar a un vergomadral de cosas 
 - Las proteínas se ven afectadas durísimo por la rugosidad 
+- Las proteínas no se pueden atorar en los poros del material 
+- Los biólogos utilizan más la estadística que los estadísticos 
+- Entre más aumenta la rugosidad, más se sienten las células 
+- Que tan diferentes se vuelven las células dependiendo del medio/rugosidad 
+- es prometedor esa madre 
+- Jiji jaja 
+- Juijiri juajiri 
+- he calls me nigga 
+- he calls the other kids nigga 
+- he calls himself nigga
+- Nigga you bullshiting 
+- Nigga check that hoe 
+- brake your self nigga 
 - 
