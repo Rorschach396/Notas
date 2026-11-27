@@ -30,4 +30,5 @@
 - Nigga you bullshiting 
 - Nigga check that hoe 
 - brake your self nigga 
+- DAMN. 
 - 
