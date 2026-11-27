@@ -3,4 +3,5 @@
 - Definición chida: Un material diseñado de tal forma que pueda dirigir, a través de la interacción con el sistema vivo, el curso de cualquier procedimiento de diagnostico o tratamiento 
 - Es un sinónimo de material biomédico 
 - Se pueden hacer cosas muy aplicadas o relativamente diversas 
+- Los últimos dos papers están relacionados con procedimientos terapéuticos 
 - 
