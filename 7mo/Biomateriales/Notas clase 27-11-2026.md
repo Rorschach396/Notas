@@ -12,4 +12,5 @@
 - China intentó hacer una edición genética para evitar el VIH (video de la jellyfish)
 - Estado muy temprano de diferenciación para poder aumentar la vida media del tejido 
 - Ya no solo se busca un andamio, ahora se busca poder obtener un material que pueda evolucionar y mejorar 
+- PG, el catecol es un benceno con dos grupos OH, esta cosa es extremadamente adherente y esto se da por que se pueden apilar las proteínas 
 - 
